@@ -533,3 +533,28 @@
 * 【2025-11-06】[kakoni / awesome-healthcare](https://github.com/kakoni/awesome-healthcare) - Curated list of awesome open source healthcare software, libraries, tools and resources.
 * 【2025-11-02】[seapear / AffinityOnLinux](https://github.com/seapear/AffinityOnLinux) - A repository that helps users get affinity software working on GNU/Linux 🐧
 * 【2025-11-01】[PCJones / usenet-guide](https://github.com/PCJones/usenet-guide) - Ein deutscher Einsteiger-Guide für das Usenet
+## Jupyter-notebook
+
+* 【2026-02-02】[rasbt / reasoning-from-scratch](https://github.com/rasbt/reasoning-from-scratch) - Implement a reasoning LLM in PyTorch from scratch, step by step
+* 【2026-02-02】[alirezadir / Machine-Learning-Interviews](https://github.com/alirezadir/Machine-Learning-Interviews) - This repo is meant to serve as a guide for Machine Learning/AI technical interviews.
+* 【2026-02-02】[esokolov / ml-course-hse](https://github.com/esokolov/ml-course-hse) - Машинное обучение на ФКН ВШЭ
+* 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
+## Typescript
+
+* 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
+## Rust
+
+* 【2026-02-02】[get-convex / convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
+* 【2026-02-02】[pop-os / cosmic-comp](https://github.com/pop-os/cosmic-comp) - Compositor for the COSMIC desktop environment
+* 【2026-02-02】[cloudflare / quiche](https://github.com/cloudflare/quiche) - 🥧 Savoury implementation of the QUIC transport protocol and HTTP/3
+* 【2026-02-02】[khcrysalis / Impactor](https://github.com/khcrysalis/Impactor) - WIP feature rich iOS/tvOS sideloading application written in Rust.
+* 【2026-02-02】[Fredolx / open-tv](https://github.com/Fredolx/open-tv) - Ultra-fast, simple and powerful cross-platform IPTV app
+* 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+## Shell
+
+* 【2026-02-02】[home-assistant / addons](https://github.com/home-assistant/addons) - ➕ Docker add-ons for Home Assistant
+* 【2026-02-02】[pystardust / ani-cli](https://github.com/pystardust/ani-cli) - A cli tool to browse and play anime
+* 【2026-02-02】[WildKernels / GKI_KernelSU_SUSFS](https://github.com/WildKernels/GKI_KernelSU_SUSFS) - GKI Kernels with KernelSU & SUSFS
+* 【2026-02-02】[community-scripts / ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition)
+* 【2026-02-02】[automazeio / ccpm](https://github.com/automazeio/ccpm) - Project management system for Claude Code using GitHub Issues and Git worktrees for parallel agent execution.
+* 【2026-02-02】[quickemu-project / quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux virtual machines
