@@ -2,11 +2,13 @@
 
 import os
 import datetime
+import re
 import requests
 import urllib.parse
 from pyquery import PyQuery as pq
 import logging
 import time
+from dateutil.relativedelta import relativedelta
 
 def setup_logger():
     """Initialize logger with monthly log file and console output"""
@@ -174,6 +176,185 @@ def get_archived_contents(logger):
     logger.info(f"Loaded {len(archived_files)} archived files for deduplication")
     return archived_contents
 
+def parse_entry_date(line):
+    """从条目行中解析日期
+
+    输入: "* 【2026-01-30】[项目名](URL) - 描述"
+    输出: datetime.date(2026, 1, 30)
+    """
+    match = re.search(r'【(\d{4}-\d{2}-\d{2})】', line)
+    if match:
+        date_str = match.group(1)
+        return datetime.datetime.strptime(date_str, '%Y-%m-%d').date()
+    return None
+
+def find_months_to_archive():
+    """查找从最新归档月份到上个月之间所有需要归档的月份
+
+    返回: ['2025-11', '2025-12', '2026-01'] 形式的列表
+    """
+    # 获取已归档的月份
+    archived_files = os.listdir('./archived')
+    archived_months = []
+    for f in archived_files:
+        if f.endswith('.md'):
+            month_str = f.replace('.md', '')  # '2025-10'
+            archived_months.append(month_str)
+
+    if not archived_months:
+        return []  # 没有归档文件，跳过
+
+    archived_months.sort()
+    latest_archived = archived_months[-1]
+
+    # 计算上个月
+    today = datetime.datetime.now()
+    last_month = today - relativedelta(months=1)
+    last_month_str = last_month.strftime('%Y-%m')
+
+    # 生成需要归档的月份列表
+    months_to_archive = []
+    current = datetime.datetime.strptime(latest_archived, '%Y-%m') + relativedelta(months=1)
+    end = datetime.datetime.strptime(last_month_str, '%Y-%m')
+
+    while current <= end:
+        months_to_archive.append(current.strftime('%Y-%m'))
+        current += relativedelta(months=1)
+
+    return months_to_archive
+
+def extract_entries_by_month(content, target_month):
+    """从 README.md 内容中提取指定月份的所有条目
+
+    返回: {'All language': ['* 【2025-11-30】...', ...], 'Python': [...], ...}
+    """
+    entries_by_lang = {}
+    current_lang = None
+
+    for line in content.split('\n'):
+        # 检测语言分类标题
+        if line.startswith('## '):
+            current_lang = line[3:].strip()
+            continue
+
+        # 检测条目行
+        if line.startswith('* 【') and current_lang:
+            entry_date = parse_entry_date(line)
+            if entry_date:
+                entry_month = entry_date.strftime('%Y-%m')
+                if entry_month == target_month:
+                    if current_lang not in entries_by_lang:
+                        entries_by_lang[current_lang] = []
+                    entries_by_lang[current_lang].append(line)
+
+    return entries_by_lang
+
+def write_archive_file(month, entries_by_lang, logger):
+    """将指定月份的条目写入归档文件"""
+    if not entries_by_lang:
+        logger.info(f"[Archive] No entries for {month}, skipping")
+        return
+
+    filepath = f'./archived/{month}.md'
+
+    # 按照 README.md 中的语言顺序组织内容
+    lang_order = ['All language', 'Java', 'Python', 'Javascript', 'Typescript',
+                  'Go', 'C', 'C++', 'C#', 'Html', 'Css', 'Rust',
+                  'Jupyter-notebook', 'Shell', 'Unknown']
+
+    content_lines = []
+    processed_langs = set()
+
+    for lang in lang_order:
+        if lang in entries_by_lang:
+            content_lines.append(f'## {lang}')
+            content_lines.append('')
+            # 按日期倒序排列(最新的在前)
+            sorted_entries = sorted(entries_by_lang[lang],
+                                   key=lambda x: parse_entry_date(x) or datetime.date.min,
+                                   reverse=True)
+            content_lines.extend(sorted_entries)
+            content_lines.append('')
+            processed_langs.add(lang)
+
+    # 处理未在 lang_order 中的语言
+    for lang, entries in entries_by_lang.items():
+        if lang not in processed_langs:
+            content_lines.append(f'## {lang}')
+            content_lines.append('')
+            sorted_entries = sorted(entries,
+                                   key=lambda x: parse_entry_date(x) or datetime.date.min,
+                                   reverse=True)
+            content_lines.extend(sorted_entries)
+            content_lines.append('')
+
+    content = '\n'.join(content_lines)
+
+    with open(filepath, 'w', encoding='utf-8') as f:
+        f.write(content)
+
+    total_entries = sum(len(v) for v in entries_by_lang.values())
+    logger.info(f"[Archive] Created {filepath} with {total_entries} entries")
+
+def cleanup_readme(content, days_to_keep, logger):
+    """清理 README.md 中超过指定天数的条目"""
+    cutoff_date = datetime.datetime.now().date() - datetime.timedelta(days=days_to_keep)
+
+    new_lines = []
+    removed_count = 0
+    kept_count = 0
+
+    for line in content.split('\n'):
+        # 处理条目行
+        if line.startswith('* 【'):
+            entry_date = parse_entry_date(line)
+            if entry_date and entry_date < cutoff_date:
+                removed_count += 1
+                continue  # 跳过超期条目
+            kept_count += 1
+
+        new_lines.append(line)
+
+    logger.info(f"[Cleanup] Removed {removed_count} old entries (before {cutoff_date}), kept {kept_count}")
+
+    return '\n'.join(new_lines)
+
+def archive_old_entries(logger):
+    """主归档入口函数，在 job() 开始时调用"""
+    logger.info("="*60)
+    logger.info("Archive Check - Started")
+    logger.info("="*60)
+
+    # 1. 查找需要归档的月份
+    months_to_archive = find_months_to_archive()
+
+    if not months_to_archive:
+        logger.info("[Archive] No months need to be archived")
+    else:
+        logger.info(f"[Archive] Months to archive: {months_to_archive}")
+
+        # 2. 读取 README.md
+        with open('README.md', 'r', encoding='utf-8') as f:
+            readme_content = f.read()
+
+        # 3. 对每个月份进行归档
+        for month in months_to_archive:
+            entries = extract_entries_by_month(readme_content, month)
+            write_archive_file(month, entries, logger)
+
+    # 4. 清理超过60天的数据
+    with open('README.md', 'r', encoding='utf-8') as f:
+        readme_content = f.read()
+
+    cleaned_content = cleanup_readme(readme_content, days_to_keep=60, logger=logger)
+
+    with open('README.md', 'w', encoding='utf-8') as f:
+        f.write(cleaned_content)
+
+    logger.info("="*60)
+    logger.info("Archive Check - Completed")
+    logger.info("="*60)
+
 def job():
     ''' Main scraper job with logging and error handling
     '''
@@ -184,6 +365,9 @@ def job():
     logger.info("="*60)
     logger.info("GitHub Trending Scraper - Job Started")
     logger.info("="*60)
+
+    # Archive old entries before scraping
+    archive_old_entries(logger)
 
     # Get archived contents
     archived_contents = get_archived_contents(logger)
