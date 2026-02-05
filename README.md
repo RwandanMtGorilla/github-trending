@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-02-05】[disler / claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
+* 【2026-02-05】[likec4 / likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 * 【2026-02-04】[masoncl / review-prompts](https://github.com/masoncl/review-prompts) - AI review prompts
 * 【2026-02-04】[openai / skills](https://github.com/openai/skills) - Skills Catalog for Codex
 * 【2026-02-04】[vm0-ai / vm0](https://github.com/vm0-ai/vm0) - the easiest way to run natural language-described workflows automatically
@@ -92,8 +94,6 @@
 * 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
 * 【2025-12-08】[BeehiveInnovations / pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 * 【2025-12-07】[anthropics / claude-quickstarts](https://github.com/anthropics/claude-quickstarts) - A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API
-* 【2025-12-06】[sinelaw / fresh](https://github.com/sinelaw/fresh) - Text editor for your terminal: easy, powerful and fast
-* 【2025-12-06】[microsoft / VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 
 ## Java
 
@@ -197,10 +197,6 @@
 * 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 * 【2025-12-10】[wasserth / TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images
 * 【2025-12-08】[DigitalPhonetics / IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Controllable and fast Text-to-Speech for over 7000 languages!
-* 【2025-12-06】[ModelTC / LightX2V](https://github.com/ModelTC/LightX2V) - Light Video Generation Inference Framework
-* 【2025-12-06】[fastapi-practices / fastapi_best_architecture](https://github.com/fastapi-practices/fastapi_best_architecture) - 基于 FastAPI 构建的企业级后端架构解决方案
-* 【2025-12-06】[RosettaCommons / foundry](https://github.com/RosettaCommons/foundry) - Central repository for biomolecular foundation models with shared trainers and pipeline components
-* 【2025-12-06】[github / spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 
 ## Javascript
 
@@ -240,6 +236,7 @@
 
 ## Go
 
+* 【2026-02-05】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-04】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 * 【2026-02-02】[sammwyy / MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 * 【2026-02-02】[free5gc / free5gc](https://github.com/free5gc/free5gc) - Open source 5G core network based on 3GPP R15
@@ -283,6 +280,7 @@
 
 ## C
 
+* 【2026-02-05】[surge-synthesizer / shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github.com/surge-synthesizer/shortcircuit-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 * 【2026-02-03】[libsdl-org / SDL_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer.
 * 【2026-01-29】[NVIDIA / libnvidia-container](https://github.com/NVIDIA/libnvidia-container) - NVIDIA container runtime library
@@ -306,7 +304,6 @@
 * 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 * 【2025-12-11】[linux-rdma / perftest](https://github.com/linux-rdma/perftest) - Infiniband Verbs Performance Tests
 * 【2025-12-10】[vladelaina / Catime](https://github.com/vladelaina/Catime) - A tiny (803KB) but mighty timer in pure C. Supports clock, countdown, stopwatch, Pomodoro, and fully customizable tray animations (GIFs, CPU/Mem%).
-* 【2025-12-06】[stackia / rtp2httpd](https://github.com/stackia/rtp2httpd) - Multicast RTP/RTSP to Unicast HTTP stream converter, optimized for China IPTV
 
 ## C++
 
@@ -342,7 +339,6 @@
 * 【2025-12-15】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 * 【2025-12-12】[BCN3D / BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
 * 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage.
-* 【2025-12-06】[royshil / obs-localvocal](https://github.com/royshil/obs-localvocal) - OBS plugin for local speech recognition and captioning using AI
 
 ## C#
 
@@ -449,6 +445,9 @@
 * 【2025-12-07】[byJoey / cfnew](https://github.com/byJoey/cfnew) - 
 ## Jupyter-notebook
 
+* 【2026-02-05】[rasbt / machine-learning-book](https://github.com/rasbt/machine-learning-book) - Code Repository for Machine Learning with PyTorch and Scikit-Learn
+* 【2026-02-05】[google-gemini / gemma-cookbook](https://github.com/google-gemini/gemma-cookbook) - A collection of guides and examples for the Gemma open models from Google.
+* 【2026-02-05】[AI4Finance-Foundation / FinRL](https://github.com/AI4Finance-Foundation/FinRL) - FinRL®: Financial Reinforcement Learning. 🔥
 * 【2026-02-04】[fastai / fastbook](https://github.com/fastai/fastbook) - The fastai book, published as Jupyter Notebooks
 * 【2026-02-04】[HannesStark / boltzgen](https://github.com/HannesStark/boltzgen) - 
 * 【2026-02-04】[greyhatguy007 / Machine-Learning-Specialization-Coursera](https://github.com/greyhatguy007/Machine-Learning-Specialization-Coursera) - Contains Solutions and Notes for the Machine Learning Specialization By Stanford University and Deeplearning.ai - Coursera (2022) by Prof. Andrew NG
@@ -470,6 +469,7 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-05】[reacherhq / check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 * 【2026-02-04】[katanemo / plano](https://github.com/katanemo/plano) - Delivery infrastructure for agentic apps - Plano is an AI-native proxy and data plane that offloads plumbing work, so you stay focused on your agent's core logic (via any AI framework).
 * 【2026-02-04】[farion1231 / cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 * 【2026-02-04】[embassy-rs / embassy](https://github.com/embassy-rs/embassy) - Modern embedded framework, using Rust and async.
@@ -486,6 +486,14 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-05】[ohmyzsh / ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃 A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python, etc), 140+ themes to spice up your morning, and an auto-update tool that makes it easy to keep up with the latest updates from the community.
+* 【2026-02-05】[llm-d / llm-d](https://github.com/llm-d/llm-d) - Achieve state of the art inference performance with modern accelerators on Kubernetes
+* 【2026-02-05】[bats-core / bats-core](https://github.com/bats-core/bats-core) - Bash Automated Testing System
+* 【2026-02-05】[rbenv / rbenv](https://github.com/rbenv/rbenv) - Manage your app's Ruby environment
+* 【2026-02-05】[google / oss-fuzz](https://github.com/google/oss-fuzz) - OSS-Fuzz - continuous fuzzing for open source software.
+* 【2026-02-05】[conda-forge / miniforge](https://github.com/conda-forge/miniforge) - A conda-forge distribution.
+* 【2026-02-05】[IceWhaleTech / ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
+* 【2026-02-05】[openshift / release](https://github.com/openshift/release) - Release tooling for OpenShift
 * 【2026-02-04】[RROrg / rr](https://github.com/RROrg/rr) - Redpill Recovery (arpl-i18n)
 * 【2026-02-04】[VSCodium / vscodium](https://github.com/VSCodium/vscodium) - binary releases of VS Code without MS branding/telemetry/licensing
 * 【2026-02-04】[n8n-io / n8n-hosting](https://github.com/n8n-io/n8n-hosting) - Example of self-hosting n8n in various environments like docker, kubernetes, etc.
