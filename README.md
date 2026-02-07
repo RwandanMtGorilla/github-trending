@@ -93,8 +93,6 @@
 * 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
 * 【2025-12-09】[slidevjs / slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 * 【2025-12-09】[cloudflare / vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
-* 【2025-12-08】[NVIDIA / cutile-python](https://github.com/NVIDIA/cutile-python) - cuTile is a programming model for writing parallel kernels for NVIDIA GPUs
-* 【2025-12-08】[BeehiveInnovations / pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) - The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.
 
 ## Java
 
@@ -125,10 +123,11 @@
 * 【2025-12-10】[apache / poi](https://github.com/apache/poi) - Mirror of Apache POI gitbox. The Java API for Microsoft Documents.
 * 【2025-12-09】[risin42 / NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
 * 【2025-12-09】[ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
-* 【2025-12-08】[google / tsunami-security-scanner-plugins](https://github.com/google/tsunami-security-scanner-plugins) - This project aims to provide a central repository for many useful Tsunami Security Scanner plugins.
 
 ## Python
 
+* 【2026-02-07】[SWE-agent / mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!
+* 【2026-02-07】[httpie / cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 * 【2026-02-06】[chenyme / grok2api](https://github.com/chenyme/grok2api) - 基于 FastAPI 重构的 Grok2API，全面适配最新 Web 调用格式，支持流/非流式对话、图像生成/编辑、深度思考，号池并发与自动负载均衡一体化。
 * 【2026-02-06】[GH05TCREW / pentestagent](https://github.com/GH05TCREW/pentestagent) - PentestAgent is an AI agent framework for black-box security testing, supporting bug bounty, red-team, and penetration testing workflows.
 * 【2026-02-04】[shareAI-lab / learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all You need - Write a nano Claude Code 0 - 1
@@ -198,7 +197,6 @@
 * 【2025-12-12】[zai-org / GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
 * 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 * 【2025-12-10】[wasserth / TotalSegmentator](https://github.com/wasserth/TotalSegmentator) - Tool for robust segmentation of >100 important anatomical structures in CT and MR images
-* 【2025-12-08】[DigitalPhonetics / IMS-Toucan](https://github.com/DigitalPhonetics/IMS-Toucan) - Controllable and fast Text-to-Speech for over 7000 languages!
 
 ## Javascript
 
@@ -281,6 +279,7 @@
 
 ## C
 
+* 【2026-02-07】[bol-van / zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 * 【2026-02-05】[surge-synthesizer / shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github.com/surge-synthesizer/shortcircuit-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
 * 【2026-02-03】[libsdl-org / SDL_mixer](https://github.com/libsdl-org/SDL_mixer) - An audio mixer that supports various file formats for Simple Directmedia Layer.
@@ -308,6 +307,8 @@
 
 ## C++
 
+* 【2026-02-07】[deepseek-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
+* 【2026-02-07】[echavet / MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome) - ESPHome firmware inspired by GeoffDavis’s esphome-mitsubishiheatpump, directly integrating the SwiCago library within its codebase.
 * 【2026-02-04】[StrikerX3 / Ymir](https://github.com/StrikerX3/Ymir) - Sega Saturn emulator
 * 【2026-02-02】[wled / WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 * 【2026-02-01】[oceanbase / seekdb](https://github.com/oceanbase/seekdb) - The AI-Native Search Database. Unifies vector, text, structured and semi-structured data in a single engine, enabling hybrid search and in-database AI workflows.
@@ -361,8 +362,6 @@
 * 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
 * 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
 * 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
-* 【2025-12-08】[memstechtips / Winhance](https://github.com/memstechtips/Winhance) - Application designed to optimize, customize and enhance your Windows experience.
-* 【2025-12-08】[cagritaskn / SplitWire-Turkey](https://github.com/cagritaskn/SplitWire-Turkey) - SplitWire-Turkey, çeşitli yöntemlerle kısıt aşma aracı.
 
 ## Html
 
@@ -386,7 +385,6 @@
 * 【2025-12-19】[jonasstrehle / supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️Browser fingerprinting via favicon!
 * 【2025-12-14】[colonelpanichacks / flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
 * 【2025-12-12】[keeweb / keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
-* 【2025-12-08】[newrelic / newrelic-browser-agent](https://github.com/newrelic/newrelic-browser-agent) - New Relic Browser Agent
 
 ## Css
 
@@ -411,10 +409,11 @@
 * 【2025-12-14】[palantir / phishcatch](https://github.com/palantir/phishcatch) - A browser extension and API server for detecting corporate password use on external websites
 * 【2025-12-11】[linuxmint / mint-themes](https://github.com/linuxmint/mint-themes) - Mint-X, Mint-Y..
 * 【2025-12-10】[stevedylandev / bhvr](https://github.com/stevedylandev/bhvr) - A monorepo template using Bun, Hono, Vite, and React
-* 【2025-12-08】[InioX / matugen-themes](https://github.com/InioX/matugen-themes) - 
 
 ## Unknown
 
+* 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
+* 【2026-02-07】[ShepAlderson / copilot-orchestra](https://github.com/ShepAlderson/copilot-orchestra) - 
 * 【2026-02-04】[kirodotdev / powers](https://github.com/kirodotdev/powers) - Powers add specialized context and tools to the Kiro agents on-demand. No more MCP context overload.
 * 【2026-02-01】[BehiSecc / awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills) - A curated list of Claude Skills.
 * 【2026-02-01】[666OS / ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
@@ -439,9 +438,12 @@
 * 【2025-12-17】[afshinea / stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
 * 【2025-12-11】[PicoTrex / Awesome-Nano-Banana-images](https://github.com/PicoTrex/Awesome-Nano-Banana-images) - A curated collection of fun and creative examples generated with Nano Banana & Nano Banana Pro🍌, Gemini-2.5-flash-image based model. We also release Nano-consistent-150K openly to support the community's development of image generation and unified models(click to website to see our blog)
 * 【2025-12-11】[memstechtips / UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
-* 【2025-12-08】[ebertti / awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 ## Jupyter-notebook
 
+* 【2026-02-07】[fchollet / deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
+* 【2026-02-07】[google-deepmind / mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
+* 【2026-02-07】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
+* 【2026-02-07】[NVIDIA-NeMo / Nemotron](https://github.com/NVIDIA-NeMo/Nemotron) - Developer Asset Hub for NVIDIA Nemotron — A one-stop resource for training recipes, usage cookbooks, datasets, and full end-to-end reference examples to build with Nemotron models
 * 【2026-02-06】[IDEA-Research / Grounded-SAM-2](https://github.com/IDEA-Research/Grounded-SAM-2) - Grounded SAM 2: Ground and Track Anything in Videos with Grounding DINO, Florence-2 and SAM 2
 * 【2026-02-06】[intro-stat-learning / ISLP_labs](https://github.com/intro-stat-learning/ISLP_labs) - Up-to-date version of labs for ISLP
 * 【2026-02-06】[maxim5 / cs229-2018-autumn](https://github.com/maxim5/cs229-2018-autumn) - All notes and materials for the CS229: Machine Learning course by Stanford University
@@ -464,6 +466,8 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-07】[requestly / requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
+* 【2026-02-07】[FranciscoMoretti / chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
 * 【2026-02-06】[aidenybai / react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
 * 【2026-02-06】[anthropics / anthropic-sdk-typescript](https://github.com/anthropics/anthropic-sdk-typescript) - Access to Anthropic's safety-first language model APIs in TypeScript
 * 【2026-02-04】[KuekHaoYang / KVideo](https://github.com/KuekHaoYang/KVideo) - 一个基于 Next.js 16 构建的现代化视频聚合播放平台。采用独特的 "Liquid Glass" 设计语言，提供流畅的视觉体验和强大的视频搜索功能。
@@ -472,6 +476,12 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-07】[lance-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
+* 【2026-02-07】[risingwavelabs / risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
+* 【2026-02-07】[microsoft / litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
+* 【2026-02-07】[cloud-hypervisor / cloud-hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) - A Virtual Machine Monitor for modern Cloud workloads. Features include CPU, memory and device hotplug, support for running Windows and Linux guests, device offload with vhost-user and a minimal compact footprint. Written in Rust with a strong focus on security.
+* 【2026-02-07】[lbjlaq / Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager) - Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。
+* 【2026-02-07】[rustdesk / rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program
 * 【2026-02-06】[feschber / lan-mouse](https://github.com/feschber/lan-mouse) - mouse & keyboard sharing via LAN
 * 【2026-02-06】[storytold / artcraft](https://github.com/storytold/artcraft) - ArtCraft is an intentional crafting engine for artists, designers, and filmmakers
 * 【2026-02-06】[hickory-dns / hickory-dns](https://github.com/hickory-dns/hickory-dns) - A Rust based DNS client, server, and resolver
@@ -492,6 +502,11 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-07】[czlonkowski / n8n-skills](https://github.com/czlonkowski/n8n-skills) - n8n skillset for Claude Code to build flawless n8n workflows
+* 【2026-02-07】[eugr / spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks
+* 【2026-02-07】[zsh-users / zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
+* 【2026-02-07】[eylenburg / linoffice](https://github.com/eylenburg/linoffice) - Microsoft Office Launcher for Linux
+* 【2026-02-07】[ccpopy / antissh](https://github.com/ccpopy/antissh) - 反重力Agent代理一键脚本，支持WSL、SSH远程
 * 【2026-02-06】[ONLYOFFICE / DocumentServer](https://github.com/ONLYOFFICE/DocumentServer) - ONLYOFFICE Docs is a free collaborative online office suite comprising viewers and editors for texts, spreadsheets and presentations, forms and PDF, fully compatible with Office Open XML formats: .docx, .xlsx, .pptx and enabling collaborative editing in real time.
 * 【2026-02-06】[kodekloudhub / certified-kubernetes-administrator-course](https://github.com/kodekloudhub/certified-kubernetes-administrator-course) - Certified Kubernetes Administrator - CKA Course
 * 【2026-02-06】[BtbN / FFmpeg-Builds](https://github.com/BtbN/FFmpeg-Builds) - 
