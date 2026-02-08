@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
+* 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
 * 【2026-02-06】[ZeroTworu / anet](https://github.com/ZeroTworu/anet) - Simple Rust VPN Client / Server
 * 【2026-02-06】[AstrBotDevs / AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI features. Your clawdbot alternative. ✨
 * 【2026-02-05】[disler / claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery) - Master Claude Code Hooks
@@ -91,8 +93,6 @@
 * 【2025-12-11】[agentsmd / agents.md](https://github.com/agentsmd/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
 * 【2025-12-11】[datawhalechina / hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 * 【2025-12-10】[KaijuEngine / kaiju](https://github.com/KaijuEngine/kaiju) - General purpose 3D and 2D game engine using Go (golang) and Vulkan with built in editor
-* 【2025-12-09】[slidevjs / slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-* 【2025-12-09】[cloudflare / vibesdk](https://github.com/cloudflare/vibesdk) - An open-source vibe coding platform that helps you build your own vibe-coding platform, built entirely on Cloudflare stack
 
 ## Java
 
@@ -121,8 +121,6 @@
 * 【2025-12-10】[kknifer7 / FreeBox](https://github.com/kknifer7/FreeBox) - TVBox电脑版/姊妹软件，致力于TVBox功能和生态的跨平台扩展
 * 【2025-12-10】[bastillion-io / Bastillion](https://github.com/bastillion-io/Bastillion) - A modern, web-based SSH console and key management tool. Bastillion gives you a clean, browser-based way to manage SSH access across all your systems. Think of it like a bastion host with a friendly dashboard.
 * 【2025-12-10】[apache / poi](https://github.com/apache/poi) - Mirror of Apache POI gitbox. The Java API for Microsoft Documents.
-* 【2025-12-09】[risin42 / NagramX](https://github.com/risin42/NagramX) - A variant of Nagram with additional features.
-* 【2025-12-09】[ZalithLauncher / ZalithLauncher](https://github.com/ZalithLauncher/ZalithLauncher) - Zalith Launcher is a Minecraft launcher developed based on PojavLauncher, capable of running Minecraft: Java Edition on Android devices.
 
 ## Python
 
@@ -200,6 +198,7 @@
 
 ## Javascript
 
+* 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.
 * 【2026-02-06】[YUZU-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
 * 【2026-02-04】[maxandrews / Epstein-doc-explorer](https://github.com/maxandrews/Epstein-doc-explorer) - a graph explorer of the Epstein emails
@@ -234,7 +233,6 @@
 * 【2025-12-17】[siteboon / claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
 * 【2025-12-15】[ChinaGodMan / UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
 * 【2025-12-14】[asyncapi / spec](https://github.com/asyncapi/spec) - The AsyncAPI specification allows you to create machine-readable definitions of your asynchronous APIs.
-* 【2025-12-09】[thedotmack / claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions.
 
 ## Go
 
@@ -279,6 +277,7 @@
 
 ## C
 
+* 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-07】[bol-van / zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 * 【2026-02-05】[surge-synthesizer / shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github.com/surge-synthesizer/shortcircuit-xt/releases/tag/Nightly
 * 【2026-02-04】[armel / uv-k1-k5v3-firmware-custom](https://github.com/armel/uv-k1-k5v3-firmware-custom) - This is a fork of F4HWN firmware https://github.com/armel/uv-k5-firmware-custom by @muzkr and @armel
@@ -440,6 +439,7 @@
 * 【2025-12-11】[memstechtips / UnattendedWinstall](https://github.com/memstechtips/UnattendedWinstall) - Personalized Unattended Answer Files that helps automatically debloat and customize Windows 10 & 11 during the installation process.
 ## Jupyter-notebook
 
+* 【2026-02-08】[ed-donner / production](https://github.com/ed-donner/production) - Repo for my course on Generative AI and Agentic AI in Production
 * 【2026-02-07】[fchollet / deep-learning-with-python-notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks) - Jupyter notebooks for the code samples of the book "Deep Learning with Python"
 * 【2026-02-07】[google-deepmind / mujoco_playground](https://github.com/google-deepmind/mujoco_playground) - An open-source library for GPU-accelerated robot learning and sim-to-real transfer.
 * 【2026-02-07】[onnx / models](https://github.com/onnx/models) - A collection of pre-trained, state-of-the-art models in the ONNX format
@@ -466,6 +466,11 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-08】[microsoft / vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat) - Copilot Chat extension for VS Code
+* 【2026-02-08】[Nagi-ovo / gemini-voyager](https://github.com/Nagi-ovo/gemini-voyager) - An all-in-one enhancement suite for Google Gemini - timeline navigation, folder management, prompt library, and chat export in one powerful extension.
+* 【2026-02-08】[AndyMik90 / Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
+* 【2026-02-08】[vercel / streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
+* 【2026-02-08】[shrimbly / node-banana](https://github.com/shrimbly/node-banana) - Free and open node based generative workflows.
 * 【2026-02-07】[requestly / requestly](https://github.com/requestly/requestly) - Free and open-source API Client & Interceptor.
 * 【2026-02-07】[FranciscoMoretti / chatjs](https://github.com/FranciscoMoretti/chatjs) - Production-ready AI chat template. Start here and make it your own. Formerly Sparka AI
 * 【2026-02-06】[aidenybai / react-grab](https://github.com/aidenybai/react-grab) - Select context for coding agents directly from your website
@@ -476,6 +481,7 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-08】[11happy / cpx](https://github.com/11happy/cpx) - cp reimagined
 * 【2026-02-07】[lance-format / lance](https://github.com/lance-format/lance) - Open Lakehouse Format for Multimodal AI. Convert from Parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, and PyTorch with more integrations coming..
 * 【2026-02-07】[risingwavelabs / risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale.
 * 【2026-02-07】[microsoft / litebox](https://github.com/microsoft/litebox) - A security-focused library OS supporting kernel- and user-mode execution
@@ -502,6 +508,9 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-08】[JamesTurland / JimsGarage](https://github.com/JamesTurland/JimsGarage) - Homelab Goodies
+* 【2026-02-08】[agarrharr / awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
+* 【2026-02-08】[nelvko / clash-for-linux-install](https://github.com/nelvko/clash-for-linux-install) - 😼 优雅地使用基于 clash/mihomo 的代理环境
 * 【2026-02-07】[czlonkowski / n8n-skills](https://github.com/czlonkowski/n8n-skills) - n8n skillset for Claude Code to build flawless n8n workflows
 * 【2026-02-07】[eugr / spark-vllm-docker](https://github.com/eugr/spark-vllm-docker) - Docker configuration for running VLLM on dual DGX Sparks
 * 【2026-02-07】[zsh-users / zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) - Fish-like autosuggestions for zsh
