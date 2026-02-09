@@ -1225,3 +1225,157 @@
 [2026-02-08 02:05:10] INFO -   Errors encountered: 0
 [2026-02-08 02:05:10] INFO -   Execution time: 59.67 seconds
 [2026-02-08 02:05:10] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - GitHub Trending Scraper - Job Started
+[2026-02-09 01:47:39] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - Archive Check - Started
+[2026-02-09 01:47:39] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - [Archive] No months need to be archived
+[2026-02-09 01:47:39] INFO - [Cleanup] Removed 7 old entries (before 2025-12-11), kept 490
+[2026-02-09 01:47:39] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - Archive Check - Completed
+[2026-02-09 01:47:39] INFO - ============================================================
+[2026-02-09 01:47:39] INFO - Loaded 42 archived files for deduplication
+[2026-02-09 01:47:39] INFO - [All language] Starting scrape
+[2026-02-09 01:47:39] DEBUG - Requesting: https://github.com/trending/
+[2026-02-09 01:47:39] INFO - HTTP 200 - https://github.com/trending/
+[2026-02-09 01:47:39] DEBUG - Parsed 12 items from HTML
+[2026-02-09 01:47:39] DEBUG - Requesting: https://github.com/trending/?spoken_language_code=zh
+[2026-02-09 01:47:40] INFO - HTTP 200 - https://github.com/trending/?spoken_language_code=zh
+[2026-02-09 01:47:40] DEBUG - Parsed 18 items from HTML
+[2026-02-09 01:47:40] INFO - [All language] Merged 30 unique items from both sources
+[2026-02-09 01:47:40] INFO - [All language] Added 1 new items to README.md
+[2026-02-09 01:47:42] INFO - [python] Starting scrape
+[2026-02-09 01:47:42] DEBUG - Requesting: https://github.com/trending/python
+[2026-02-09 01:47:43] INFO - HTTP 200 - https://github.com/trending/python
+[2026-02-09 01:47:43] DEBUG - Parsed 16 items from HTML
+[2026-02-09 01:47:43] DEBUG - Requesting: https://github.com/trending/python?spoken_language_code=zh
+[2026-02-09 01:47:45] INFO - HTTP 200 - https://github.com/trending/python?spoken_language_code=zh
+[2026-02-09 01:47:45] DEBUG - Parsed 16 items from HTML
+[2026-02-09 01:47:45] INFO - [python] Merged 32 unique items from both sources
+[2026-02-09 01:47:45] INFO - [python] Added 1 new items to README.md
+[2026-02-09 01:47:47] INFO - [jupyter-notebook] Starting scrape
+[2026-02-09 01:47:47] DEBUG - Requesting: https://github.com/trending/jupyter-notebook
+[2026-02-09 01:47:48] INFO - HTTP 200 - https://github.com/trending/jupyter-notebook
+[2026-02-09 01:47:48] DEBUG - Parsed 19 items from HTML
+[2026-02-09 01:47:48] DEBUG - Requesting: https://github.com/trending/jupyter-notebook?spoken_language_code=zh
+[2026-02-09 01:47:48] INFO - HTTP 200 - https://github.com/trending/jupyter-notebook?spoken_language_code=zh
+[2026-02-09 01:47:48] DEBUG - Parsed 0 items from HTML
+[2026-02-09 01:47:48] INFO - [jupyter-notebook] Merged 19 unique items from both sources
+[2026-02-09 01:47:49] INFO - [jupyter-notebook] Added 7 new items to README.md
+[2026-02-09 01:47:51] INFO - [typescript] Starting scrape
+[2026-02-09 01:47:51] DEBUG - Requesting: https://github.com/trending/typescript
+[2026-02-09 01:47:51] INFO - HTTP 200 - https://github.com/trending/typescript
+[2026-02-09 01:47:51] DEBUG - Parsed 12 items from HTML
+[2026-02-09 01:47:51] DEBUG - Requesting: https://github.com/trending/typescript?spoken_language_code=zh
+[2026-02-09 01:47:52] INFO - HTTP 200 - https://github.com/trending/typescript?spoken_language_code=zh
+[2026-02-09 01:47:52] DEBUG - Parsed 4 items from HTML
+[2026-02-09 01:47:52] INFO - [typescript] Merged 16 unique items from both sources
+[2026-02-09 01:47:52] INFO - [typescript] Added 2 new items to README.md
+[2026-02-09 01:47:54] INFO - [javascript] Starting scrape
+[2026-02-09 01:47:54] DEBUG - Requesting: https://github.com/trending/javascript
+[2026-02-09 01:47:55] INFO - HTTP 200 - https://github.com/trending/javascript
+[2026-02-09 01:47:55] DEBUG - Parsed 14 items from HTML
+[2026-02-09 01:47:55] DEBUG - Requesting: https://github.com/trending/javascript?spoken_language_code=zh
+[2026-02-09 01:47:56] INFO - HTTP 200 - https://github.com/trending/javascript?spoken_language_code=zh
+[2026-02-09 01:47:56] DEBUG - Parsed 10 items from HTML
+[2026-02-09 01:47:56] INFO - [javascript] Merged 23 unique items from both sources
+[2026-02-09 01:47:56] INFO - [javascript] No new distinct results (all duplicates)
+[2026-02-09 01:47:58] INFO - [rust] Starting scrape
+[2026-02-09 01:47:58] DEBUG - Requesting: https://github.com/trending/rust
+[2026-02-09 01:47:59] INFO - HTTP 200 - https://github.com/trending/rust
+[2026-02-09 01:47:59] DEBUG - Parsed 17 items from HTML
+[2026-02-09 01:47:59] DEBUG - Requesting: https://github.com/trending/rust?spoken_language_code=zh
+[2026-02-09 01:47:59] INFO - HTTP 200 - https://github.com/trending/rust?spoken_language_code=zh
+[2026-02-09 01:47:59] DEBUG - Parsed 0 items from HTML
+[2026-02-09 01:47:59] INFO - [rust] Merged 17 unique items from both sources
+[2026-02-09 01:47:59] INFO - [rust] Added 2 new items to README.md
+[2026-02-09 01:48:01] INFO - [java] Starting scrape
+[2026-02-09 01:48:01] DEBUG - Requesting: https://github.com/trending/java
+[2026-02-09 01:48:02] INFO - HTTP 200 - https://github.com/trending/java
+[2026-02-09 01:48:02] DEBUG - Parsed 20 items from HTML
+[2026-02-09 01:48:02] DEBUG - Requesting: https://github.com/trending/java?spoken_language_code=zh
+[2026-02-09 01:48:03] INFO - HTTP 200 - https://github.com/trending/java?spoken_language_code=zh
+[2026-02-09 01:48:03] DEBUG - Parsed 7 items from HTML
+[2026-02-09 01:48:03] INFO - [java] Merged 27 unique items from both sources
+[2026-02-09 01:48:03] INFO - [java] No new distinct results (all duplicates)
+[2026-02-09 01:48:05] INFO - [go] Starting scrape
+[2026-02-09 01:48:05] DEBUG - Requesting: https://github.com/trending/go
+[2026-02-09 01:48:06] INFO - HTTP 200 - https://github.com/trending/go
+[2026-02-09 01:48:06] DEBUG - Parsed 18 items from HTML
+[2026-02-09 01:48:06] DEBUG - Requesting: https://github.com/trending/go?spoken_language_code=zh
+[2026-02-09 01:48:07] INFO - HTTP 200 - https://github.com/trending/go?spoken_language_code=zh
+[2026-02-09 01:48:07] DEBUG - Parsed 5 items from HTML
+[2026-02-09 01:48:07] INFO - [go] Merged 23 unique items from both sources
+[2026-02-09 01:48:07] INFO - [go] Added 1 new items to README.md
+[2026-02-09 01:48:09] INFO - [c] Starting scrape
+[2026-02-09 01:48:09] DEBUG - Requesting: https://github.com/trending/c
+[2026-02-09 01:48:10] INFO - HTTP 200 - https://github.com/trending/c
+[2026-02-09 01:48:10] DEBUG - Parsed 14 items from HTML
+[2026-02-09 01:48:10] DEBUG - Requesting: https://github.com/trending/c?spoken_language_code=zh
+[2026-02-09 01:48:11] INFO - HTTP 200 - https://github.com/trending/c?spoken_language_code=zh
+[2026-02-09 01:48:11] DEBUG - Parsed 5 items from HTML
+[2026-02-09 01:48:11] INFO - [c] Merged 18 unique items from both sources
+[2026-02-09 01:48:11] INFO - [c] No new distinct results (all duplicates)
+[2026-02-09 01:48:13] INFO - [c++] Starting scrape
+[2026-02-09 01:48:13] DEBUG - Requesting: https://github.com/trending/c%2B%2B
+[2026-02-09 01:48:14] INFO - HTTP 200 - https://github.com/trending/c%2B%2B
+[2026-02-09 01:48:14] DEBUG - Parsed 22 items from HTML
+[2026-02-09 01:48:14] DEBUG - Requesting: https://github.com/trending/c%2B%2B?spoken_language_code=zh
+[2026-02-09 01:48:15] INFO - HTTP 200 - https://github.com/trending/c%2B%2B?spoken_language_code=zh
+[2026-02-09 01:48:15] DEBUG - Parsed 7 items from HTML
+[2026-02-09 01:48:15] INFO - [c++] Merged 29 unique items from both sources
+[2026-02-09 01:48:15] INFO - [c++] No new distinct results (all duplicates)
+[2026-02-09 01:48:17] INFO - [c#] Starting scrape
+[2026-02-09 01:48:17] DEBUG - Requesting: https://github.com/trending/c%23
+[2026-02-09 01:48:18] INFO - HTTP 200 - https://github.com/trending/c%23
+[2026-02-09 01:48:18] DEBUG - Parsed 24 items from HTML
+[2026-02-09 01:48:18] DEBUG - Requesting: https://github.com/trending/c%23?spoken_language_code=zh
+[2026-02-09 01:48:19] INFO - HTTP 200 - https://github.com/trending/c%23?spoken_language_code=zh
+[2026-02-09 01:48:19] DEBUG - Parsed 6 items from HTML
+[2026-02-09 01:48:19] INFO - [c#] Merged 30 unique items from both sources
+[2026-02-09 01:48:19] INFO - [c#] Added 1 new items to README.md
+[2026-02-09 01:48:21] INFO - [html] Starting scrape
+[2026-02-09 01:48:21] DEBUG - Requesting: https://github.com/trending/html
+[2026-02-09 01:48:21] INFO - HTTP 200 - https://github.com/trending/html
+[2026-02-09 01:48:21] DEBUG - Parsed 16 items from HTML
+[2026-02-09 01:48:21] DEBUG - Requesting: https://github.com/trending/html?spoken_language_code=zh
+[2026-02-09 01:48:22] INFO - HTTP 200 - https://github.com/trending/html?spoken_language_code=zh
+[2026-02-09 01:48:22] DEBUG - Parsed 1 items from HTML
+[2026-02-09 01:48:22] INFO - [html] Merged 17 unique items from both sources
+[2026-02-09 01:48:22] INFO - [html] No new distinct results (all duplicates)
+[2026-02-09 01:48:24] INFO - [shell] Starting scrape
+[2026-02-09 01:48:24] DEBUG - Requesting: https://github.com/trending/shell
+[2026-02-09 01:48:25] INFO - HTTP 200 - https://github.com/trending/shell
+[2026-02-09 01:48:25] DEBUG - Parsed 13 items from HTML
+[2026-02-09 01:48:25] DEBUG - Requesting: https://github.com/trending/shell?spoken_language_code=zh
+[2026-02-09 01:48:26] INFO - HTTP 200 - https://github.com/trending/shell?spoken_language_code=zh
+[2026-02-09 01:48:26] DEBUG - Parsed 1 items from HTML
+[2026-02-09 01:48:26] INFO - [shell] Merged 14 unique items from both sources
+[2026-02-09 01:48:26] INFO - [shell] Added 2 new items to README.md
+[2026-02-09 01:48:28] INFO - [css] Starting scrape
+[2026-02-09 01:48:28] DEBUG - Requesting: https://github.com/trending/css
+[2026-02-09 01:48:29] INFO - HTTP 200 - https://github.com/trending/css
+[2026-02-09 01:48:29] DEBUG - Parsed 13 items from HTML
+[2026-02-09 01:48:29] DEBUG - Requesting: https://github.com/trending/css?spoken_language_code=zh
+[2026-02-09 01:48:30] INFO - HTTP 200 - https://github.com/trending/css?spoken_language_code=zh
+[2026-02-09 01:48:30] DEBUG - Parsed 0 items from HTML
+[2026-02-09 01:48:30] INFO - [css] Merged 13 unique items from both sources
+[2026-02-09 01:48:30] INFO - [css] No new distinct results (all duplicates)
+[2026-02-09 01:48:32] INFO - [unknown] Starting scrape
+[2026-02-09 01:48:32] DEBUG - Requesting: https://github.com/trending/unknown
+[2026-02-09 01:48:33] INFO - HTTP 200 - https://github.com/trending/unknown
+[2026-02-09 01:48:33] DEBUG - Parsed 5 items from HTML
+[2026-02-09 01:48:33] DEBUG - Requesting: https://github.com/trending/unknown?spoken_language_code=zh
+[2026-02-09 01:48:34] INFO - HTTP 200 - https://github.com/trending/unknown?spoken_language_code=zh
+[2026-02-09 01:48:34] DEBUG - Parsed 9 items from HTML
+[2026-02-09 01:48:34] INFO - [unknown] Merged 14 unique items from both sources
+[2026-02-09 01:48:34] INFO - [unknown] No new distinct results (all duplicates)
+[2026-02-09 01:48:36] INFO - ============================================================
+[2026-02-09 01:48:36] INFO - Job Summary:
+[2026-02-09 01:48:36] INFO -   Languages processed: 15
+[2026-02-09 01:48:36] INFO -   Total items scraped: 322
+[2026-02-09 01:48:36] INFO -   Errors encountered: 0
+[2026-02-09 01:48:36] INFO -   Execution time: 57.19 seconds
+[2026-02-09 01:48:36] INFO - ============================================================
