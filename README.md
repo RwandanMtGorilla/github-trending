@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-02-11】[carlvellotti / claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 * 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
 * 【2026-02-08】[KeygraphHQ / shannon](https://github.com/KeygraphHQ/shannon) - Fully autonomous AI hacker to find actual exploits in your web apps. Shannon has achieved a 96.15% success rate on the hint-free, source-aware XBOW Benchmark.
 * 【2026-02-08】[p-e-w / heretic](https://github.com/p-e-w/heretic) - Fully automatic censorship removal for language models
@@ -90,10 +91,10 @@
 * 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 * 【2025-12-13】[refly-ai / refly](https://github.com/refly-ai/refly) - Vibe Workflow Platform for Non-technical Creators.
 * 【2025-12-13】[tursodatabase / turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
-* 【2025-12-12】[tempoxyz / tempo](https://github.com/tempoxyz/tempo) - the blockchain for payments
 
 ## Java
 
+* 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
 * 【2026-02-10】[realnnpg / Glazed](https://github.com/realnnpg/Glazed) - Meteor client addon for DonutSMP
 * 【2026-02-03】[pgjdbc / pgjdbc](https://github.com/pgjdbc/pgjdbc) - Postgresql JDBC Driver
 * 【2026-02-02】[Trainguy9512 / locomotion](https://github.com/Trainguy9512/locomotion) - 
@@ -116,10 +117,11 @@
 * 【2025-12-16】[shmuelzon / home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 * 【2025-12-14】[octoshrimpy / quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
 * 【2025-12-13】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
-* 【2025-12-12】[senzhk / ADBKeyBoard](https://github.com/senzhk/ADBKeyBoard) - Android Virtual Keyboard Input via ADB (Useful for Test Automation)
 
 ## Python
 
+* 【2026-02-11】[baserow / baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
+* 【2026-02-11】[suyiiyii / AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI) - AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 * 【2026-02-10】[IAmTomShaw / f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
 * 【2026-02-10】[ulab-uiuc / LLMRouter](https://github.com/ulab-uiuc/LLMRouter) - LLMRouter: An Open-Source Library for LLM Routing
 * 【2026-02-09】[huggingface / speech-to-speech](https://github.com/huggingface/speech-to-speech) - Speech To Speech: an effort for an open-sourced and modular GPT4-o
@@ -191,11 +193,10 @@
 * 【2025-12-14】[mother-of-all-self-hosting / mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 * 【2025-12-14】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
 * 【2025-12-13】[oomol-lab / pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
-* 【2025-12-12】[zai-org / GLM-V](https://github.com/zai-org/GLM-V) - GLM-4.6V/4.5V/4.1V-Thinking: Towards Versatile Multimodal Reasoning with Scalable Reinforcement Learning
-* 【2025-12-12】[ladaapp / lada](https://github.com/ladaapp/lada) - Restore videos with pixelated/mosaic regions
 
 ## Javascript
 
+* 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
 * 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.
 * 【2026-02-06】[YUZU-Hub / appscreen](https://github.com/YUZU-Hub/appscreen) - Create screenshots for the iOS App Store
@@ -298,8 +299,6 @@
 * 【2025-12-21】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 * 【2025-12-19】[scallyw4g / bonsai](https://github.com/scallyw4g/bonsai) - The procedural generation voxel engine
 * 【2025-12-17】[DroneBridge / ESP32](https://github.com/DroneBridge/ESP32) - DroneBridge for ESP32. A secure & transparent telemetry link with support for WiFi and ESP-NOW. Supporting MAVLink, MSP, LTM or any other protocol
-* 【2025-12-12】[DavidXanatos / TaskExplorer](https://github.com/DavidXanatos/TaskExplorer) - Power full Task Manager
-* 【2025-12-12】[asmvik / yabai](https://github.com/asmvik/yabai) - A tiling window manager for macOS based on binary space partitioning
 
 ## C++
 
@@ -335,8 +334,6 @@
 * 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 * 【2025-12-16】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 * 【2025-12-15】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
-* 【2025-12-12】[BCN3D / BCN3D-Moveo](https://github.com/BCN3D/BCN3D-Moveo) - Open Source 3D Printed Robotic Arm for educational purposes
-* 【2025-12-12】[juliansteenbakker / flutter_secure_storage](https://github.com/juliansteenbakker/flutter_secure_storage) - A Flutter plugin for securely storing sensitive data using encrypted storage.
 
 ## C#
 
@@ -382,7 +379,6 @@
 * 【2025-12-23】[EllatharTheHalfling / DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
 * 【2025-12-19】[jonasstrehle / supercookie](https://github.com/jonasstrehle/supercookie) - ⚠️Browser fingerprinting via favicon!
 * 【2025-12-14】[colonelpanichacks / flock-you](https://github.com/colonelpanichacks/flock-you) - flock cam detection
-* 【2025-12-12】[keeweb / keeweb](https://github.com/keeweb/keeweb) - Free cross-platform password manager compatible with KeePass
 
 ## Css
 
@@ -434,6 +430,9 @@
 * 【2025-12-17】[afshinea / stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
 ## Jupyter-notebook
 
+* 【2026-02-11】[codebasics / py](https://github.com/codebasics/py) - Repository to store sample python programs for python learning
+* 【2026-02-11】[NVIDIA / Isaac-GR00T](https://github.com/NVIDIA/Isaac-GR00T) - NVIDIA Isaac GR00T N1.6 - A Foundation Model for Generalist Robots.
+* 【2026-02-11】[GoogleCloudPlatform / training-data-analyst](https://github.com/GoogleCloudPlatform/training-data-analyst) - Labs and demos for courses for GCP Training (http://cloud.google.com/training).
 * 【2026-02-10】[Tanu-N-Prabhu / Python](https://github.com/Tanu-N-Prabhu/Python) - This repository helps you learn Python and Machine Learning from scratch.
 * 【2026-02-10】[NirDiamant / agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - This repository delivers end-to-end, code-first tutorials covering every layer of production-grade GenAI agents, guiding you from spark to scale with proven patterns and reusable blueprints for real-world launches.
 * 【2026-02-10】[MITDeepLearning / introtodeeplearning](https://github.com/MITDeepLearning/introtodeeplearning) - Lab Materials for MIT 6.S191: Introduction to Deep Learning
@@ -472,6 +471,9 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-11】[markmanx / isoflow](https://github.com/markmanx/isoflow) - 
+* 【2026-02-11】[yikart / AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
+* 【2026-02-11】[steipete / oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
 * 【2026-02-10】[jeffvli / feishin](https://github.com/jeffvli/feishin) - A modern self-hosted music player.
 * 【2026-02-10】[archestra-ai / archestra](https://github.com/archestra-ai/archestra) - ClawdBot/MoldBot/OpenClaw for Enterprise. Agentic Security, MCP, A2A, LLM; MCP registry & orchestrator
 * 【2026-02-09】[fosrl / pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
@@ -491,6 +493,11 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-11】[paradedb / paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
+* 【2026-02-11】[Schniz / fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+* 【2026-02-11】[matrix-construct / tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
+* 【2026-02-11】[Moonholder / Wuwa_Mod_Fixer](https://github.com/Moonholder/Wuwa_Mod_Fixer) - 
+* 【2026-02-11】[Roblox / studio-rust-mcp-server](https://github.com/Roblox/studio-rust-mcp-server) - Standalone Roblox Studio MCP Server
 * 【2026-02-10】[modrinth / code](https://github.com/modrinth/code) - The Modrinth monorepo containing all code which powers Modrinth!
 * 【2026-02-10】[Universal-Debloater-Alliance / universal-android-debloater-next-generation](https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation) - Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.
 * 【2026-02-10】[barter-rs / barter-rs](https://github.com/barter-rs/barter-rs) - Open-source Rust framework for building event-driven live-trading & backtesting systems
@@ -524,6 +531,10 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-11】[awslabs / git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
+* 【2026-02-11】[getsentry / self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
+* 【2026-02-11】[super-linter / super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
+* 【2026-02-11】[Security-Onion-Solutions / securityonion](https://github.com/Security-Onion-Solutions/securityonion) - Security Onion is a free and open platform for threat hunting, enterprise security monitoring, and log management. It includes our own interfaces for alerting, dashboards, hunting, PCAP, detections, and case management. It also includes other tools such as osquery, CyberChef, Elasticsearch, Logstash, Kibana, Suricata, and Zeek.
 * 【2026-02-10】[aditya-shri / VPN](https://github.com/aditya-shri/VPN) - Personal VPN using Shadowsocks and v2ray
 * 【2026-02-09】[google-github-actions / run-gemini-cli](https://github.com/google-github-actions/run-gemini-cli) - A GitHub Action invoking the Gemini CLI.
 * 【2026-02-09】[home-assistant / brands](https://github.com/home-assistant/brands) - 🎨 Brands for Home Assistant
