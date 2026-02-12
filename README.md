@@ -89,8 +89,6 @@
 * 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
 * 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 * 【2025-12-14】[ChromeDevTools / chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
-* 【2025-12-13】[refly-ai / refly](https://github.com/refly-ai/refly) - Vibe Workflow Platform for Non-technical Creators.
-* 【2025-12-13】[tursodatabase / turso](https://github.com/tursodatabase/turso) - Turso is an in-process SQL database, compatible with SQLite.
 
 ## Java
 
@@ -116,10 +114,11 @@
 * 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
 * 【2025-12-16】[shmuelzon / home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 * 【2025-12-14】[octoshrimpy / quik](https://github.com/octoshrimpy/quik) - The most beautiful SMS messenger for Android - Revived
-* 【2025-12-13】[zinja-coder / jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp) - Plugin for JADX to integrate MCP server
 
 ## Python
 
+* 【2026-02-12】[coleam00 / context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
+* 【2026-02-12】[element-hq / synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
 * 【2026-02-11】[baserow / baserow](https://github.com/baserow/baserow) - Build databases, automations, apps & agents with AI — no code. Open source platform available on cloud and self-hosted. GDPR, HIPAA, SOC 2 compliant. Best Airtable alternative.
 * 【2026-02-11】[suyiiyii / AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI) - AutoGLM 的现代化 Web 图形界面 - 让 AI 自动化操作 Android 设备变得简单 已进化为你的专属自动化生产力工具
 * 【2026-02-10】[IAmTomShaw / f1-race-replay](https://github.com/IAmTomShaw/f1-race-replay) - An interactive Formula 1 race visualisation and data analysis tool built with Python! 🏎️
@@ -192,10 +191,10 @@
 * 【2025-12-15】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
 * 【2025-12-14】[mother-of-all-self-hosting / mash-playbook](https://github.com/mother-of-all-self-hosting/mash-playbook) - 🐋 Ansible playbook which helps you host various FOSS services as Docker containers on your own server
 * 【2025-12-14】[zhaochenyang20 / Awesome-ML-SYS-Tutorial](https://github.com/zhaochenyang20/Awesome-ML-SYS-Tutorial) - My learning notes/codes for ML SYS.
-* 【2025-12-13】[oomol-lab / pdf-craft](https://github.com/oomol-lab/pdf-craft) - PDF craft can convert PDF files into various other formats. This project will focus on processing PDF files of scanned books.
 
 ## Javascript
 
+* 【2026-02-12】[liuw1535 / antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
 * 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
 * 【2026-02-06】[koosoli / ESPHomeDesigner](https://github.com/koosoli/ESPHomeDesigner) - A visual drag-and-drop editor for ESPHome displays (E-Ink, OLED, LCD, Touch), running as a Home Assistant integration or a standalone web app.
@@ -235,6 +234,7 @@
 
 ## Go
 
+* 【2026-02-12】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
 * 【2026-02-05】[github / gh-aw](https://github.com/github/gh-aw) - GitHub Agentic Workflows
 * 【2026-02-04】[steveyegge / beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
@@ -272,8 +272,6 @@
 * 【2025-12-16】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 * 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
 * 【2025-12-15】[negokaz / excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
-* 【2025-12-13】[memodb-io / Acontext](https://github.com/memodb-io/Acontext) - Context Data Platform for Agents. Join the community❤️: https://discord.acontext.io
-* 【2025-12-13】[opsre / go-ldap-admin](https://github.com/opsre/go-ldap-admin) - 🌉 基于Go+Vue实现的openLDAP后台管理项目
 
 ## C
 
@@ -302,6 +300,7 @@
 
 ## C++
 
+* 【2026-02-12】[alibaba / zvec](https://github.com/alibaba/zvec) - A lightweight, lightning-fast, in-process vector database
 * 【2026-02-07】[deepseek-ai / 3FS](https://github.com/deepseek-ai/3FS) - A high-performance distributed file system designed to address the challenges of AI training and inference workloads.
 * 【2026-02-07】[echavet / MitsubishiCN105ESPHome](https://github.com/echavet/MitsubishiCN105ESPHome) - ESPHome firmware inspired by GeoffDavis’s esphome-mitsubishiheatpump, directly integrating the SwiCago library within its codebase.
 * 【2026-02-04】[StrikerX3 / Ymir](https://github.com/StrikerX3/Ymir) - Sega Saturn emulator
@@ -337,6 +336,7 @@
 
 ## C#
 
+* 【2026-02-12】[microsoft / mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
 * 【2026-02-10】[C7-Game / Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.
 * 【2026-02-09】[Whisparr / Whisparr](https://github.com/Whisparr/Whisparr) - 
 * 【2026-02-03】[Taiizor / Sucrose](https://github.com/Taiizor/Sucrose) - Sucrose is a versatile wallpaper engine that brings life to your desktop with a wide range of interactive wallpapers.
@@ -355,11 +355,10 @@
 * 【2025-12-24】[database64128 / youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube-dl and yt-dlp.
 * 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 * 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
-* 【2025-12-13】[immichFrame / ImmichFrame](https://github.com/immichFrame/ImmichFrame) - 
-* 【2025-12-13】[MUnique / OpenMU](https://github.com/MUnique/OpenMU) - This project aims to create an easy to use, extendable and customizable server for a MMORPG called "MU Online".
 
 ## Html
 
+* 【2026-02-12】[OCA / server-brand](https://github.com/OCA/server-brand) - 
 * 【2026-02-02】[codingforentrepreneurs / 30-Days-of-Python](https://github.com/codingforentrepreneurs/30-Days-of-Python) - Learn Python for the next 30 (or so) Days.
 * 【2026-02-02】[Philip2809 / neato-connected](https://github.com/Philip2809/neato-connected) - Control your neato vacuum cleaner locally via home assistant!
 * 【2026-01-30】[remorses / playwriter](https://github.com/remorses/playwriter) - MCP to control your Chrome window via extension. Runs Playwright code in a stateful sandbox.
@@ -471,6 +470,11 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-12】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
+* 【2026-02-12】[element-hq / element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
+* 【2026-02-12】[readest / readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
+* 【2026-02-12】[danielmiessler / Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
+* 【2026-02-12】[mattermost / mattermost](https://github.com/mattermost/mattermost) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..
 * 【2026-02-11】[markmanx / isoflow](https://github.com/markmanx/isoflow) - 
 * 【2026-02-11】[yikart / AiToEarn](https://github.com/yikart/AiToEarn) - Let's use AI to Earn!
 * 【2026-02-11】[steipete / oracle](https://github.com/steipete/oracle) - Ask the oracle when you're stuck. Invoke GPT-5 Pro with a custom context and files.
@@ -493,6 +497,9 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-12】[freenet / freenet-core](https://github.com/freenet/freenet-core) - Declare your digital independence
+* 【2026-02-12】[a2x / cs2-dumper](https://github.com/a2x/cs2-dumper) - Counter-Strike: 2 Offset Dumper
+* 【2026-02-12】[esp-rs / esp-hal](https://github.com/esp-rs/esp-hal) - no_std Hardware Abstraction Layers for ESP32 microcontrollers
 * 【2026-02-11】[paradedb / paradedb](https://github.com/paradedb/paradedb) - Simple, Elastic-quality search for Postgres
 * 【2026-02-11】[Schniz / fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
 * 【2026-02-11】[matrix-construct / tuwunel](https://github.com/matrix-construct/tuwunel) - Official successor to conduwuit
@@ -531,6 +538,9 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-12】[LondheShubham153 / kubestarter](https://github.com/LondheShubham153/kubestarter) - This is a Repository to get you started with Kubernetes.
+* 【2026-02-12】[Meliox / PVE-mods](https://github.com/Meliox/PVE-mods) - Proxmox modifications
+* 【2026-02-12】[friendlyarm / Actions-FriendlyWrt](https://github.com/friendlyarm/Actions-FriendlyWrt) - Build FriendlyWrt using GitHub Actions
 * 【2026-02-11】[awslabs / git-secrets](https://github.com/awslabs/git-secrets) - Prevents you from committing secrets and credentials into git repositories
 * 【2026-02-11】[getsentry / self-hosted](https://github.com/getsentry/self-hosted) - Sentry, feature-complete and packaged up for low-volume deployments and proofs-of-concept
 * 【2026-02-11】[super-linter / super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to run as a GitHub Action or standalone
