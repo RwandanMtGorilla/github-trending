@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
+* 【2026-02-14】[google-deepmind / superhuman](https://github.com/google-deepmind/superhuman) - 
+* 【2026-02-14】[DebugSwift / DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
 * 【2026-02-13】[cinnyapp / cinny](https://github.com/cinnyapp/cinny) - Yet another matrix client
 * 【2026-02-11】[carlvellotti / claude-code-pm-course](https://github.com/carlvellotti/claude-code-pm-course) - Interactive course teaching Product Managers how to use Claude Code effectively
 * 【2026-02-09】[pydantic / monty](https://github.com/pydantic/monty) - A minimal, secure Python interpreter written in Rust for use by AI
@@ -117,6 +120,8 @@
 
 ## Python
 
+* 【2026-02-14】[K-Dense-AI / claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) - A set of ready to use scientific skills for Claude
+* 【2026-02-14】[jamwithai / production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course) - 
 * 【2026-02-13】[Tencent / AngelSlim](https://github.com/Tencent/AngelSlim) - Model compression toolkit engineered for enhanced usability, comprehensiveness, and efficiency.
 * 【2026-02-12】[coleam00 / context-engineering-intro](https://github.com/coleam00/context-engineering-intro) - Context engineering is the new vibe coding - it's the way to actually make AI coding assistants work. Claude Code is the best for this so that's what this repo is centered around, but you can apply this strategy with any AI coding assistant!
 * 【2026-02-12】[element-hq / synapse](https://github.com/element-hq/synapse) - Synapse: Matrix homeserver written in Python/Twisted + Rust
@@ -185,11 +190,6 @@
 * 【2025-12-18】[wecode-ai / Wegent](https://github.com/wecode-ai/Wegent) - An open-source platform to define, organize, and run Agentic AI.
 * 【2025-12-17】[facebookresearch / MHR](https://github.com/facebookresearch/MHR) - Momentum Human Rig is an anatomically-inspired parametric full-body digital human model developed at Meta. It includes: A parametric body skeletal model; A realistic 3D mesh skinned to the skeleton with levels of detail;A body blendshape and pose corrective model; A facial blendshape model.Its design is friendly for both CG and CV communities.
 * 【2025-12-17】[xxnuo / MusicFreePluginsHub](https://github.com/xxnuo/MusicFreePluginsHub) - MusicFree 源插件订阅聚合器 - 订阅全网大全
-* 【2025-12-15】[zhinianboke / xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
-* 【2025-12-15】[Mirrowel / LLM-API-Key-Proxy](https://github.com/Mirrowel/LLM-API-Key-Proxy) - Universal LLM Gateway: One API, every LLM. OpenAI-compatible endpoints with multi-provider translation and intelligent load-balancing.
-* 【2025-12-15】[rendercv / rendercv](https://github.com/rendercv/rendercv) - Typst-based CV/resume generator for academics and engineers
-* 【2025-12-15】[huridocs / pdf-document-layout-analysis](https://github.com/huridocs/pdf-document-layout-analysis) - A Docker-powered service for PDF document layout analysis. This service provides a powerful and flexible PDF analysis service. The service allows for the segmentation and classification of different parts of PDF pages, identifying the elements such as texts, titles, pictures, tables and so on.
-* 【2025-12-15】[firerpa / lamda](https://github.com/firerpa/lamda) - The most powerful Android RPA agent framework, next generation of mobile automation robots.
 
 ## Javascript
 
@@ -228,10 +228,10 @@
 * 【2025-12-20】[jiawanlong / Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
 * 【2025-12-17】[leeoniya / uPlot](https://github.com/leeoniya/uPlot) - 📈 A small, fast chart for time series, lines, areas, ohlc & bars
 * 【2025-12-17】[siteboon / claudecodeui](https://github.com/siteboon/claudecodeui) - Use Claude Code or Cursor CLI on mobile and web with Claude Code UI. Claude Code UI free open source webui/GUI that helps you manage your Claude Code session and projects remotely
-* 【2025-12-15】[ChinaGodMan / UserScripts](https://github.com/ChinaGodMan/UserScripts) - 🐒一些修改自网络的油猴脚本 Some Tampermonkey scripts modified from the internet
 
 ## Go
 
+* 【2026-02-14】[hakwerk / labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 * 【2026-02-13】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
 * 【2026-02-12】[asheshgoplani / agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 * 【2026-02-09】[ramonvermeulen / whosthere](https://github.com/ramonvermeulen/whosthere) - Local Area Network discovery tool with a modern Terminal User Interface (TUI) written in Go. Discover, explore, and understand your LAN in an intuitive way. Knock Knock.. who's there? 🚪
@@ -269,8 +269,6 @@
 * 【2025-12-21】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 * 【2025-12-17】[vllm-project / semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
 * 【2025-12-16】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
-* 【2025-12-15】[VictoriaMetrics / VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs
-* 【2025-12-15】[negokaz / excel-mcp-server](https://github.com/negokaz/excel-mcp-server) - A Model Context Protocol (MCP) server that reads and writes MS Excel data
 
 ## C
 
@@ -332,7 +330,6 @@
 * 【2025-12-22】[chongdashu / unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
 * 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 * 【2025-12-16】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
-* 【2025-12-15】[OrcaSlicer / OrcaSlicer](https://github.com/OrcaSlicer/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.)
 
 ## C#
 
@@ -398,10 +395,10 @@
 * 【2025-12-29】[sumruler / typora-theme-phycat](https://github.com/sumruler/typora-theme-phycat) - 一款精心打磨过的多色多功能Typora主题
 * 【2025-12-25】[ruby / www.ruby-lang.org](https://github.com/ruby/www.ruby-lang.org) - Source of the https://www.ruby-lang.org website.
 * 【2025-12-22】[pyOpenSci / software-peer-review](https://github.com/pyOpenSci/software-peer-review) - pyOpenSci's guidebook for package authors, reviewers, and editors
-* 【2025-12-15】[miantiao-me / BroadcastChannel](https://github.com/miantiao-me/BroadcastChannel) - Turn your Telegram Channel into a MicroBlog.
 
 ## Unknown
 
+* 【2026-02-14】[open-saas-directory / awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐
 * 【2026-02-13】[teamspeak / teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch.
 * 【2026-02-13】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
 * 【2026-02-07】[google / mcp](https://github.com/google/mcp) - Google 💚 MCP
@@ -430,6 +427,8 @@
 * 【2025-12-17】[afshinea / stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
 ## Jupyter-notebook
 
+* 【2026-02-14】[Lifelong-Robot-Learning / LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) - Benchmarking Knowledge Transfer in Lifelong Robot Learning
+* 【2026-02-14】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 * 【2026-02-13】[microsoft / Dynamics-365-FastTrack-Implementation-Assets](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation guides
 * 【2026-02-13】[aws-solutions-library-samples / accelerated-intelligent-document-processing-on-aws](https://github.com/aws-solutions-library-samples/accelerated-intelligent-document-processing-on-aws) - This Guidance demonstrates a scalable, serverless approach for automated document processing and information extraction using AWS services, such as Amazon Bedrock Data Automation and Amazon Bedrock foundational models. It combines generative AI and optical character recognition (OCR) to process documents at scale.
 * 【2026-02-13】[lavishsheth / code](https://github.com/lavishsheth/code) - 
@@ -474,6 +473,8 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-14】[CyberTimon / RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
+* 【2026-02-14】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 * 【2026-02-13】[gemini-cli-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
 * 【2026-02-13】[spacebarchat / server](https://github.com/spacebarchat/server) - Spacebar server - A reimplementation of the Discord.com backend, built with Typescript and love
 * 【2026-02-12】[wppconnect-team / wppconnect](https://github.com/wppconnect-team/wppconnect) - WPPConnect is an open source project developed by the JavaScript community with the aim of exporting functions from WhatsApp Web to the node, which can be used to support the creation of any interaction, such as customer service, media sending, intelligence recognition based on phrases artificial and many other things, use your imagination
@@ -503,6 +504,8 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-14】[NVIDIA / bare-metal-manager-core](https://github.com/NVIDIA/bare-metal-manager-core) - NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking
+* 【2026-02-14】[gmg137 / netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * 【2026-02-13】[rust-lang / rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
 * 【2026-02-13】[conaticus / FileExplorer](https://github.com/conaticus/FileExplorer) - Fast file explorer written with Tauri and React.
 * 【2026-02-13】[Polymarket / rs-clob-client](https://github.com/Polymarket/rs-clob-client) - Polymarket Rust CLOB Client
@@ -551,6 +554,9 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-14】[tmux-plugins / tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
+* 【2026-02-14】[bioconda / bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
+* 【2026-02-14】[grafana / docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
 * 【2026-02-13】[assafdori / bypass-mdm](https://github.com/assafdori/bypass-mdm) - Bypass MDM Setup for MacOS, up to MacOS Tahoe 26.2
 * 【2026-02-13】[aaddrick / claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian) - Claude Desktop for Debian-based Linux distributions
 * 【2026-02-13】[MacRimi / ProxMenux](https://github.com/MacRimi/ProxMenux) - ProxMenux An Interactive Menu for Proxmox VE Management
