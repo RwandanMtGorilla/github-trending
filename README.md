@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-02-15】[letta-ai / letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 * 【2026-02-14】[SynkraAI / aios-core](https://github.com/SynkraAI/aios-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-02-14】[google-deepmind / superhuman](https://github.com/google-deepmind/superhuman) - 
 * 【2026-02-14】[DebugSwift / DebugSwift](https://github.com/DebugSwift/DebugSwift) - A toolkit to make debugging iOS applications easier 🚀
@@ -91,7 +92,6 @@
 * 【2025-12-18】[NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 * 【2025-12-17】[nicotsx / zerobyte](https://github.com/nicotsx/zerobyte) - Backup automation for self-hosters
 * 【2025-12-17】[eudoxia0 / hashcards](https://github.com/eudoxia0/hashcards) - A plain text-based spaced repetition system.
-* 【2025-12-16】[jellyfin / jellyfin-desktop](https://github.com/jellyfin/jellyfin-desktop) - Jellyfin Desktop Client
 
 ## Java
 
@@ -115,8 +115,6 @@
 * 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
 * 【2025-12-23】[FabricMC / fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
 * 【2025-12-22】[Xed-Editor / Xed-Editor](https://github.com/Xed-Editor/Xed-Editor) - Advanced Text Editor for Android
-* 【2025-12-16】[MCRcortex / voxy](https://github.com/MCRcortex/voxy) - An LoD rendering mod for minecraft
-* 【2025-12-16】[shmuelzon / home-assistant-floor-plan](https://github.com/shmuelzon/home-assistant-floor-plan) - Home Assistant Floor Plan Generator Plugin For Sweet Home 3D
 
 ## Python
 
@@ -193,6 +191,7 @@
 
 ## Javascript
 
+* 【2026-02-15】[gsd-build / get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code and OpenCode.
 * 【2026-02-12】[liuw1535 / antigravity2api-nodejs](https://github.com/liuw1535/antigravity2api-nodejs) - 
 * 【2026-02-11】[dwyl / learn-postgresql](https://github.com/dwyl/learn-postgresql) - 🐘 Learn how to use PostgreSQL and Structured Query Language (SQL) to store and query your relational data. 🔍
 * 【2026-02-08】[xinnan-tech / xiaozhi-esp32-server](https://github.com/xinnan-tech/xiaozhi-esp32-server) - 本项目为xiaozhi-esp32提供后端服务，帮助您快速搭建ESP32设备控制服务器。Backend service for xiaozhi-esp32, helps you quickly build an ESP32 device control server.
@@ -268,10 +267,10 @@
 * 【2025-12-23】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform desktop RSS reader. 一个现代化、跨平台的 RSS 阅读器.
 * 【2025-12-21】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 * 【2025-12-17】[vllm-project / semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
-* 【2025-12-16】[xpzouying / xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) - MCP for xiaohongshu.com
 
 ## C
 
+* 【2026-02-15】[dorianborian / sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 * 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
 * 【2026-02-07】[bol-van / zapret2](https://github.com/bol-van/zapret2) - anti-dpi software
 * 【2026-02-05】[surge-synthesizer / shortcircuit-xt](https://github.com/surge-synthesizer/shortcircuit-xt) - Download the beta here : https://github.com/surge-synthesizer/shortcircuit-xt/releases/tag/Nightly
@@ -328,8 +327,6 @@
 * 【2025-12-25】[SpriteOvO / AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
 * 【2025-12-23】[bmorcelli / Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 * 【2025-12-22】[chongdashu / unreal-mcp](https://github.com/chongdashu/unreal-mcp) - Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP).
-* 【2025-12-16】[SpacehuhnTech / WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
-* 【2025-12-16】[reisxd / TizenTubeCobalt](https://github.com/reisxd/TizenTubeCobalt) - Experience TizenTube on other devices that are not Tizen.
 
 ## C#
 
@@ -378,6 +375,7 @@
 
 ## Css
 
+* 【2026-02-15】[eamonxg / luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora) - Aurora Theme is an OpenWrt LuCI theme for modern browsers, built with Tailwind CSS and Vite.
 * 【2026-02-03】[AvengeMedia / dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 * 【2026-01-23】[LINCnil / CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
 * 【2026-01-23】[g1eny0ung / hugo-theme-dream](https://github.com/g1eny0ung/hugo-theme-dream) - 🌱 A Hugo theme named Dream.
@@ -398,6 +396,7 @@
 
 ## Unknown
 
+* 【2026-02-15】[OldUnreal / UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 * 【2026-02-14】[open-saas-directory / awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐
 * 【2026-02-13】[teamspeak / teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch.
 * 【2026-02-13】[iCHAIT / awesome-macOS](https://github.com/iCHAIT/awesome-macOS) -  A curated list of awesome applications, softwares, tools and shiny things for macOS.
@@ -427,6 +426,7 @@
 * 【2025-12-17】[afshinea / stanford-cme-295-transformers-large-language-models](https://github.com/afshinea/stanford-cme-295-transformers-large-language-models) - VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models
 ## Jupyter-notebook
 
+* 【2026-02-15】[dvgodoy / PyTorchStepByStep](https://github.com/dvgodoy/PyTorchStepByStep) - Official repository of my book: "Deep Learning with PyTorch Step-by-Step: A Beginner's Guide"
 * 【2026-02-14】[Lifelong-Robot-Learning / LIBERO](https://github.com/Lifelong-Robot-Learning/LIBERO) - Benchmarking Knowledge Transfer in Lifelong Robot Learning
 * 【2026-02-14】[vllm-project / recipes](https://github.com/vllm-project/recipes) - Common recipes to run vLLM
 * 【2026-02-13】[microsoft / Dynamics-365-FastTrack-Implementation-Assets](https://github.com/microsoft/Dynamics-365-FastTrack-Implementation-Assets) - Dynamics 365 FastTrack Implementation guides
@@ -473,6 +473,7 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-15】[rybbit-io / rybbit](https://github.com/rybbit-io/rybbit) - 🐸 Rybbit - open-source and privacy-friendly alternative to Google Analytics that is 10x more intuitive.
 * 【2026-02-14】[CyberTimon / RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 * 【2026-02-14】[microsoft / azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp) - The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents.
 * 【2026-02-13】[gemini-cli-extensions / workspace](https://github.com/gemini-cli-extensions/workspace) - Access Google Workspace when using Gemini CLI
@@ -504,6 +505,12 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-15】[modelcontextprotocol / rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
+* 【2026-02-15】[jely2002 / youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
+* 【2026-02-15】[model-checking / kani](https://github.com/model-checking/kani) - Kani Rust Verifier
+* 【2026-02-15】[H-M-H / Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
+* 【2026-02-15】[deuxfleurs-org / garage](https://github.com/deuxfleurs-org/garage) - (Mirror) S3-compatible object store for small self-hosted geo-distributed deployments. Main repo: https://git.deuxfleurs.fr/Deuxfleurs/garage
+* 【2026-02-15】[gfx-rs / wgpu](https://github.com/gfx-rs/wgpu) - A cross-platform, safe, pure-Rust graphics API.
 * 【2026-02-14】[NVIDIA / bare-metal-manager-core](https://github.com/NVIDIA/bare-metal-manager-core) - NVIDIA Bare Metal Manager - Hardware Lifecycle Management and multitenant networking
 * 【2026-02-14】[gmg137 / netease-cloud-music-gtk](https://github.com/gmg137/netease-cloud-music-gtk) - Linux 平台下基于 Rust + GTK 开发的网易云音乐播放器
 * 【2026-02-13】[rust-lang / rust-analyzer](https://github.com/rust-lang/rust-analyzer) - A Rust compiler front-end for IDEs
@@ -554,6 +561,7 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-15】[ballred / obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) - A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
 * 【2026-02-14】[tmux-plugins / tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 * 【2026-02-14】[bioconda / bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
 * 【2026-02-14】[grafana / docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) - OpenTelemetry backend in a Docker image
