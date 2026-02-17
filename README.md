@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-02-17】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 * 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
 * 【2026-02-16】[moonshine-ai / moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
 * 【2026-02-15】[letta-ai / letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
@@ -91,10 +92,10 @@
 * 【2025-12-21】[lintsinghua / DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。 让安全不再昂贵，让审计不再复杂。
 * 【2025-12-20】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
 * 【2025-12-20】[google / adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
-* 【2025-12-18】[NVIDIA-NeMo / Gym](https://github.com/NVIDIA-NeMo/Gym) - Build RL environments for LLM training
 
 ## Java
 
+* 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-02-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
 * 【2026-02-11】[eddyizm / tempus](https://github.com/eddyizm/tempus) - An open source and lightweight music client for Subsonic, designed and built natively for Android.
@@ -186,8 +187,6 @@
 * 【2025-12-25】[zai-org / GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-23】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 * 【2025-12-21】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
-* 【2025-12-18】[strands-agents / samples](https://github.com/strands-agents/samples) - Agent samples built using the Strands Agents SDK.
-* 【2025-12-18】[wecode-ai / Wegent](https://github.com/wecode-ai/Wegent) - An open-source platform to define, organize, and run Agentic AI.
 
 ## Javascript
 
@@ -229,6 +228,8 @@
 
 ## Go
 
+* 【2026-02-17】[micro-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
+* 【2026-02-17】[github / gh-aw-mcpg](https://github.com/github/gh-aw-mcpg) - Github Agentic Workflows MCP Gateway
 * 【2026-02-16】[steipete / wacli](https://github.com/steipete/wacli) - WhatsApp CLI
 * 【2026-02-14】[hakwerk / labca](https://github.com/hakwerk/labca) - A private Certificate Authority for internal (lab) use, based on the open source ACME Automated Certificate Management Environment implementation from Let's Encrypt (tm).
 * 【2026-02-13】[bia-pain-bache / BPB-Wizard](https://github.com/bia-pain-bache/BPB-Wizard) - A wizard to facilitate BPB Panel deployment and management.
@@ -269,6 +270,9 @@
 
 ## C
 
+* 【2026-02-17】[ProjectNyxian / Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
+* 【2026-02-17】[jaylikesbunda / Ghost_ESP](https://github.com/jaylikesbunda/Ghost_ESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
+* 【2026-02-17】[davidgiven / ack](https://github.com/davidgiven/ack) - The Amsterdam Compiler Kit
 * 【2026-02-16】[paxx12 / SnapmakerU1-Extended-Firmware](https://github.com/paxx12/SnapmakerU1-Extended-Firmware) - Custom and repackaged Snapmaker U1 firmware
 * 【2026-02-15】[dorianborian / sesame-robot](https://github.com/dorianborian/sesame-robot) - An open and affordable mini quadruped robot based on ESP32.
 * 【2026-02-08】[Snowflake-Labs / pg_lake](https://github.com/Snowflake-Labs/pg_lake) - pg_lake: Postgres with Iceberg and data lake access
@@ -295,6 +299,7 @@
 
 ## C++
 
+* 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
 * 【2026-02-16】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-02-16】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
 * 【2026-02-13】[huaweicloud / huaweicloud-sdk-cpp-v3](https://github.com/huaweicloud/huaweicloud-sdk-cpp-v3) - 
@@ -331,6 +336,7 @@
 
 ## C#
 
+* 【2026-02-17】[SteamAutoCracks / Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
 * 【2026-02-12】[microsoft / mcp-gateway](https://github.com/microsoft/mcp-gateway) - MCP Gateway is a reverse proxy and management layer for MCP servers, enabling scalable, session-aware stateful routing and lifecycle management of MCP servers in Kubernetes environments.
 * 【2026-02-10】[C7-Game / Prototype](https://github.com/C7-Game/Prototype) - OpenCiv3 is an open-source, cross-platform, mod-oriented, modernized remake of Civilization III by the fan community built with the Godot Engine and C#, with capabilities inspired by the best of the 4X genre and lessons learned from modding Civ3.
 * 【2026-02-09】[Whisparr / Whisparr](https://github.com/Whisparr/Whisparr) - 
@@ -349,7 +355,6 @@
 * 【2025-12-26】[Alex4SSB / ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 * 【2025-12-24】[database64128 / youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube-dl and yt-dlp.
 * 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
-* 【2025-12-18】[Shane32 / QRCoder](https://github.com/Shane32/QRCoder) - A pure C# Open Source QR Code implementation
 
 ## Html
 
@@ -376,6 +381,7 @@
 
 ## Css
 
+* 【2026-02-17】[karpathy / karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
 * 【2026-02-15】[eamonxg / luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora) - Aurora Theme is an OpenWrt LuCI theme for modern browsers, built with Tailwind CSS and Vite.
 * 【2026-02-03】[AvengeMedia / dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 * 【2026-01-23】[LINCnil / CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
@@ -425,6 +431,8 @@
 * 【2025-12-23】[WildKernels / OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) - OnePlus Kernels with KernelSU & SUSFS
 ## Jupyter-notebook
 
+* 【2026-02-17】[langchain-ai / langchain-academy](https://github.com/langchain-ai/langchain-academy) - 
+* 【2026-02-17】[mistralai / mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
 * 【2026-02-16】[facebookresearch / sam2](https://github.com/facebookresearch/sam2) - The repository provides code for running inference with the Meta Segment Anything Model 2 (SAM 2), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 * 【2026-02-16】[pyannote / pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
 * 【2026-02-16】[salesforce / BLIP](https://github.com/salesforce/BLIP) - PyTorch code for BLIP: Bootstrapping Language-Image Pre-training for Unified Vision-Language Understanding and Generation
@@ -510,6 +518,9 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-17】[Stremio / stremio-core](https://github.com/Stremio/stremio-core) - ⚛️ The Stremio Core: types, addon system, UI models, core logic
+* 【2026-02-17】[rust-lang / cargo](https://github.com/rust-lang/cargo) - The Rust package manager
+* 【2026-02-17】[ilya-zlobintsev / LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool
 * 【2026-02-16】[ruvnet / ruvector](https://github.com/ruvnet/ruvector) - A distributed vector database that learns. Store embeddings, query with Cypher, scale horizontally with Raft consensus, and let the index improve itself through Graph Neural Networks.
 * 【2026-02-15】[modelcontextprotocol / rust-sdk](https://github.com/modelcontextprotocol/rust-sdk) - The official Rust SDK for the Model Context Protocol
 * 【2026-02-15】[jely2002 / youtube-dl-gui](https://github.com/jely2002/youtube-dl-gui) - Open Video Downloader - A cross-platform GUI for youtube-dl made in Rust with Tauri and Vue + Typescript.
@@ -567,6 +578,7 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-17】[alexeykrol / claude-code-starter](https://github.com/alexeykrol/claude-code-starter) - Meta-documentation framework for AI-assisted development with Claude Code
 * 【2026-02-15】[ballred / obsidian-claude-pkm](https://github.com/ballred/obsidian-claude-pkm) - A complete starter kit for an Obsidian + Claude Code personal knowledge management system.
 * 【2026-02-14】[tmux-plugins / tpm](https://github.com/tmux-plugins/tpm) - Tmux Plugin Manager
 * 【2026-02-14】[bioconda / bioconda-recipes](https://github.com/bioconda/bioconda-recipes) - Conda recipes for the bioconda channel.
