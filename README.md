@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-02-19】[QwenLM / qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+* 【2026-02-19】[HailToDodongo / pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
+* 【2026-02-19】[p2r3 / convert](https://github.com/p2r3/convert) - Truly universal online file converter
 * 【2026-02-18】[steipete / summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 * 【2026-02-17】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
 * 【2026-02-16】[steipete / gogcli](https://github.com/steipete/gogcli) - Google Suite CLI: Gmail, GCal, GDrive, GContacts.
@@ -91,11 +94,10 @@
 * 【2025-12-23】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2025-12-22】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
 * 【2025-12-21】[lintsinghua / DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。 让安全不再昂贵，让审计不再复杂。
-* 【2025-12-20】[sgl-project / mini-sglang](https://github.com/sgl-project/mini-sglang) - 
-* 【2025-12-20】[google / adk-js](https://github.com/google/adk-js) - An open-source, code-first Typescript toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 
 ## Java
 
+* 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-02-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
@@ -121,6 +123,10 @@
 
 ## Python
 
+* 【2026-02-19】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+* 【2026-02-19】[SemiAnalysisAI / InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
+* 【2026-02-19】[databricks-solutions / ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
+* 【2026-02-19】[mavlink / mavlink](https://github.com/mavlink/mavlink) - Marshalling / communication library for drones.
 * 【2026-02-18】[kaifcodec / user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2-in-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
 * 【2026-02-18】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 * 【2026-02-16】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
@@ -228,7 +234,6 @@
 * 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 * 【2025-12-21】[BrowserWorks / waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
 * 【2025-12-21】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
-* 【2025-12-20】[jiawanlong / Cesium-Examples](https://github.com/jiawanlong/Cesium-Examples) - CesiumJS2025年最新Examples，200多个原生示例：自定义纹理、地形开挖、可视域分析、洪水淹没、缓冲分析、日照分析、方量分析、通透分析、剖面、单体化、视频融合、视频投射、雨雪雾、天空盒、场景出图、体积云、闪电、视锥体、雷达扫描、水波纹、动态扩散点、电子围栏、粒子效果、物理引擎、克里金、海流、大数据可视化、坐标转换、相机、飞行漫游、瓦片加载、xyz、tms、wms、wmts、天地图、高德、百度、wkt、shp、geojson、pbf、地形、entity、模型、海量数据、Primitive、gif、聚合、czml、字体图标、运动、3Dtiles、模型偏移、等等。。
 
 ## Go
 
@@ -274,6 +279,7 @@
 
 ## C
 
+* 【2026-02-19】[andreknieriem / headunit-revived](https://github.com/andreknieriem/headunit-revived) - Headunit App for displaying Android Auto
 * 【2026-02-18】[SAT-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 - a GameBoy Advance game written in C
 * 【2026-02-17】[ProjectNyxian / Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 * 【2026-02-17】[jaylikesbunda / Ghost_ESP](https://github.com/jaylikesbunda/Ghost_ESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
@@ -303,6 +309,7 @@
 
 ## C++
 
+* 【2026-02-19】[KhronosGroup / Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 * 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
 * 【2026-02-16】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-02-16】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
@@ -340,6 +347,7 @@
 
 ## C#
 
+* 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 * 【2026-02-18】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 * 【2026-02-18】[V1ck3s / octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources.
 * 【2026-02-17】[SteamAutoCracks / Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
@@ -409,6 +417,7 @@
 
 ## Unknown
 
+* 【2026-02-19】[user1342 / Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 * 【2026-02-15】[OldUnreal / UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 * 【2026-02-14】[open-saas-directory / awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐
 * 【2026-02-13】[teamspeak / teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch.
@@ -437,6 +446,8 @@
 * 【2025-12-23】[WildKernels / OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) - OnePlus Kernels with KernelSU & SUSFS
 ## Jupyter-notebook
 
+* 【2026-02-19】[shap / shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
+* 【2026-02-19】[spmallick / learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV : C++ and Python Examples
 * 【2026-02-18】[iamvaibhavmehra / LangGraph-Course-freeCodeCamp](https://github.com/iamvaibhavmehra/LangGraph-Course-freeCodeCamp) - Repository for all of the code that was written for the FreeCodeCamp Course and the answers for all of the exercises.
 * 【2026-02-17】[langchain-ai / langchain-academy](https://github.com/langchain-ai/langchain-academy) - 
 * 【2026-02-17】[mistralai / mistral-inference](https://github.com/mistralai/mistral-inference) - Official inference library for Mistral models
@@ -490,6 +501,8 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-19】[cloudflare / kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
+* 【2026-02-19】[microsoft / playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 * 【2026-02-18】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
 * 【2026-02-18】[open-mercato / open-mercato](https://github.com/open-mercato/open-mercato) - AI‑supportive CRM / ERP foundation framework — built to power R&D, new processes, operations, and growth. It’s modular, extensible, and designed for teams that want strong defaults with room to customize everything. Better than Django, Retool and other alternatives - and Enterprise Grade!
 * 【2026-02-18】[tobi / qmd](https://github.com/tobi/qmd) - mini cli search engine for your docs, knowledge bases, meeting notes, whatever. Tracking current sota approaches while being all local
@@ -528,6 +541,7 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-19】[erebe / wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 * 【2026-02-18】[clap-rs / clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 * 【2026-02-18】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
 * 【2026-02-18】[martin-olivier / airgorah](https://github.com/martin-olivier/airgorah) - A WiFi security auditing software mainly based on aircrack-ng tools suite
@@ -593,6 +607,8 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-19】[sabamdarif / termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
+* 【2026-02-19】[npryce / adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 * 【2026-02-18】[qw3rtman / git-fire](https://github.com/qw3rtman/git-fire) - 🔥 Save Your Code in an Emergency
 * 【2026-02-18】[OldUnreal / FullGameInstallers](https://github.com/OldUnreal/FullGameInstallers) - This is the (partial) source code for the Unreal Gold and Unreal Tournament GOTY installers we host on OldUnreal.com
 * 【2026-02-17】[alexeykrol / claude-code-starter](https://github.com/alexeykrol/claude-code-starter) - Meta-documentation framework for AI-assisted development with Claude Code
