@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-02-20】[RichardAtCT / claude-code-telegram](https://github.com/RichardAtCT/claude-code-telegram) - A powerful Telegram bot that provides remote access to Claude Code, enabling developers to interact with their projects from anywhere with full AI assistance and session persistence.
+* 【2026-02-20】[LlamaGenAI / awesome-free-saas](https://github.com/LlamaGenAI/awesome-free-saas) - an awesome list of free SaaS (software as a service) for you.
 * 【2026-02-19】[QwenLM / qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
 * 【2026-02-19】[HailToDodongo / pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
 * 【2026-02-19】[p2r3 / convert](https://github.com/p2r3/convert) - Truly universal online file converter
@@ -93,10 +95,10 @@
 * 【2025-12-23】[Semperis / EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
 * 【2025-12-23】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 * 【2025-12-22】[cocoindex-io / cocoindex](https://github.com/cocoindex-io/cocoindex) - Data transformation framework for AI. Ultra performant, with incremental processing. 🌟 Star if you like it!
-* 【2025-12-21】[lintsinghua / DeepAudit](https://github.com/lintsinghua/DeepAudit) - DeepAudit：人人拥有的 AI 黑客战队，让漏洞挖掘触手可及。国内首个开源的代码漏洞挖掘多智能体系统。小白一键部署运行，自主协作审计 + 自动化沙箱 PoC 验证。支持 Ollama 私有部署 ，一键生成报告。 让安全不再昂贵，让审计不再复杂。
 
 ## Java
 
+* 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-02-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
@@ -195,7 +197,6 @@
 * 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 * 【2025-12-25】[zai-org / GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
 * 【2025-12-23】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
-* 【2025-12-21】[atlassian / atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server) - Remote MCP Server that securely connects Jira and Confluence with your LLM, IDE, or agent platform of choice.
 
 ## Javascript
 
@@ -232,8 +233,6 @@
 * 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
 * 【2025-12-26】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
 * 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
-* 【2025-12-21】[BrowserWorks / waterfox](https://github.com/BrowserWorks/waterfox) - The official Waterfox 💧 source code repository
-* 【2025-12-21】[huangxd- / danmu_api](https://github.com/huangxd-/danmu_api) - 一个人人都能部署的基于 js 的弹幕 API 服务器，支持爱优腾芒哔人韩巴弹幕直接获取，兼容弹弹play的搜索、详情查询和弹幕获取接口规范，并提供日志记录，支持vercel/netlify/edgeone/cloudflare/docker/claw等部署方式，不用提前下载弹幕，没有nas或小鸡也能一键部署。
 
 ## Go
 
@@ -275,10 +274,11 @@
 * 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 * 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 * 【2025-12-23】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform desktop RSS reader. 一个现代化、跨平台的 RSS 阅读器.
-* 【2025-12-21】[bitxeno / atvloadly](https://github.com/bitxeno/atvloadly) - Easily sideload the IPA to AppleTV
 
 ## C
 
+* 【2026-02-20】[DragonMinded / libdragon](https://github.com/DragonMinded/libdragon) - Open source library for N64 development.
+* 【2026-02-20】[GameTec-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
 * 【2026-02-19】[andreknieriem / headunit-revived](https://github.com/andreknieriem/headunit-revived) - Headunit App for displaying Android Auto
 * 【2026-02-18】[SAT-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 - a GameBoy Advance game written in C
 * 【2026-02-17】[ProjectNyxian / Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
@@ -305,10 +305,10 @@
 * 【2025-12-30】[dsp56300 / gearmulator](https://github.com/dsp56300/gearmulator) - Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs
 * 【2025-12-29】[streetpea / chiaki-ng](https://github.com/streetpea/chiaki-ng) - Next-Generation of Chiaki (the open-source remote play client for PlayStation)
 * 【2025-12-29】[cgsecurity / testdisk](https://github.com/cgsecurity/testdisk) - TestDisk & PhotoRec
-* 【2025-12-21】[timescale / pg_textsearch](https://github.com/timescale/pg_textsearch) - PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed.
 
 ## C++
 
+* 【2026-02-20】[blackboardsh / electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 * 【2026-02-19】[KhronosGroup / Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 * 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
 * 【2026-02-16】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
@@ -347,6 +347,7 @@
 
 ## C#
 
+* 【2026-02-20】[oocx / tfplan2md](https://github.com/oocx/tfplan2md) - Convert terraform plans (json) into human readable markdown for easier review of changes in pull requests.
 * 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 * 【2026-02-18】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 * 【2026-02-18】[V1ck3s / octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources.
@@ -395,6 +396,7 @@
 
 ## Css
 
+* 【2026-02-20】[CMUCTAT / CTAT](https://github.com/CMUCTAT/CTAT) - Cognitive Tutor Authoring Tools
 * 【2026-02-17】[karpathy / karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
 * 【2026-02-15】[eamonxg / luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora) - Aurora Theme is an OpenWrt LuCI theme for modern browsers, built with Tailwind CSS and Vite.
 * 【2026-02-03】[AvengeMedia / dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
@@ -446,6 +448,7 @@
 * 【2025-12-23】[WildKernels / OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) - OnePlus Kernels with KernelSU & SUSFS
 ## Jupyter-notebook
 
+* 【2026-02-20】[AllenDowney / ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 * 【2026-02-19】[shap / shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 * 【2026-02-19】[spmallick / learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV : C++ and Python Examples
 * 【2026-02-18】[iamvaibhavmehra / LangGraph-Course-freeCodeCamp](https://github.com/iamvaibhavmehra/LangGraph-Course-freeCodeCamp) - Repository for all of the code that was written for the FreeCodeCamp Course and the answers for all of the exercises.
@@ -501,6 +504,8 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-20】[anomalyco / opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+* 【2026-02-20】[RooCodeInc / Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor.
 * 【2026-02-19】[cloudflare / kumo](https://github.com/cloudflare/kumo) - Cloudflare's component library for building modern web applications.
 * 【2026-02-19】[microsoft / playwright-mcp](https://github.com/microsoft/playwright-mcp) - Playwright MCP server
 * 【2026-02-18】[Open-Dev-Society / OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.
@@ -541,6 +546,8 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-20】[actix / actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
+* 【2026-02-20】[BoundaryML / baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
 * 【2026-02-19】[erebe / wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 * 【2026-02-18】[clap-rs / clap](https://github.com/clap-rs/clap) - A full featured, fast Command Line Argument Parser for Rust
 * 【2026-02-18】[dmtrKovalenko / fff.nvim](https://github.com/dmtrKovalenko/fff.nvim) - Finally a Fabioulous & Fast Fuzzy File Finder for neovim
@@ -607,6 +614,9 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-20】[xiv3r / Burpsuite-Professional](https://github.com/xiv3r/Burpsuite-Professional) - Burpsuite Professional Latest Version 2026
+* 【2026-02-20】[jlesage / docker-firefox](https://github.com/jlesage/docker-firefox) - Docker container for Firefox
+* 【2026-02-20】[hashicorp / agent-skills](https://github.com/hashicorp/agent-skills) - A collection of Agent skills and Claude Code plugins for HashiCorp products.
 * 【2026-02-19】[sabamdarif / termux-desktop](https://github.com/sabamdarif/termux-desktop) - Install a full Linux desktop environment on your Android device with Termux X11 ( VNC optional) and also enable hardware acceleration
 * 【2026-02-19】[npryce / adr-tools](https://github.com/npryce/adr-tools) - Command-line tools for working with Architecture Decision Records
 * 【2026-02-18】[qw3rtman / git-fire](https://github.com/qw3rtman/git-fire) - 🔥 Save Your Code in an Emergency
