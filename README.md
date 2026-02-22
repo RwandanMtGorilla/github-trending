@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-02-22】[abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
+* 【2026-02-22】[hiddify / hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
 * 【2026-02-21】[Effect-TS / effect-smol](https://github.com/Effect-TS/effect-smol) - Core libraries and experimental work for Effect v4
 * 【2026-02-21】[roboflow / trackers](https://github.com/roboflow/trackers) - Trackers gives you clean, modular re-implementations of leading multi-object tracking algorithms released under the permissive Apache 2.0 license. You combine them with any detection model you already use.
 * 【2026-02-21】[huggingface / skills](https://github.com/huggingface/skills) - 
@@ -94,9 +96,6 @@
 * 【2025-12-24】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 * 【2025-12-24】[vendure-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
 * 【2025-12-24】[xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
-* 【2025-12-23】[anthropics / skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
-* 【2025-12-23】[Semperis / EntraGoat](https://github.com/Semperis/EntraGoat) - A deliberately vulnerable Microsoft Entra ID environment. Learn identity security through hands-on, realistic attack challenges.
-* 【2025-12-23】[justlovemaki / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API) - Simulates Gemini CLI, Antigravity, Qwen Code, and Kiro client requests, compatible with the OpenAI API. It supports thousands of Gemini model requests per day and offers free use of the built-in Claude model in Kiro. Easily connect to any client via the API, making AI development more efficient!
 
 ## Java
 
@@ -122,7 +121,6 @@
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 * 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
 * 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
-* 【2025-12-23】[FabricMC / fabric-api](https://github.com/FabricMC/fabric-api) - Essential hooks for modding with Fabric.
 
 ## Python
 
@@ -199,10 +197,10 @@
 * 【2025-12-27】[laude-institute / harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
 * 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 * 【2025-12-25】[zai-org / GLM-4.5](https://github.com/zai-org/GLM-4.5) - GLM-4.5: Agentic, Reasoning, and Coding (ARC) Foundation Models
-* 【2025-12-23】[vllm-project / vllm-omni](https://github.com/vllm-project/vllm-omni) - A framework for efficient model inference with omni-modality models
 
 ## Javascript
 
+* 【2026-02-22】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 * 【2026-02-21】[ZackAkil / immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker.
 * 【2026-02-18】[thalesgroup-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
 * 【2026-02-16】[dler-io / Rules](https://github.com/dler-io/Rules) - 
@@ -240,6 +238,7 @@
 
 ## Go
 
+* 【2026-02-22】[steveyegge / gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-02-17】[micro-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 * 【2026-02-17】[github / gh-aw-mcpg](https://github.com/github/gh-aw-mcpg) - Github Agentic Workflows MCP Gateway
 * 【2026-02-16】[steipete / wacli](https://github.com/steipete/wacli) - WhatsApp CLI
@@ -277,7 +276,6 @@
 * 【2025-12-29】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
 * 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
 * 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
-* 【2025-12-23】[WCY-dt / MrRSS](https://github.com/WCY-dt/MrRSS) - A modern, cross-platform desktop RSS reader. 一个现代化、跨平台的 RSS 阅读器.
 
 ## C
 
@@ -312,6 +310,7 @@
 
 ## C++
 
+* 【2026-02-22】[Zylann / godot_voxel](https://github.com/Zylann/godot_voxel) - Voxel module for Godot Engine
 * 【2026-02-20】[blackboardsh / electrobun](https://github.com/blackboardsh/electrobun) - Build ultra fast, tiny, and cross-platform desktop apps with Typescript.
 * 【2026-02-19】[KhronosGroup / Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 * 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
@@ -346,10 +345,10 @@
 * 【2025-12-26】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 * 【2025-12-25】[zeldaret / tp](https://github.com/zeldaret/tp) - Decompilation of The Legend of Zelda: Twilight Princess
 * 【2025-12-25】[SpriteOvO / AirPodsDesktop](https://github.com/SpriteOvO/AirPodsDesktop) - ☄️ AirPods desktop user experience enhancement program, for Windows and Linux (WIP)
-* 【2025-12-23】[bmorcelli / Launcher](https://github.com/bmorcelli/Launcher) - Firmware Launcher for ESP32 boards like: M5Stack, Lilygo, Marauder and CYD devices.
 
 ## C#
 
+* 【2026-02-22】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
 * 【2026-02-20】[oocx / tfplan2md](https://github.com/oocx/tfplan2md) - Convert terraform plans (json) into human readable markdown for easier review of changes in pull requests.
 * 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 * 【2026-02-18】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
@@ -395,11 +394,11 @@
 * 【2026-01-02】[GeeDook / mirava](https://github.com/GeeDook/mirava) - Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran.
 * 【2025-12-30】[json-schema-org / website](https://github.com/json-schema-org/website) - JSON Schema website
 * 【2025-12-28】[FrizzleM / BreakFree](https://github.com/FrizzleM/BreakFree) - A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an exploit (involves DNSs and public certificates).
-* 【2025-12-23】[wujunwei928 / parse-video-py](https://github.com/wujunwei928/parse-video-py) - Python短视频去水印爬虫：抖音,皮皮虾,火山,微视,最右,快手,全民小视频,皮皮搞笑,西瓜视频,虎牙,梨视频,acfun,好看视频...
-* 【2025-12-23】[EllatharTheHalfling / DnD-Books](https://github.com/EllatharTheHalfling/DnD-Books) - 
 
 ## Css
 
+* 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
+* 【2026-02-22】[LunarLogic / starability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top.
 * 【2026-02-20】[CMUCTAT / CTAT](https://github.com/CMUCTAT/CTAT) - Cognitive Tutor Authoring Tools
 * 【2026-02-17】[karpathy / karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
 * 【2026-02-15】[eamonxg / luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora) - Aurora Theme is an OpenWrt LuCI theme for modern browsers, built with Tailwind CSS and Vite.
@@ -448,7 +447,6 @@
 * 【2026-01-03】[FoundationVision / Waver](https://github.com/FoundationVision/Waver) - Industry-level video foundation model for unified Text-to-Video (T2V) and Image-to-Video (I2V) generation.
 * 【2026-01-03】[chartjs / awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart.js resources and libraries
 * 【2025-12-25】[xiaobaigroup / ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
-* 【2025-12-23】[WildKernels / OnePlus_KernelSU_SUSFS](https://github.com/WildKernels/OnePlus_KernelSU_SUSFS) - OnePlus Kernels with KernelSU & SUSFS
 ## Jupyter-notebook
 
 * 【2026-02-20】[AllenDowney / ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
@@ -507,6 +505,9 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-22】[NoeFabris / opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
+* 【2026-02-22】[stripe / ai](https://github.com/stripe/ai) - One-stop shop for building AI-powered products and businesses with Stripe.
+* 【2026-02-22】[Adam-CAD / CADAM](https://github.com/Adam-CAD/CADAM) - CADAM is the open source text-to-CAD web application
 * 【2026-02-21】[pnpm / pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 * 【2026-02-21】[junhoyeo / tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini CLI, Cursor IDE, AmpCode, Factory Droid, and Kimi Code CLI • 🏅Global Leaderboard + 2D/3D Contributions Graph
 * 【2026-02-20】[anomalyco / opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
@@ -620,6 +621,7 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-22】[docker-mailserver / docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 * 【2026-02-21】[pyenv / pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 * 【2026-02-21】[gentoo / gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
 * 【2026-02-21】[kohii / smoothcsv3](https://github.com/kohii/smoothcsv3) - SmoothCSV is a powerful and intuitive tool for editing CSV files.
