@@ -92,13 +92,10 @@
 * 【2025-12-27】[flowsurface-rs / flowsurface](https://github.com/flowsurface-rs/flowsurface) - A native desktop charting platform for crypto markets
 * 【2025-12-25】[apurvsinghgautam / robin](https://github.com/apurvsinghgautam/robin) - AI-Powered Dark Web OSINT Tool
 * 【2025-12-25】[facebookresearch / dinov3](https://github.com/facebookresearch/dinov3) - Reference PyTorch implementation and models for DINOv3
-* 【2025-12-24】[safety-research / bloom](https://github.com/safety-research/bloom) - bloom - evaluate any behavior immediately  🌸🌱
-* 【2025-12-24】[stan-smith / FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
-* 【2025-12-24】[vendure-ecommerce / vendure](https://github.com/vendure-ecommerce/vendure) - The most customizable commerce platform built with TypeScript, NestJS and GraphQL.
-* 【2025-12-24】[xerrors / Yuxi-Know](https://github.com/xerrors/Yuxi-Know) - 结合LightRAG 知识库的知识图谱智能体平台。 An agent platform that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain v1 + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP.
 
 ## Java
 
+* 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
@@ -124,6 +121,7 @@
 
 ## Python
 
+* 【2026-02-23】[mihail911 / modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 * 【2026-02-21】[Crosstalk-Solutions / unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
 * 【2026-02-21】[666ghj / MiroFish](https://github.com/666ghj/MiroFish) - A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物
 * 【2026-02-19】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
@@ -200,6 +198,7 @@
 
 ## Javascript
 
+* 【2026-02-23】[gamosoft / NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 * 【2026-02-22】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
 * 【2026-02-21】[ZackAkil / immersive-language-learning-with-live-api](https://github.com/ZackAkil/immersive-language-learning-with-live-api) - Immergo is an immersive language learning application powered by the Google Gemini Live SDK. It simulates real-world roleplay scenarios (e.g., buying a bus ticket, ordering coffee) to help users practice speaking in various languages with an AI that acts as a native speaker.
 * 【2026-02-18】[thalesgroup-cert / Watcher](https://github.com/thalesgroup-cert/Watcher) - Watcher - Open Source AI-powered Cyber Threat Intelligence & Hunting Platform. Developed with Django & React JS.
@@ -274,8 +273,6 @@
 * 【2025-12-30】[oxc-project / tsgolint](https://github.com/oxc-project/tsgolint) - Type aware linting for oxlint
 * 【2025-12-29】[looplj / axonhub](https://github.com/looplj/axonhub) - AxonHub is a modern AI gateway system that provides a unified OpenAI ( Chat Completion, Responses), Anthropic, Gemini and AI SDK compatible API
 * 【2025-12-29】[nginx / nginx-gateway-fabric](https://github.com/nginx/nginx-gateway-fabric) - NGINX Gateway Fabric provides an implementation for the Gateway API using NGINX as the data plane.
-* 【2025-12-24】[5rahim / seanime](https://github.com/5rahim/seanime) - Open-source media server with a web interface and desktop app for anime and manga.
-* 【2025-12-24】[evilmartians / lefthook](https://github.com/evilmartians/lefthook) - Fast and powerful Git hooks manager for any type of projects.
 
 ## C
 
@@ -370,8 +367,6 @@
 * 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D | 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
 * 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
 * 【2025-12-26】[Alex4SSB / ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
-* 【2025-12-24】[database64128 / youtube-dl-wpf](https://github.com/database64128/youtube-dl-wpf) - WPF GUI for youtube-dl and yt-dlp.
-* 【2025-12-24】[STranslate / STranslate](https://github.com/STranslate/STranslate) - A ready-to-go translation ocr tool developed with WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
 ## Html
 
@@ -397,6 +392,7 @@
 
 ## Css
 
+* 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
 * 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
 * 【2026-02-22】[LunarLogic / starability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top.
 * 【2026-02-20】[CMUCTAT / CTAT](https://github.com/CMUCTAT/CTAT) - Cognitive Tutor Authoring Tools
@@ -449,6 +445,9 @@
 * 【2025-12-25】[xiaobaigroup / ClashBox](https://github.com/xiaobaigroup/ClashBox) - HarmonyOS NEXT的代理软件
 ## Jupyter-notebook
 
+* 【2026-02-23】[Nixtla / nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
+* 【2026-02-23】[Ceyron / exponax](https://github.com/Ceyron/exponax) - Efficient Differentiable n-d PDE Solvers in JAX.
+* 【2026-02-23】[h2oai / h2o-3](https://github.com/h2oai/h2o-3) - H2O is an Open Source, Distributed, Fast & Scalable Machine Learning Platform: Deep Learning, Gradient Boosting (GBM) & XGBoost, Random Forest, Generalized Linear Modeling (GLM with Elastic Net), K-Means, PCA, Generalized Additive Models (GAM), RuleFit, Support Vector Machine (SVM), Stacked Ensembles, Automatic Machine Learning (AutoML), etc.
 * 【2026-02-20】[AllenDowney / ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 * 【2026-02-19】[shap / shap](https://github.com/shap/shap) - A game theoretic approach to explain the output of any machine learning model.
 * 【2026-02-19】[spmallick / learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV : C++ and Python Examples
@@ -552,6 +551,9 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-23】[datahaven-xyz / datahaven](https://github.com/datahaven-xyz/datahaven) - An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
+* 【2026-02-23】[boa-dev / boa](https://github.com/boa-dev/boa) - Boa is an embeddable Javascript engine written in Rust.
+* 【2026-02-23】[raine / workmux](https://github.com/raine/workmux) - git worktrees + tmux windows for zero-friction parallel dev
 * 【2026-02-21】[git-ai-project / git-ai](https://github.com/git-ai-project/git-ai) - A Git extension for tracking the AI-generated code in your repos
 * 【2026-02-20】[actix / actix-web](https://github.com/actix/actix-web) - Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust.
 * 【2026-02-20】[BoundaryML / baml](https://github.com/BoundaryML/baml) - The AI framework that adds the engineering to prompt engineering (Python/TS/Ruby/Java/C#/Rust/Go compatible)
@@ -621,6 +623,8 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-02-23】[thibmaek / awesome-raspberry-pi](https://github.com/thibmaek/awesome-raspberry-pi) - 📝 A curated list of awesome Raspberry Pi tools, projects, images and resources
+* 【2026-02-23】[masonr / yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, & Geekbench
 * 【2026-02-22】[docker-mailserver / docker-mailserver](https://github.com/docker-mailserver/docker-mailserver) - Production-ready fullstack but simple mail server (SMTP, IMAP, LDAP, Antispam, Antivirus, etc.) running inside a container.
 * 【2026-02-21】[pyenv / pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 * 【2026-02-21】[gentoo / gentoo](https://github.com/gentoo/gentoo) - [MIRROR] Official Gentoo ebuild repository
