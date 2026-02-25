@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-02-25】[GVCLab / PersonaLive](https://github.com/GVCLab/PersonaLive) - [CVPR 2026] PersonaLive! : Expressive Portrait Image Animation for Live Streaming
 * 【2026-02-24】[muratcankoylan / Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering) - A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management.
 * 【2026-02-22】[abhigyanpatwari / GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration
 * 【2026-02-22】[hiddify / hiddify-app](https://github.com/hiddify/hiddify-app) - Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
@@ -116,10 +117,14 @@
 * 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
 * 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
-* 【2025-12-26】[jlortiz0 / PlayerCollars](https://github.com/jlortiz0/PlayerCollars) - Minecraft mod that allows players to wear collars
 
 ## Python
 
+* 【2026-02-25】[smittix / intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
+* 【2026-02-25】[anthropics / claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
+* 【2026-02-25】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+* 【2026-02-25】[zou-group / sleepfm-clinical](https://github.com/zou-group/sleepfm-clinical) - 
+* 【2026-02-25】[ShisatoYano / AutonomousVehicleControlBeginnersGuide](https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide) - Python sample codes and documents about Autonomous vehicle control algorithm. This project can be used as a technical guide book to study the algorithms and the software architectures for beginners.
 * 【2026-02-24】[learning-unlimited / ESP-Website](https://github.com/learning-unlimited/ESP-Website) - A website to help manage the logistics of large, short-term educational programs
 * 【2026-02-23】[mihail911 / modern-software-dev-assignments](https://github.com/mihail911/modern-software-dev-assignments) - Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2025)
 * 【2026-02-21】[Crosstalk-Solutions / unifi-toolkit](https://github.com/Crosstalk-Solutions/unifi-toolkit) - A suite of tools for UniFi network management
@@ -193,10 +198,11 @@
 * 【2025-12-27】[TauricResearch / TradingAgents](https://github.com/TauricResearch/TradingAgents) - TradingAgents: Multi-Agents LLM Financial Trading Framework
 * 【2025-12-27】[HKUDS / VideoRAG](https://github.com/HKUDS/VideoRAG) - [KDD'2026] "VideoRAG: Chat with Your Videos"
 * 【2025-12-27】[laude-institute / harbor](https://github.com/laude-institute/harbor) - Harbor is a framework for running agent evaluations and creating and using RL environments.
-* 【2025-12-26】[OpenDCAI / DataFlow](https://github.com/OpenDCAI/DataFlow) - Easy Data Preparation with latest LLMs-based Operators and Pipelines.
 
 ## Javascript
 
+* 【2026-02-25】[badlogic / pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
+* 【2026-02-25】[journey-ad / gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-02-24】[liyupi / ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
 * 【2026-02-23】[gamosoft / NoteDiscovery](https://github.com/gamosoft/NoteDiscovery) - Your Self-Hosted Knowledge Base
 * 【2026-02-22】[expo / skills](https://github.com/expo/skills) - A collection of AI agent skills for working with Expo projects and Expo Application Services
@@ -232,11 +238,10 @@
 * 【2025-12-30】[nagix / mini-tokyo-3d](https://github.com/nagix/mini-tokyo-3d) - A real-time 3D digital map of Tokyo's public transport system
 * 【2025-12-30】[ganeshrvel / openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP - Advanced Android File Transfer Application for macOS
 * 【2025-12-29】[elementdavv / internet_archive_downloader](https://github.com/elementdavv/internet_archive_downloader) - A chrome/firefox extension that download books from Internet Archive(archive.org) and HathiTrust Digital Library (hathitrust.org)
-* 【2025-12-26】[pucherot / Pi.Alert](https://github.com/pucherot/Pi.Alert) - WIFI / LAN intruder detector. Check the devices connected and alert you with unknown devices. It also warns of the disconnection of "always connected" devices
-* 【2025-12-26】[parcoil / sparkle](https://github.com/parcoil/sparkle) - A Windows app to debloat and optimize your PC
 
 ## Go
 
+* 【2026-02-25】[canopy-network / canopy](https://github.com/canopy-network/canopy) - The official go implementation of the Canopy Network protocol
 * 【2026-02-22】[steveyegge / gastown](https://github.com/steveyegge/gastown) - Gas Town - multi-agent workspace manager
 * 【2026-02-17】[micro-editor / micro](https://github.com/micro-editor/micro) - A modern and intuitive terminal-based text editor
 * 【2026-02-17】[github / gh-aw-mcpg](https://github.com/github/gh-aw-mcpg) - Github Agentic Workflows MCP Gateway
@@ -276,6 +281,7 @@
 
 ## C
 
+* 【2026-02-25】[Vatuu / silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
 * 【2026-02-24】[PKRoma / ProcessHacker](https://github.com/PKRoma/ProcessHacker) - A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware—mirror of https://github.com/processhacker2/processhacker.git
 * 【2026-02-20】[DragonMinded / libdragon](https://github.com/DragonMinded/libdragon) - Open source library for N64 development.
 * 【2026-02-20】[GameTec-live / ChameleonUltraGUI](https://github.com/GameTec-live/ChameleonUltraGUI) - A GUI for the Chameleon Ultra written in Flutter for crossplatform
@@ -339,11 +345,10 @@
 * 【2026-01-02】[hn / bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 * 【2026-01-02】[surge-synthesizer / OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge-synthesizer/OB-Xf/releases/tag/Nightly
 * 【2025-12-28】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
-* 【2025-12-26】[alibaba / rtp-llm](https://github.com/alibaba/rtp-llm) - RTP-LLM: Alibaba's high-performance LLM inference engine for diverse applications.
-* 【2025-12-26】[jd-opensource / xllm](https://github.com/jd-opensource/xllm) - A high-performance inference engine for LLMs, optimized for diverse AI accelerators.
 
 ## C#
 
+* 【2026-02-25】[IAmParadox27 / jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
 * 【2026-02-22】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
 * 【2026-02-20】[oocx / tfplan2md](https://github.com/oocx/tfplan2md) - Convert terraform plans (json) into human readable markdown for easier review of changes in pull requests.
 * 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
@@ -365,7 +370,6 @@
 * 【2026-01-07】[ImAiiR / QobuzDownloaderX](https://github.com/ImAiiR/QobuzDownloaderX) - QBDLX is a program that downloads streams directly from Qobuz
 * 【2025-12-30】[jayfunc / BetterLyrics](https://github.com/jayfunc/BetterLyrics) - An elegant and deeply customizable lyrics & player app, built with WinUI3/Win2D | 一款优雅且高度自定义的歌词/播放器应用，基于 WinUI3/Win2D 构建
 * 【2025-12-30】[Extremelyd1 / HKMP](https://github.com/Extremelyd1/HKMP) - Hollow Knight Multiplayer
-* 【2025-12-26】[Alex4SSB / ADB-Explorer](https://github.com/Alex4SSB/ADB-Explorer) - A fluent UI for ADB on Windows
 
 ## Html
 
@@ -415,6 +419,7 @@
 
 ## Unknown
 
+* 【2026-02-25】[ottosulin / awesome-ai-security](https://github.com/ottosulin/awesome-ai-security) - A collection of awesome resources related AI security
 * 【2026-02-24】[alvi-se / ai-ublock-blacklist](https://github.com/alvi-se/ai-ublock-blacklist) - Websites I personally found that are completely generated by AI. Pull requests welcome.
 * 【2026-02-24】[lerrua / remote-jobs-brazil](https://github.com/lerrua/remote-jobs-brazil) - Lista de empresas com trabalho remoto no Brasil
 * 【2026-02-19】[user1342 / Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
@@ -444,6 +449,7 @@
 * 【2026-01-03】[chartjs / awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart.js resources and libraries
 ## Jupyter-notebook
 
+* 【2026-02-25】[wesm / pydata-book](https://github.com/wesm/pydata-book) - Materials and IPython notebooks for "Python for Data Analysis" by Wes McKinney, published by O'Reilly Media
 * 【2026-02-24】[khanhnamle1994 / cracking-the-data-science-interview](https://github.com/khanhnamle1994/cracking-the-data-science-interview) - A Collection of Cheatsheets, Books, Questions, and Portfolio For DS/ML Interview Prep
 * 【2026-02-23】[Nixtla / nixtla](https://github.com/Nixtla/nixtla) - TimeGPT-1: production ready pre-trained Time Series Foundation Model for forecasting and anomaly detection. Generative pretrained transformer for time series trained on over 100B data points. It's capable of accurately predicting various domains such as retail, electricity, finance, and IoT with just a few lines of code 🚀.
 * 【2026-02-23】[Ceyron / exponax](https://github.com/Ceyron/exponax) - Efficient Differentiable n-d PDE Solvers in JAX.
@@ -504,6 +510,7 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-02-25】[tiann / hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 * 【2026-02-24】[code-yeongyu / oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 * 【2026-02-24】[InsForge / InsForge](https://github.com/InsForge/InsForge) - AI-native backend platforms, turn coding agents into fullstack builders.
 * 【2026-02-22】[NoeFabris / opencode-antigravity-auth](https://github.com/NoeFabris/opencode-antigravity-auth) - Enable Opencode to authenticate against Antigravity (Google's IDE) via OAuth so you can use Antigravity rate limits and access models like gemini-3-pro and claude-opus-4-5-thinking with your Google credentials.
@@ -553,6 +560,8 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-25】[erikjuhani / basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
+* 【2026-02-25】[eza-community / eza](https://github.com/eza-community/eza) - A modern alternative to ls
 * 【2026-02-24】[claration / Impactor](https://github.com/claration/Impactor) - WIP feature rich iOS/tvOS sideloading application written in Rust.
 * 【2026-02-24】[robbert-vdh / nih-plug](https://github.com/robbert-vdh/nih-plug) - Rust VST3 and CLAP plugin framework and plugins - because everything is better when you do it yourself
 * 【2026-02-23】[datahaven-xyz / datahaven](https://github.com/datahaven-xyz/datahaven) - An EVM compatible Substrate chain, powered by StorageHub and secured by EigenLayer
