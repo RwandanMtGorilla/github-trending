@@ -90,7 +90,6 @@
 * 【2025-12-29】[tw93 / Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 * 【2025-12-29】[Sergeydigl3 / zapret-discord-youtube-linux](https://github.com/Sergeydigl3/zapret-discord-youtube-linux) - (NOW ONLY FOR NFTABLES) Port zapret-discord-youtube from Flowseal and bol-van for easy to use on linux
 * 【2025-12-29】[BloopAI / vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
-* 【2025-12-28】[agrinman / tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
 
 ## Java
 
@@ -115,10 +114,10 @@
 * 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
 * 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 * 【2026-01-03】[mamiiblt / instafel](https://github.com/mamiiblt/instafel) - Instafel provides fast & up-to-date Instagram Alpha experience for everyone!
-* 【2025-12-28】[higress-group / himarket](https://github.com/higress-group/himarket) - HiMarket is an enterprise-level "AI Capability Marketplace and Developer Ecosystem Hub." It is not merely a simple aggregation of traditional APIs, but rather a comprehensive platform that packages, publishes, manages, and operates core AI assets such as enterprise Model APIs, MCP Servers, Agent APIs, etc., through standardized product formats.
 
 ## Python
 
+* 【2026-02-27】[alibaba / OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, Agent Evaluation, AI Code Execution, and RL Training.
 * 【2026-02-25】[smittix / intercept](https://github.com/smittix/intercept) - iNTERCEPT, a free and open-source platform that unites the best signal intelligence tools into a single, accessible interface.
 * 【2026-02-25】[anthropics / claude-code-security-review](https://github.com/anthropics/claude-code-security-review) - An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.
 * 【2026-02-25】[AIDC-AI / Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -193,10 +192,12 @@
 * 【2026-01-01】[meizhong986 / WhisperJAV](https://github.com/meizhong986/WhisperJAV) - 
 * 【2025-12-31】[tencent-ailab / SongGeneration](https://github.com/tencent-ailab/SongGeneration) - The official code repository for LeVo: High-Quality Song Generation with Multi-Preference Alignment
 * 【2025-12-30】[mampfes / hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules
-* 【2025-12-28】[vibrantlabsai / ragas](https://github.com/vibrantlabsai/ragas) - Supercharge Your LLM Application Evaluations 🚀
 
 ## Javascript
 
+* 【2026-02-27】[vercel-labs / agent-skills](https://github.com/vercel-labs/agent-skills) - Vercel's official collection of agent skills
+* 【2026-02-27】[AikidoSec / safe-chain](https://github.com/AikidoSec/safe-chain) - Protect against malicious code installed via npm, yarn, pnpm, npx, and pnpx with Aikido Safe Chain. Free to use, no tokens required.
+* 【2026-02-27】[nasa-gibs / worldview](https://github.com/nasa-gibs/worldview) - Interactive interface for browsing global, full-resolution satellite imagery
 * 【2026-02-25】[badlogic / pi-skills](https://github.com/badlogic/pi-skills) - Skills for pi coding agent (compatible with Claude Code and Codex CLI)
 * 【2026-02-25】[journey-ad / gemini-watermark-remover](https://github.com/journey-ad/gemini-watermark-remover) - A high-performance, 100% client-side tool for removing Gemini AI watermarks. Built with pure JavaScript, it leverages a mathematically precise Reverse Alpha Blending algorithm rather than unpredictable AI inpainting. / 基于 Javascript 的纯浏览器端 Gemini AI 图像无损去水印工具，使用数学精确的反向 Alpha 混合算法
 * 【2026-02-24】[liyupi / ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程教程、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站
@@ -237,6 +238,7 @@
 
 ## Go
 
+* 【2026-02-27】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 * 【2026-02-26】[xdevplatform / xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 * 【2026-02-26】[Wei-Shaw / sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 * 【2026-02-25】[canopy-network / canopy](https://github.com/canopy-network/canopy) - The official go implementation of the Canopy Network protocol
@@ -343,7 +345,6 @@
 * 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library
 * 【2026-01-02】[hn / bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
 * 【2026-01-02】[surge-synthesizer / OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge-synthesizer/OB-Xf/releases/tag/Nightly
-* 【2025-12-28】[azahar-emu / azahar](https://github.com/azahar-emu/azahar) - An open-source 3DS emulator project based on Citra.
 
 ## C#
 
@@ -390,7 +391,6 @@
 * 【2026-01-02】[koush / vysor.io](https://github.com/koush/vysor.io) - Vysor - Mirror and Control your Phone
 * 【2026-01-02】[GeeDook / mirava](https://github.com/GeeDook/mirava) - Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran.
 * 【2025-12-30】[json-schema-org / website](https://github.com/json-schema-org/website) - JSON Schema website
-* 【2025-12-28】[FrizzleM / BreakFree](https://github.com/FrizzleM/BreakFree) - A free iOS shortcut that lets you sideload unlimited apps on your iOS and iPadOS device using an exploit (involves DNSs and public certificates).
 
 ## Css
 
@@ -561,6 +561,9 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-02-27】[OlaProeis / Ferrite](https://github.com/OlaProeis/Ferrite) - A fast, lightweight text editor for Markdown, JSON, YAML, and TOML files. Built with Rust and egui for a native, responsive experience.
+* 【2026-02-27】[visioncortex / vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter
+* 【2026-02-27】[idootop / open-xiaoai](https://github.com/idootop/open-xiaoai) - 🔊 让小爱音箱「听见你的声音」，解锁无限可能。
 * 【2026-02-26】[pgdogdev / pgdog](https://github.com/pgdogdev/pgdog) - PostgreSQL connection pooler, load balancer and database sharder.
 * 【2026-02-25】[erikjuhani / basalt](https://github.com/erikjuhani/basalt) - TUI Application to manage Obsidian notes directly from the terminal
 * 【2026-02-25】[eza-community / eza](https://github.com/eza-community/eza) - A modern alternative to ls
