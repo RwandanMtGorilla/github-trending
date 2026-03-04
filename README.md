@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-03-04】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
+* 【2026-03-04】[agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 * 【2026-03-01】[NousResearch / hermes-agent](https://github.com/NousResearch/hermes-agent) - 
 * 【2026-03-01】[superset-sh / superset](https://github.com/superset-sh/superset) - IDE for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 * 【2026-03-01】[datagouv / datagouv-mcp](https://github.com/datagouv/datagouv-mcp) - Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation.
@@ -85,12 +87,10 @@
 * 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 * 【2026-01-04】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
 * 【2026-01-04】[maplibre / maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
-* 【2026-01-02】[awslabs / amazon-bedrock-agentcore-samples](https://github.com/awslabs/amazon-bedrock-agentcore-samples) - Amazon Bedrock Agentcore accelerates AI agents into production with the scale, reliability, and security, critical to real-world deployment.
-* 【2026-01-02】[HQarroum / docker-android](https://github.com/HQarroum/docker-android) - 🤖 A minimal and customizable Docker image running the Android emulator as a service.
-* 【2026-01-02】[Polymarket / agents](https://github.com/Polymarket/agents) - Trade autonomously on Polymarket using AI Agents
 
 ## Java
 
+* 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
 * 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
@@ -234,10 +234,10 @@
 * 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 * 【2026-01-03】[mrrfv / cloudflare-gateway-pihole-scripts](https://github.com/mrrfv/cloudflare-gateway-pihole-scripts) - Use Cloudflare Gateway DNS/VPN to block ads, malware and tracking domains - free alternative to NextDNS, Pi-hole and AdGuard
 * 【2026-01-03】[cameroncooke / XcodeBuildMCP](https://github.com/cameroncooke/XcodeBuildMCP) - A Model Context Protocol (MCP) server that provides Xcode-related tools for integration with AI assistants and other MCP clients.
-* 【2026-01-02】[sismics / docs](https://github.com/sismics/docs) - Lightweight document management system packed with all the features you can expect from big expensive solutions
 
 ## Go
 
+* 【2026-03-04】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 * 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.
 * 【2026-02-27】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
 * 【2026-02-26】[xdevplatform / xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
@@ -271,11 +271,10 @@
 * 【2026-01-03】[autobrr / qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers. Go + React.
 * 【2026-01-03】[danielpaulus / go-ios](https://github.com/danielpaulus/go-ios) - This is an operating system independent implementation of iOS device features. You can run UI tests, launch or kill apps, install apps etc. with it.
 * 【2026-01-03】[getfider / fider](https://github.com/getfider/fider) - Open platform to collect and prioritize feedback
-* 【2026-01-02】[krau / SaveAny-Bot](https://github.com/krau/SaveAny-Bot) - Save Any Telegram File to Anywhere 📂 (Alist, Disk, Webdav, S3...) . Support restrict saving content and beyond telegram.
-* 【2026-01-02】[nginx / kubernetes-ingress](https://github.com/nginx/kubernetes-ingress) - NGINX and NGINX Plus Ingress Controllers for Kubernetes
 
 ## C
 
+* 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
 * 【2026-03-02】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 * 【2026-03-02】[Unidata / netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
 * 【2026-02-25】[Vatuu / silent-hill-decomp](https://github.com/Vatuu/silent-hill-decomp) - An in-progress decompilation of the 1.1 US release of Silent Hill on the Playstation 1.
@@ -305,6 +304,7 @@
 
 ## C++
 
+* 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
 * 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
 * 【2026-02-28】[autowarefoundation / autoware_vision_pilot](https://github.com/autowarefoundation/autoware_vision_pilot) - Free self-driving car stack - fully open-source ADAS and autonomous driving system
@@ -336,12 +336,10 @@
 * 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 * 【2026-01-07】[univrsal / input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
 * 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
-* 【2026-01-02】[BatchDrake / SigDigger](https://github.com/BatchDrake/SigDigger) - Qt-based digital signal analyzer, using Suscan core and Sigutils DSP library
-* 【2026-01-02】[hn / bsh-home-appliances](https://github.com/hn/bsh-home-appliances) - BSH Bosch Siemens home appliances reverse engineering: D-Bus, washing machine, dryer electronics
-* 【2026-01-02】[surge-synthesizer / OB-Xf](https://github.com/surge-synthesizer/OB-Xf) - OB-Xf is a continuation and modernatization of the last open source release of OB-Xd by 2DaT and later discoDSP. It is inspired by the venerable Oberheim OB-X. Get the nightly https://github.com/surge-synthesizer/OB-Xf/releases/tag/Nightly
 
 ## C#
 
+* 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions— .NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized. Fork it, init it, ship your product.
 * 【2026-02-25】[IAmParadox27 / jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
 * 【2026-02-22】[BigheadSMZ / Zelda-LA-DX-HD-Updated](https://github.com/BigheadSMZ/Zelda-LA-DX-HD-Updated) - A PC Port of The Legend of Zelda: Link's Awakening.
@@ -382,8 +380,6 @@
 * 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 * 【2026-01-07】[apache / ozone-site](https://github.com/apache/ozone-site) - Website for Apache Ozone
 * 【2026-01-03】[nisrulz / app-privacy-policy-generator](https://github.com/nisrulz/app-privacy-policy-generator) - Generate a customized Privacy Policy and Terms of Use document for your mobile apps
-* 【2026-01-02】[koush / vysor.io](https://github.com/koush/vysor.io) - Vysor - Mirror and Control your Phone
-* 【2026-01-02】[GeeDook / mirava](https://github.com/GeeDook/mirava) - Mirava is a curated list of Iranian package mirrors, providing reliable and fast access to essential software resources within Iran.
 
 ## Css
 
@@ -405,7 +401,6 @@
 * 【2026-01-08】[Terminus2049 / Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 * 【2026-01-05】[Obsidian-TTRPG-Community / Pathfinder-2E-SRD-Markdown](https://github.com/Obsidian-TTRPG-Community/Pathfinder-2E-SRD-Markdown) - This is a place for Pathfinder Community Use content to be hosted in Markdown format for Obsidian.md
 * 【2026-01-03】[reconmap / reconmap](https://github.com/reconmap/reconmap) - Reconmap is a collaboration-first security operations platform for infosec teams and MSSPs, enabling end‑to‑end engagement management, from reconnaissance through execution and reporting. With built-in command automation, output parsing, and AI‑assisted summaries, it delivers faster, more structured, and high‑quality security assessments.
-* 【2026-01-02】[denesdata / roem](https://github.com/denesdata/roem) - 🇷🇴💹📉📊 Romanian Economic Monitor
 
 ## Unknown
 
@@ -442,6 +437,7 @@
 * 【2026-01-03】[chartjs / awesome](https://github.com/chartjs/awesome) - A curated list of awesome Chart.js resources and libraries
 ## Jupyter-notebook
 
+* 【2026-03-04】[facebookresearch / DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * 【2026-03-03】[huseinzol05 / Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
 * 【2026-03-01】[warproxxx / poly_data](https://github.com/warproxxx/poly_data) - Polymarket Data Retriever that fetches, processes, and structures Polymarket data including markets, order events and trades.
 * 【2026-03-01】[lit26 / finvizfinance](https://github.com/lit26/finvizfinance) - Finviz analysis python library.
@@ -568,6 +564,8 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-04】[marlocarlo / psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
+* 【2026-03-04】[espanso / espanso](https://github.com/espanso/espanso) - A Privacy-first, Cross-platform Text Expander written in Rust
 * 【2026-03-03】[raphaelmansuy / edgequake](https://github.com/raphaelmansuy/edgequake) - High-performance GraphRAG inspired from LightRag written in Rust
 * 【2026-03-03】[ad-si / Woxi](https://github.com/ad-si/Woxi) - Wolfram Language / Mathematica reimplementation in Rust (Wolfram oxidized)
 * 【2026-03-03】[zs1083339604 / FaceWinUnlock-Tauri](https://github.com/zs1083339604/FaceWinUnlock-Tauri) - 一款基于 Tauri 框架开发的现代化 Windows 面容识别解锁增强软件。它通过自定义 Credential Provider (DLL) 注入 Windows 登录界面，结合前端 Vue 3 和后端 OpenCV 人脸识别算法，为用户提供类似 Windows Hello 的解锁体验。
@@ -656,6 +654,7 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-03-04】[aquasecurity / trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 * 【2026-03-03】[travisvn / stop-tahoe-update](https://github.com/travisvn/stop-tahoe-update) - Prevent your Mac from "upgrading" to Tahoe. A community-led effort to safely block unwanted macOS upgrades.
 * 【2026-03-03】[RPi-Distro / pi-gen](https://github.com/RPi-Distro/pi-gen) - Tool used to create the official Raspberry Pi OS images
 * 【2026-03-02】[VoltAgent / awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents) - A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases
