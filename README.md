@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-03-06】[inclusionAI / AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
+* 【2026-03-06】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 * 【2026-03-05】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
 * 【2026-03-04】[ruvnet / RuView](https://github.com/ruvnet/RuView) - π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.
 * 【2026-03-04】[agentscope-ai / ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
@@ -86,8 +88,6 @@
 * 【2026-01-08】[MiroMindAI / MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.
 * 【2026-01-07】[anthropics / claude-code-action](https://github.com/anthropics/claude-code-action) - 
 * 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
-* 【2026-01-04】[beancount / beancount](https://github.com/beancount/beancount) - Beancount: Double-Entry Accounting from Text Files.
-* 【2026-01-04】[maplibre / maplibre-gl-js](https://github.com/maplibre/maplibre-gl-js) - MapLibre GL JS - Interactive vector tile maps in the browser
 
 ## Java
 
@@ -115,6 +115,7 @@
 
 ## Python
 
+* 【2026-03-06】[microsoft / apm](https://github.com/microsoft/apm) - Agent Package Manager
 * 【2026-03-05】[Aider-AI / aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 * 【2026-03-05】[NVIDIA-NeMo / Megatron-Bridge](https://github.com/NVIDIA-NeMo/Megatron-Bridge) - Training library for Megatron-based models with bidirectional Hugging Face conversion capability
 * 【2026-03-05】[alirezarezvani / claude-skills](https://github.com/alirezarezvani/claude-skills) - A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads
@@ -195,10 +196,10 @@
 * 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.
 * 【2026-01-05】[wasmerio / Python-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
 * 【2026-01-05】[GodsScion / Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
-* 【2026-01-04】[absadiki / whatsapp-msgstore-viewer](https://github.com/absadiki/whatsapp-msgstore-viewer) - Free, open source and cross-platform app to decrypt, read and view the Whatsapp msgstore.db database
 
 ## Javascript
 
+* 【2026-03-06】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-05】[obsidianmd / obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 * 【2026-03-01】[datawhalechina / easy-vibe](https://github.com/datawhalechina/easy-vibe) - vibe coding from 0 to 1 ｜ vibecoding 零基础教程 ｜ 产品原型、AI 能力集成、前后端开发、多平台应用开发教程
@@ -236,7 +237,6 @@
 * 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-14】[yawiii / ComfyUI-Prompt-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
 * 【2026-01-10】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
-* 【2026-01-04】[heyitsnoah / claudesidian](https://github.com/heyitsnoah/claudesidian) - 
 
 ## Go
 
@@ -364,6 +364,7 @@
 
 ## Html
 
+* 【2026-03-06】[wilsonzlin / fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 * 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 * 【2026-02-21】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 * 【2026-02-18】[ruzin / stenoai](https://github.com/ruzin/stenoai) - Privacy focused AI powered meeting notes using locally hosted Small Language Models
@@ -402,6 +403,8 @@
 
 ## Unknown
 
+* 【2026-03-06】[gemini-cli-extensions / conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
+* 【2026-03-06】[heilcheng / awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 * 【2026-03-05】[QwenLM / Qwen3.5](https://github.com/QwenLM/Qwen3.5) - Qwen3.5 is the large language model series developed by Qwen team, Alibaba Cloud.
 * 【2026-03-05】[cloudflare / skills](https://github.com/cloudflare/skills) - Skills for teaching agents how to build on Cloudflare.
 * 【2026-03-03】[bmorelli25 / Become-A-Full-Stack-Web-Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer) - Free resources for learning Full Stack Web Development
@@ -432,9 +435,9 @@
 * 【2026-01-12】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
 * 【2026-01-10】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 * 【2026-01-07】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
-* 【2026-01-04】[kepano / kepano-obsidian](https://github.com/kepano/kepano-obsidian) - My personal Obsidian vault template. A bottom-up approach to note-taking and organizing things I am interested in.
 ## Jupyter-notebook
 
+* 【2026-03-06】[ArcInstitute / evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life
 * 【2026-03-05】[QwenLM / Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
 * 【2026-03-04】[facebookresearch / DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
 * 【2026-03-03】[huseinzol05 / Stock-Prediction-Models](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations
@@ -503,6 +506,7 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-03-06】[lgazo / drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server
 * 【2026-03-05】[FalkorDB / QueryWeaver](https://github.com/FalkorDB/QueryWeaver) - An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.
 * 【2026-03-02】[CherryHQ / cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 * 【2026-03-01】[dontriskit / awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts) - 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.
@@ -564,6 +568,7 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-06】[konkers / irminsul](https://github.com/konkers/irminsul) - Data exporter for Genshin Impact
 * 【2026-03-05】[antinomyhq / forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2026-03-05】[yfedoseev / pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. MIT/Apache-2.0.
 * 【2026-03-04】[marlocarlo / psmux](https://github.com/marlocarlo/psmux) - Tmux on Windows Powershell - tmux for PowerShell, Windows Terminal, cmd.exe. Includes psmux, pmux, and tmux commands. This is native Powershell Tmux designed for Windows in Rust 🦀
