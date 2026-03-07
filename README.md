@@ -8,6 +8,8 @@
 
 ## All language
 
+* 【2026-03-07】[Ed1s0nZ / CyberStrikeAI](https://github.com/Ed1s0nZ/CyberStrikeAI) - CyberStrikeAI is an AI-native security testing platform built in Go. It integrates 100+ security tools, an intelligent orchestration engine, role-based testing with predefined security roles, a skills system with specialized testing skills, and comprehensive lifecycle management capabilities.
+* 【2026-03-07】[lingfengQAQ / webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer) - 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。
 * 【2026-03-06】[inclusionAI / AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
 * 【2026-03-06】[microsoft / hve-core](https://github.com/microsoft/hve-core) - A refined collection of Hypervelocity Engineering components (instructions, prompts, agents) to start your project off right, or upgrade your existing projects to get the most out of all Copilots
 * 【2026-03-05】[msitarzewski / agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.
@@ -87,10 +89,10 @@
 * 【2026-01-08】[memvid / memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
 * 【2026-01-08】[MiroMindAI / MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.
 * 【2026-01-07】[anthropics / claude-code-action](https://github.com/anthropics/claude-code-action) - 
-* 【2026-01-05】[anomalyco / opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 
 ## Java
 
+* 【2026-03-07】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
 * 【2026-02-20】[adityatandon15 / Low-Level-Design-Course](https://github.com/adityatandon15/Low-Level-Design-Course) - All Code of LLD Playlist
@@ -111,7 +113,6 @@
 * 【2026-01-11】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 * 【2026-01-09】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 * 【2026-01-07】[google / copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories.
-* 【2026-01-05】[FiguraMC / Figura](https://github.com/FiguraMC/Figura) - Extensively customize your character with Figura!
 
 ## Python
 
@@ -193,12 +194,10 @@
 * 【2026-01-08】[trustgraph-ai / trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Factory for AI. Build, manage, and deploy AI-optimized Context Graphs.
 * 【2026-01-08】[facebookresearch / sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 * 【2026-01-07】[docling-project / docling](https://github.com/docling-project/docling) - Get your documents ready for gen AI
-* 【2026-01-05】[PennyLaneAI / pennylane](https://github.com/PennyLaneAI/pennylane) - PennyLane is a cross-platform Python library for quantum computing, quantum machine learning, and quantum chemistry. Built by researchers, for research.
-* 【2026-01-05】[wasmerio / Python-Scripts](https://github.com/wasmerio/Python-Scripts) - A curated list of python scripts for automating your tasks
-* 【2026-01-05】[GodsScion / Auto_job_applier_linkedIn](https://github.com/GodsScion/Auto_job_applier_linkedIn) - Make your job hunt easy by automating your application process with this Auto Applier
 
 ## Javascript
 
+* 【2026-03-07】[jarrodwatts / claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 * 【2026-03-06】[SynkraAI / aiox-core](https://github.com/SynkraAI/aiox-core) - Synkra AIOS: AI-Orchestrated System for Full Stack Development - Core Framework v4.0
 * 【2026-03-05】[obsidianmd / obsidian-translations](https://github.com/obsidianmd/obsidian-translations) - Help translate Obsidian into your language.
 * 【2026-03-03】[tiagozip / cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
@@ -240,6 +239,7 @@
 
 ## Go
 
+* 【2026-03-07】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-03-04】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
 * 【2026-02-28】[DanielLavrushin / b4](https://github.com/DanielLavrushin/b4) - Network packet processor with a friendly UI for circumventing Deep Packet Inspection (DPI) systems.
 * 【2026-02-27】[rapidaai / voice-ai](https://github.com/rapidaai/voice-ai) - Rapida is an open-source, end-to-end voice AI orchestration platform for building real-time conversational voice agents with audio streaming, STT, TTS, VAD, multi-channel integration, agent state management, and observability.
@@ -270,10 +270,11 @@
 * 【2026-01-12】[the-dev-tools / dev-tools](https://github.com/the-dev-tools/dev-tools) - Local-first API testing that goes from HAR file to GitHub Actions in 60 seconds.
 * 【2026-01-12】[badtuxx / girus-cli](https://github.com/badtuxx/girus-cli) - 
 * 【2026-01-07】[abhinavxd / libredesk](https://github.com/abhinavxd/libredesk) - Modern, open source, self-hosted customer support desk. Single binary app.
-* 【2026-01-05】[johannesboyne / gofakes3](https://github.com/johannesboyne/gofakes3) - A simple fake AWS S3 object storage (used for local test-runs against AWS S3 APIs)
 
 ## C
 
+* 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
+* 【2026-03-07】[emersion / mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
 * 【2026-03-04】[pret / pokefirered](https://github.com/pret/pokefirered) - Decompilation of Pokémon FireRed/LeafGreen
 * 【2026-03-02】[heiher / hev-socks5-tunnel](https://github.com/heiher/hev-socks5-tunnel) - A lightweight, fast and reliable tun2socks
 * 【2026-03-02】[Unidata / netcdf-c](https://github.com/Unidata/netcdf-c) - Official GitHub repository for netCDF-C libraries and utilities.
@@ -304,6 +305,7 @@
 
 ## C++
 
+* 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 * 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
 * 【2026-03-03】[microsoft / MIDI](https://github.com/microsoft/MIDI) - Windows MIDI Services
 * 【2026-03-02】[FastFlowLM / FastFlowLM](https://github.com/FastFlowLM/FastFlowLM) - Run LLMs on AMD Ryzen™ AI NPUs in minutes. Just like Ollama - but purpose-built and deeply optimized for the AMD NPUs.
@@ -335,10 +337,10 @@
 * 【2026-01-09】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 * 【2026-01-07】[realsenseai / librealsense](https://github.com/realsenseai/librealsense) - RealSense SDK
 * 【2026-01-07】[univrsal / input-overlay](https://github.com/univrsal/input-overlay) - Show keyboard, gamepad and mouse input on stream
-* 【2026-01-05】[OpenStarbound / OpenStarbound](https://github.com/OpenStarbound/OpenStarbound) - 
 
 ## C#
 
+* 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions— .NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized. Fork it, init it, ship your product.
 * 【2026-02-25】[IAmParadox27 / jellyfin-plugin-file-transformation](https://github.com/IAmParadox27/jellyfin-plugin-file-transformation) - Jellyfin plugin that allows other plugins to manipulate the content served by jellyfin-web without modifying the web source directly.
@@ -399,7 +401,6 @@
 * 【2026-01-18】[StylishThemes / GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - Dark GitHub style
 * 【2026-01-16】[lwjglgamedev / lwjglbook-bookcontents](https://github.com/lwjglgamedev/lwjglbook-bookcontents) - Book contents for the book "3D Game Development with LWJGL 3"
 * 【2026-01-08】[Terminus2049 / Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
-* 【2026-01-05】[Obsidian-TTRPG-Community / Pathfinder-2E-SRD-Markdown](https://github.com/Obsidian-TTRPG-Community/Pathfinder-2E-SRD-Markdown) - This is a place for Pathfinder Community Use content to be hosted in Markdown format for Obsidian.md
 
 ## Unknown
 
@@ -437,6 +438,7 @@
 * 【2026-01-07】[anthropics / claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 ## Jupyter-notebook
 
+* 【2026-03-07】[Liquid4All / cookbook](https://github.com/Liquid4All/cookbook) - Examples, end-2-end tutorials and apps built using Liquid AI Foundational Models (LFM) and the LEAP SDK
 * 【2026-03-06】[ArcInstitute / evo2](https://github.com/ArcInstitute/evo2) - Genome modeling and design across all domains of life
 * 【2026-03-05】[QwenLM / Qwen3-Omni](https://github.com/QwenLM/Qwen3-Omni) - Qwen3-omni is a natively end-to-end, omni-modal LLM developed by the Qwen team at Alibaba Cloud, capable of understanding text, audio, images, and video, as well as generating speech in real time.
 * 【2026-03-04】[facebookresearch / DensePose](https://github.com/facebookresearch/DensePose) - A real-time approach for mapping all human pixels of 2D RGB images to a 3D surface-based model of the body
@@ -506,6 +508,8 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-03-07】[kepano / defuddle](https://github.com/kepano/defuddle) - Get the main content of any page as Markdown.
+* 【2026-03-07】[livekit-examples / agent-starter-react](https://github.com/livekit-examples/agent-starter-react) - A complete voice AI frontend app for LiveKit Agents with Next.js
 * 【2026-03-06】[lgazo / drawio-mcp-server](https://github.com/lgazo/drawio-mcp-server) - Draw.io Model Context Protocol (MCP) Server
 * 【2026-03-05】[FalkorDB / QueryWeaver](https://github.com/FalkorDB/QueryWeaver) - An open-source Text2SQL tool that transforms natural language into SQL using graph-powered schema understanding. Ask your database questions in plain English, QueryWeaver handles the weaving.
 * 【2026-03-02】[CherryHQ / cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
@@ -568,6 +572,9 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-07】[ccfddl / ccf-deadlines](https://github.com/ccfddl/ccf-deadlines) - ⏰ Agenticly track worldwide conference deadlines (Website, Python Cli, Wechat Applet) / If you find it useful, please star this project, thanks~
+* 【2026-03-07】[zampierilucas / scx_horoscope](https://github.com/zampierilucas/scx_horoscope) - Astrological CPU Scheduler
+* 【2026-03-07】[tursodatabase / agentfs](https://github.com/tursodatabase/agentfs) - The filesystem for agents.
 * 【2026-03-06】[konkers / irminsul](https://github.com/konkers/irminsul) - Data exporter for Genshin Impact
 * 【2026-03-05】[antinomyhq / forge](https://github.com/antinomyhq/forge) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 * 【2026-03-05】[yfedoseev / pdf_oxide](https://github.com/yfedoseev/pdf_oxide) - The fastest PDF library for Python and Rust. Text extraction, image extraction, markdown conversion, PDF creation & editing. 0.8ms mean, 5× faster than industry leaders, 100% pass rate on 3,830 PDFs. MIT/Apache-2.0.
@@ -661,6 +668,7 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-03-07】[lcdyk0517 / arkos4clone](https://github.com/lcdyk0517/arkos4clone) - ArkOS for Unofficial Devices
 * 【2026-03-05】[Dammyjay93 / interface-design](https://github.com/Dammyjay93/interface-design) - Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI.
 * 【2026-03-04】[aquasecurity / trivy-action](https://github.com/aquasecurity/trivy-action) - Runs Trivy as GitHub action to scan your Docker container image for vulnerabilities
 * 【2026-03-03】[travisvn / stop-tahoe-update](https://github.com/travisvn/stop-tahoe-update) - Prevent your Mac from "upgrading" to Tahoe. A community-led effort to safely block unwanted macOS upgrades.
