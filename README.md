@@ -88,11 +88,11 @@
 * 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 * 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
 * 【2026-01-09】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
-* 【2026-01-08】[memvid / memvid](https://github.com/memvid/memvid) - Memory layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file memory layer. Give your agents instant retrieval and long-term memory.
-* 【2026-01-08】[MiroMindAI / MiroThinker](https://github.com/MiroMindAI/MiroThinker) - MiroThinker is a series of open-source search agent designed to advance tool-augmented reasoning and information-seeking capabilities.
 
 ## Java
 
+* 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
+* 【2026-03-10】[MewX / light-novel-library_Wenku8_Android](https://github.com/MewX/light-novel-library_Wenku8_Android) - [CASUALLY MAINTAINED] 轻小说文库 (Wenku8.com) 安卓版第三方公益App，始于2014年的初版Material Design风格、非盈利、Play Store上安装包最小的轻小说阅读器 (light novel reader)。目前网站的API由于被大量滥用，已更新成我自己架的 Cloudflare Worker API 中继节点，不然的话网站关闭API就全军覆没了。
 * 【2026-03-07】[SonarSource / sonarqube-mcp-server](https://github.com/SonarSource/sonarqube-mcp-server) - SonarQube MCP Server
 * 【2026-03-04】[Tornaco / Thanox](https://github.com/Tornaco/Thanox) - I am thanos! 😈 👌
 * 【2026-02-23】[Stryker-Defense-Inc / strykerapp](https://github.com/Stryker-Defense-Inc/strykerapp) - Magic tool for pentest from your android device!
@@ -192,12 +192,10 @@
 * 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
 * 【2026-01-09】[MiroMindAI / MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
 * 【2026-01-09】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
-* 【2026-01-08】[camel-ai / owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
-* 【2026-01-08】[trustgraph-ai / trustgraph](https://github.com/trustgraph-ai/trustgraph) - The Context Graph Factory for AI. Build, manage, and deploy AI-optimized Context Graphs.
-* 【2026-01-08】[facebookresearch / sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
 
 ## Javascript
 
+* 【2026-03-10】[technomancer702 / nodecast-tv](https://github.com/technomancer702/nodecast-tv) - A self-hosted web application that lets you stream Live TV, Movies, and Series from your Xtream Codes or M3U provider directly in your browser. It's built with performance in mind and handles large libraries smoothly.
 * 【2026-03-09】[apify / agent-skills](https://github.com/apify/agent-skills) - Collection of Apify Agent Skills
 * 【2026-03-09】[decolua / 9router](https://github.com/decolua/9router) - Universal AI Proxy for Claude Code, Codex, Cursor | OpenAI, Claude, Gemini, Copilot
 * 【2026-03-08】[pbakaus / impeccable](https://github.com/pbakaus/impeccable) - The design language that makes your AI harness better at design.
@@ -243,6 +241,7 @@
 
 ## Go
 
+* 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-03-08】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-07】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
 * 【2026-03-04】[acepanel / panel](https://github.com/acepanel/panel) - ⚡ AcePanel - Enterprise server operation and maintenance management panel
@@ -309,6 +308,8 @@
 
 ## C++
 
+* 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
+* 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 * 【2026-03-09】[allenk / GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro watermark maintenance tool
 * 【2026-03-07】[opengisch / QField](https://github.com/opengisch/QField) - A simplified touch optimized interface for QGIS
 * 【2026-03-04】[GRAnimated / MinecraftLCE](https://github.com/GRAnimated/MinecraftLCE) - 11.210% - Decompilation of Minecraft: Legacy Console Edition
@@ -343,6 +344,7 @@
 
 ## C#
 
+* 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
 * 【2026-02-28】[fpindej / netrock](https://github.com/fpindej/netrock) - SaaS starter kit for small productions— .NET 10 Clean Architecture API + SvelteKit frontend, fully dockerized. Fork it, init it, ship your product.
@@ -401,10 +403,10 @@
 * 【2026-01-19】[SwordPuffin / Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
 * 【2026-01-18】[StylishThemes / GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - Dark GitHub style
 * 【2026-01-16】[lwjglgamedev / lwjglbook-bookcontents](https://github.com/lwjglgamedev/lwjglbook-bookcontents) - Book contents for the book "3D Game Development with LWJGL 3"
-* 【2026-01-08】[Terminus2049 / Terminus2049.github.io](https://github.com/Terminus2049/Terminus2049.github.io) - No more 404
 
 ## Unknown
 
+* 【2026-03-10】[00quebec / Synthid-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
 * 【2026-03-06】[gemini-cli-extensions / conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 * 【2026-03-06】[heilcheng / awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
 * 【2026-03-05】[QwenLM / Qwen3.5](https://github.com/QwenLM/Qwen3.5) - Qwen3.5 is the large language model series developed by Qwen team, Alibaba Cloud.
@@ -438,6 +440,7 @@
 * 【2026-01-10】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 ## Jupyter-notebook
 
+* 【2026-03-10】[fastai / fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 * 【2026-03-09】[imanoop7 / Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
 * 【2026-03-09】[datawhalechina / llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) - 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理
 * 【2026-03-09】[google-research / vision_transformer](https://github.com/google-research/vision_transformer) - 
@@ -582,6 +585,10 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-10】[ki-editor / ki-editor](https://github.com/ki-editor/ki-editor) - 
+* 【2026-03-10】[LGUG2Z / komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
+* 【2026-03-10】[maplibre / martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
+* 【2026-03-10】[ratatui / ratatui](https://github.com/ratatui/ratatui) - A Rust crate for cooking up terminal user interfaces (TUIs) 👨‍🍳🐀 https://ratatui.rs
 * 【2026-03-09】[tikv / tikv](https://github.com/tikv/tikv) - Distributed transactional key-value database, originally created to complement TiDB
 * 【2026-03-08】[SaladDay / cc-switch-cli](https://github.com/SaladDay/cc-switch-cli) - ⭐️ A cross-platform CLI All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
 * 【2026-03-08】[dandavison / delta](https://github.com/dandavison/delta) - A syntax-highlighting pager for git, diff, grep, and blame output
