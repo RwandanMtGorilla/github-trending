@@ -86,8 +86,6 @@
 * 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 * 【2026-01-12】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
 * 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
-* 【2026-01-09】[NVlabs / alpasim](https://github.com/NVlabs/alpasim) - 
-* 【2026-01-09】[NevaMind-AI / memU](https://github.com/NevaMind-AI/memU) - Memory infrastructure for LLMs and AI agents
 
 ## Java
 
@@ -112,10 +110,11 @@
 * 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 * 【2026-01-12】[TrackerControl / tracker-control-android](https://github.com/TrackerControl/tracker-control-android) - TrackerControl Android: monitor and control trackers and ads.
 * 【2026-01-11】[iflytek / astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
-* 【2026-01-09】[OpenAEV-Platform / openaev](https://github.com/OpenAEV-Platform/openaev) - Open Adversarial Exposure Validation Platform
 
 ## Python
 
+* 【2026-03-11】[modelscope / sirchmunk](https://github.com/modelscope/sirchmunk) - 🐿️ Sirchmunk: Raw data to self-evolving intelligence, real-time.
+* 【2026-03-11】[volcengine / OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 * 【2026-03-09】[the-momentum / open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
 * 【2026-03-08】[teng-lin / notebooklm-py](https://github.com/teng-lin/notebooklm-py) - Unofficial Python API for Google NotebookLM
 * 【2026-03-06】[microsoft / apm](https://github.com/microsoft/apm) - Agent Package Manager
@@ -189,9 +188,6 @@
 * 【2026-01-13】[leochlon / pythea](https://github.com/leochlon/pythea) - 
 * 【2026-01-11】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
 * 【2026-01-10】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-* 【2026-01-09】[hiyouga / LlamaFactory](https://github.com/hiyouga/LlamaFactory) - Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)
-* 【2026-01-09】[MiroMindAI / MiroFlow](https://github.com/MiroMindAI/MiroFlow) - MiroMind Research Agent: Fully Open-Source Deep Research Agent with Reproducible State-of-the-Art Performance on FutureX, GAIA, HLE, BrowserComp and xBench.
-* 【2026-01-09】[datawhalechina / all-in-rag](https://github.com/datawhalechina/all-in-rag) - 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/
 
 ## Javascript
 
@@ -241,6 +237,7 @@
 
 ## Go
 
+* 【2026-03-11】[fengshao1227 / ccg-workflow](https://github.com/fengshao1227/ccg-workflow) - 多模型协作开发工具集 - 基于 Claude Code CLI，整合 Codex/Gemini 后端能力，提供智能路由、代码审查、Git 工具等 17+ 个命令
 * 【2026-03-10】[pocket-id / pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 * 【2026-03-08】[docker / docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 * 【2026-03-07】[matlab / matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server) - Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code.
@@ -308,6 +305,7 @@
 
 ## C++
 
+* 【2026-03-11】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
 * 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
 * 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
 * 【2026-03-09】[allenk / GeminiWatermarkTool](https://github.com/allenk/GeminiWatermarkTool) - Gemini Nano Banana / Pro watermark maintenance tool
@@ -340,7 +338,6 @@
 * 【2026-01-14】[Prayag2 / drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
 * 【2026-01-12】[xxnuo / MTranServer](https://github.com/xxnuo/MTranServer) - Offline translation model server with low resource consumption, fast speed, and private deployment capability. 低资源占用速度快可私有部署的离线翻译模型服务器
 * 【2026-01-11】[livinamuk / Hell2025](https://github.com/livinamuk/Hell2025) - 
-* 【2026-01-09】[UPBGE / upbge](https://github.com/UPBGE/upbge) - UPBGE, the best integrated game engine in Blender
 
 ## C#
 
@@ -384,10 +381,10 @@
 * 【2026-01-24】[Jeffallan / claude-skills](https://github.com/Jeffallan/claude-skills) - 65 Specialized Skills for Full-Stack Developers - Transform Claude Code into your expert pair programmer
 * 【2026-01-18】[rickstaa / awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
 * 【2026-01-16】[duckdb / duckdb-web](https://github.com/duckdb/duckdb-web) - 🐤 DuckDB website and documentation
-* 【2026-01-09】[mgaudet / CompilerJobs](https://github.com/mgaudet/CompilerJobs) - A listing of compiler, language and runtime teams for people looking for jobs in this area
 
 ## Css
 
+* 【2026-03-11】[app-generator / app-generator](https://github.com/app-generator/app-generator) - Free DevTools, DB Tools, CSV Processors, Apps, and Dashboards | App-Generator.dev
 * 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
 * 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
 * 【2026-02-22】[LunarLogic / starability](https://github.com/LunarLogic/starability) - Accessible rating forms with cute animations on top.
@@ -406,6 +403,7 @@
 
 ## Unknown
 
+* 【2026-03-11】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
 * 【2026-03-10】[00quebec / Synthid-Bypass](https://github.com/00quebec/Synthid-Bypass) - Ai safety research showing a working bypass to Google's synthid on Nano Banana Pro
 * 【2026-03-06】[gemini-cli-extensions / conductor](https://github.com/gemini-cli-extensions/conductor) - Conductor is a Gemini CLI extension that allows you to specify, plan, and implement software features.
 * 【2026-03-06】[heilcheng / awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills) - A curated list of skills, tools, tutorials, and capabilities for AI coding agents (Claude, Codex, Antigravity, Copilot, VS Code)
@@ -518,6 +516,7 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-03-11】[openclaw / clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 * 【2026-03-09】[iii-hq / iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 * 【2026-03-08】[frangoteam / FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
 * 【2026-03-08】[openai / openai-cua-sample-app](https://github.com/openai/openai-cua-sample-app) - Learn how to use CUA (our Computer Using Agent) via the API on multiple computer environments.
@@ -585,6 +584,8 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-11】[rust-bitcoin / rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
+* 【2026-03-11】[sigp / lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
 * 【2026-03-10】[ki-editor / ki-editor](https://github.com/ki-editor/ki-editor) - 
 * 【2026-03-10】[LGUG2Z / komorebi](https://github.com/LGUG2Z/komorebi) - A tiling window manager for Windows 🍉
 * 【2026-03-10】[maplibre / martin](https://github.com/maplibre/martin) - Blazing fast and lightweight PostGIS, MBtiles and PMtiles tile server, tile generation, and mbtiles tooling.
