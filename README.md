@@ -85,7 +85,6 @@
 * 【2026-01-15】[dev-sec / ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
 * 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 * 【2026-01-12】[frankbria / ralph-claude-code](https://github.com/frankbria/ralph-claude-code) - Autonomous AI development loop for Claude Code with intelligent exit detection
-* 【2026-01-10】[obra / superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
 
 ## Java
 
@@ -113,6 +112,8 @@
 
 ## Python
 
+* 【2026-03-12】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
+* 【2026-03-12】[vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 * 【2026-03-11】[modelscope / sirchmunk](https://github.com/modelscope/sirchmunk) - 🐿️ Sirchmunk: Raw data to self-evolving intelligence, real-time.
 * 【2026-03-11】[volcengine / OpenViking](https://github.com/volcengine/OpenViking) - OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.
 * 【2026-03-09】[the-momentum / open-wearables](https://github.com/the-momentum/open-wearables) - Self-hosted platform to unify wearable health data through one AI-ready API.
@@ -187,7 +188,6 @@
 * 【2026-01-14】[nunchaku-ai / ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) - ComfyUI Plugin of Nunchaku
 * 【2026-01-13】[leochlon / pythea](https://github.com/leochlon/pythea) - 
 * 【2026-01-11】[EveryInc / compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Claude Code compound engineering plugin
-* 【2026-01-10】[Comfy-Org / ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 
 ## Javascript
 
@@ -233,7 +233,6 @@
 * 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
 * 【2026-01-14】[yawiii / ComfyUI-Prompt-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
-* 【2026-01-10】[w1249178256 / xyzw_web_helper](https://github.com/w1249178256/xyzw_web_helper) - 咸鱼之王web端
 
 ## Go
 
@@ -305,6 +304,7 @@
 
 ## C++
 
+* 【2026-03-12】[yuaotian / antigravity-proxy](https://github.com/yuaotian/antigravity-proxy) - 🚀 Transparent proxy injector for Antigravity. Force SOCKS5/HTTP proxy without TUN mode on Windows. | 专为 Antigravity 打造的免 TUN 强制代理工具，支持 DLL 注入与进程流量劫持。
 * 【2026-03-11】[imputnet / helium-windows](https://github.com/imputnet/helium-windows) - Helium Browser for Windows (no auto-updates yet)
 * 【2026-03-10】[pjasicek / OpenClaw](https://github.com/pjasicek/OpenClaw) - Reimplementation of Captain Claw (1997) platformer
 * 【2026-03-10】[GDRETools / gdsdecomp](https://github.com/GDRETools/gdsdecomp) - Godot reverse engineering tools
@@ -341,6 +341,7 @@
 
 ## C#
 
+* 【2026-03-12】[Devolutions / UniGetUI](https://github.com/Devolutions/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
 * 【2026-03-10】[EllyVR / VRCVideoCacher](https://github.com/EllyVR/VRCVideoCacher) - 
 * 【2026-03-07】[themidnightgospel / Imposter](https://github.com/themidnightgospel/Imposter) - Fast and Memory-Efficient Mocking Library
 * 【2026-03-04】[Justsenger / ExHyperV](https://github.com/Justsenger/ExHyperV) - The Excalibur of Hyper-V / Hyper-V 神器
@@ -367,6 +368,7 @@
 
 ## Html
 
+* 【2026-03-12】[mhattingpete / claude-skills-marketplace](https://github.com/mhattingpete/claude-skills-marketplace) - Claude Code Skills for software engineering workflows - Git automation, testing, and code review
 * 【2026-03-06】[wilsonzlin / fastrender](https://github.com/wilsonzlin/fastrender) - Experimental new browser engine
 * 【2026-03-03】[PanSalut / Koffan](https://github.com/PanSalut/Koffan) - Free selfhosted groceries list for families and shared households
 * 【2026-02-21】[f / prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
@@ -384,6 +386,7 @@
 
 ## Css
 
+* 【2026-03-12】[crimethinc / website](https://github.com/crimethinc/website) - Ruby on Rails app that powers crimethinc.com
 * 【2026-03-11】[app-generator / app-generator](https://github.com/app-generator/app-generator) - Free DevTools, DB Tools, CSV Processors, Apps, and Dashboards | App-Generator.dev
 * 【2026-02-23】[Asmor / 5e-monsters](https://github.com/Asmor/5e-monsters) - Kobold Fight Club
 * 【2026-02-22】[m-lab / mlab-speedtest](https://github.com/m-lab/mlab-speedtest) - The speed.measurementlab.net website
@@ -435,9 +438,9 @@
 * 【2026-01-17】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 * 【2026-01-13】[mithi / robotics-coursework](https://github.com/mithi/robotics-coursework) - 🤖 Places where you can learn robotics (and stuff like that) online 🤖
 * 【2026-01-12】[kiloreux / awesome-robotics](https://github.com/kiloreux/awesome-robotics) - A list of awesome Robotics resources
-* 【2026-01-10】[samuelmarina / is-even](https://github.com/samuelmarina/is-even) - Is a number even?
 ## Jupyter-notebook
 
+* 【2026-03-12】[microsoft / fabric-samples](https://github.com/microsoft/fabric-samples) - Samples and data for Microsoft Fabric Learn content
 * 【2026-03-10】[fastai / fastai](https://github.com/fastai/fastai) - The fastai deep learning library
 * 【2026-03-09】[imanoop7 / Ollama-OCR](https://github.com/imanoop7/Ollama-OCR) - 
 * 【2026-03-09】[datawhalechina / llms-from-scratch-cn](https://github.com/datawhalechina/llms-from-scratch-cn) - 仅需Python基础，从0构建大语言模型；从0逐步构建GLM4\Llama3\RWKV6， 深入理解大模型原理
@@ -516,6 +519,10 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-03-12】[backnotprop / plannotator](https://github.com/backnotprop/plannotator) - Annotate and review coding agent plans visually, share with your team, send feedback to agents with one click.
+* 【2026-03-12】[gommzystudio / device-activity-tracker](https://github.com/gommzystudio/device-activity-tracker) - A phone number can reveal whether a device is active, in standby or offline (and more). This PoC demonstrates how delivery receipts + RTT timing leak sensitive device-activity patterns. (WhatsApp / Signal)
+* 【2026-03-12】[libukai / awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、资源推荐、精选技能与工具集合 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Featured&Toolkits
+* 【2026-03-12】[DaKheera47 / job-ops](https://github.com/DaKheera47/job-ops) - job-ops: DevOps principles applied to job hunting. A self-hosted pipeline to track, analyze, and assist your application process
 * 【2026-03-11】[openclaw / clawhub](https://github.com/openclaw/clawhub) - Skill Directory for OpenClaw
 * 【2026-03-09】[iii-hq / iii](https://github.com/iii-hq/iii) - iii (pronounced “three eye”) unifies your existing backend stack with a single engine and three primitives: Function, Worker, and Trigger.
 * 【2026-03-08】[frangoteam / FUXA](https://github.com/frangoteam/FUXA) - Web-based Process Visualization (SCADA/HMI/Dashboard) software
@@ -691,6 +698,7 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-03-12】[liuzq2002 / Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) - 
 * 【2026-03-09】[InfinityLoop1308 / PipePipe](https://github.com/InfinityLoop1308/PipePipe) - An open-source Android app to let you browse YouTube and other services freely.
 * 【2026-03-09】[getsentry / sentry-for-ai](https://github.com/getsentry/sentry-for-ai) - Teach your AI coding assistant how to use Sentry - setup, debugging, alerts, and more
 * 【2026-03-08】[Gentleman-Programming / gentleman-guardian-angel](https://github.com/Gentleman-Programming/gentleman-guardian-angel) - 😇 Gentleman Guardian Angel (gga) - Provider-agnostic code review using AI. Use Claude, Gemini, Codex, Ollama to enforce your coding standards.
