@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2026-03-16】[voidzero-dev / vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
 * 【2026-03-15】[dimensionalOS / dimos](https://github.com/dimensionalOS/dimos) - The Dimensional Framework
 * 【2026-03-13】[google / A2UI](https://github.com/google/A2UI) - 
 * 【2026-03-08】[agentjido / jido](https://github.com/agentjido/jido) - 🤖 Autonomous agent framework for Elixir. Built for distributed, autonomous behavior and dynamic workflows.
@@ -113,6 +114,7 @@
 
 ## Python
 
+* 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 * 【2026-03-12】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
 * 【2026-03-12】[vectorize-io / hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
@@ -187,10 +189,10 @@
 * 【2026-01-15】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
 * 【2026-01-15】[robert-mcdermott / ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
 * 【2026-01-15】[lvgalvao / data-engineering-roadmap](https://github.com/lvgalvao/data-engineering-roadmap) - Formação Profissional em Engenharia de Dados e IA
-* 【2026-01-14】[nunchaku-ai / ComfyUI-nunchaku](https://github.com/nunchaku-ai/ComfyUI-nunchaku) - ComfyUI Plugin of Nunchaku
 
 ## Javascript
 
+* 【2026-03-16】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 * 【2026-03-14】[libaxuan / cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
 * 【2026-03-13】[covibes / zeroshot](https://github.com/covibes/zeroshot) - Your autonomous engineering team in a CLI. Point Zeroshot at an issue, walk away, and return to production-grade code. Supports Claude Code, OpenAI Codex, OpenCode, and Gemini CLI.
@@ -235,7 +237,6 @@
 * 【2026-01-23】[databricks-industry-solutions / pixels](https://github.com/databricks-industry-solutions/pixels) - Facilitates simple large scale processing of HLS Medical images, documents, zip files. OHIF Viewer, 2 segmentation models and interactive learning.
 * 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
 * 【2026-01-16】[fex-team / kityminder](https://github.com/fex-team/kityminder) - 百度脑图
-* 【2026-01-14】[yawiii / ComfyUI-Prompt-Assistant](https://github.com/yawiii/ComfyUI-Prompt-Assistant) - 提示词小助手可以一键调用智谱、硅基流动、gemini、本地ollama、百度等大语言模型服务，实现提示词翻译、润色扩写、图片反推。支持提示词预设实现一键插入、历史提示词查找等功能。是一个全能型提示词插件。The Prompt Assistant enables one-click access to LLMs/VLMs for prompt translation, expansion, and image captioning. It also supports one-click preset insertion and historical prompt search.
 
 ## Go
 
@@ -273,6 +274,7 @@
 
 ## C
 
+* 【2026-03-16】[datlechin / TablePro](https://github.com/datlechin/TablePro) - A fast, native macOS database client with built-in AI assistant.
 * 【2026-03-08】[waveshareteam / e-Paper](https://github.com/waveshareteam/e-Paper) - 
 * 【2026-03-07】[allkern / iris](https://github.com/allkern/iris) - Sony PlayStation 2 emulator for Windows, Linux and macOS
 * 【2026-03-07】[emersion / mako](https://github.com/emersion/mako) - A lightweight Wayland notification daemon
@@ -335,8 +337,6 @@
 * 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
 * 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
-* 【2026-01-14】[eloqdata / eloqstore](https://github.com/eloqdata/eloqstore) - Hybrid-tier key-value storage engine built on object storage & local SSDs. Engineered for batch-write efficiency and read optimization with ultra-low tail latency.
-* 【2026-01-14】[Prayag2 / drawy](https://github.com/Prayag2/drawy) - Your handy, infinite, brainstorming tool! The project has now moved to KDE Invent.
 
 ## C#
 
@@ -406,6 +406,7 @@
 
 ## Unknown
 
+* 【2026-03-16】[KalyanKS-NLP / llm-engineer-toolkit](https://github.com/KalyanKS-NLP/llm-engineer-toolkit) - A curated list of 120+ LLM libraries category wise.
 * 【2026-03-14】[OWASP / wstg](https://github.com/OWASP/wstg) - The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.
 * 【2026-03-13】[Shichun-Liu / Agent-Memory-Paper-List](https://github.com/Shichun-Liu/Agent-Memory-Paper-List) - The paper list of "Memory in the Age of AI Agents: A Survey"
 * 【2026-03-11】[kepano / obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Markdown, Bases, JSON Canvas, and use the CLI.
@@ -440,6 +441,7 @@
 * 【2026-01-17】[obra / superpowers-marketplace](https://github.com/obra/superpowers-marketplace) - Curated Claude Code plugin marketplace
 ## Jupyter-notebook
 
+* 【2026-03-16】[jupyter / notebook](https://github.com/jupyter/notebook) - Jupyter Interactive Notebook
 * 【2026-03-15】[mml-book / mml-book.github.io](https://github.com/mml-book/mml-book.github.io) - Companion webpage to the book "Mathematics For Machine Learning"
 * 【2026-03-15】[bbruceyuan / Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN) - 中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型
 * 【2026-03-12】[microsoft / fabric-samples](https://github.com/microsoft/fabric-samples) - Samples and data for Microsoft Fabric Learn content
@@ -521,6 +523,8 @@
 * 【2026-02-02】[google-ai-edge / mediapipe-samples](https://github.com/google-ai-edge/mediapipe-samples) - 
 ## Typescript
 
+* 【2026-03-16】[siddharthvaddem / openscreen](https://github.com/siddharthvaddem/openscreen) - Create stunning demos for free. Open-source, no subscriptions, no watermarks, and free for commercial use. An alternative to Screen Studio.
+* 【2026-03-16】[awslabs / fullstack-solution-template-for-agentcore](https://github.com/awslabs/fullstack-solution-template-for-agentcore) - Flexible Fullstack solution template for production-ready deployments of any use case on Amazon Bedrock AgentCore.
 * 【2026-03-15】[Crosstalk-Solutions / project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 * 【2026-03-15】[dreamhunter2333 / cloudflare_temp_email](https://github.com/dreamhunter2333/cloudflare_temp_email) - CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot
 * 【2026-03-15】[getnao / nao](https://github.com/getnao/nao) - 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone
@@ -608,6 +612,10 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-16】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
+* 【2026-03-16】[apache / iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
+* 【2026-03-16】[tobilg / polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
+* 【2026-03-16】[wez / govee2mqtt](https://github.com/wez/govee2mqtt) - Govee2MQTT: Connect Govee lights and devices to Home Assistant
 * 【2026-03-14】[Haleclipse / CCometixLine](https://github.com/Haleclipse/CCometixLine) - Claude Code statusline tool written in Rust
 * 【2026-03-11】[rust-bitcoin / rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin) - Rust Bitcoin library
 * 【2026-03-11】[sigp / lighthouse](https://github.com/sigp/lighthouse) - Ethereum consensus client in Rust
@@ -716,6 +724,9 @@
 * 【2026-02-02】[wezterm / wezterm](https://github.com/wezterm/wezterm) - A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 ## Shell
 
+* 【2026-03-16】[termux / proot-distro](https://github.com/termux/proot-distro) - An utility for managing installations of the Linux distributions in Termux.
+* 【2026-03-16】[ophub / fnnas](https://github.com/ophub/fnnas) - Supports running FnNAS on Amlogic, Allwinner, and Rockchip devices. Support a311d, s922x, s905x3, s905x2, s912, s905d, s905x, s905w, s905, s905l, rk3588, rk3568, rk3399, rk3328, h6, etc.
+* 【2026-03-16】[fscarmen / sing-box](https://github.com/fscarmen/sing-box) - Sing-box 全家桶 --- 一键多协议脚本
 * 【2026-03-14】[ROCm / ROCm](https://github.com/ROCm/ROCm) - AMD ROCm™ Software - GitHub Home
 * 【2026-03-14】[longhorn / longhorn](https://github.com/longhorn/longhorn) - Cloud-Native distributed storage built on and for Kubernetes
 * 【2026-03-12】[liuzq2002 / Adguard-Home-For-Magisk-Mod](https://github.com/liuzq2002/Adguard-Home-For-Magisk-Mod) - 
