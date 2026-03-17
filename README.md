@@ -85,11 +85,12 @@
 * 【2026-01-17】[Gentleman-Programming / Gentleman.Dots](https://github.com/Gentleman-Programming/Gentleman.Dots) - My personal configuration for LazyVim !
 * 【2026-01-17】[iOfficeAI / AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source Cowork for Gemini CLI, Claude Code, Codex, Opencode, Qwen Code, Goose Cli, Auggie, and more | 🌟 Star if you like it!
 * 【2026-01-16】[eigent-ai / eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity.
-* 【2026-01-15】[dev-sec / ansible-collection-hardening](https://github.com/dev-sec/ansible-collection-hardening) - This Ansible collection provides battle tested hardening for Linux, SSH, nginx, MySQL
-* 【2026-01-15】[zoicware / RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI) - Force Remove Copilot, Recall and More in Windows 11
 
 ## Java
 
+* 【2026-03-17】[NightscoutFoundation / xDrip](https://github.com/NightscoutFoundation/xDrip) - Nightscout version of xDrip+
+* 【2026-03-17】[tlaplus / tlaplus](https://github.com/tlaplus/tlaplus) - TLC is a model checker for specifications written in TLA+. The TLA+Toolbox is an IDE for TLA+.
+* 【2026-03-17】[GTNewHorizons / GT5-Unofficial](https://github.com/GTNewHorizons/GT5-Unofficial) - Decompiled and modified version of GT5.07.07
 * 【2026-03-15】[googleapis / google-cloud-java](https://github.com/googleapis/google-cloud-java) - Google Cloud Client Library for Java
 * 【2026-03-13】[Eaglercraft-Archive / Eaglercraftx-1.8.8-src](https://github.com/Eaglercraft-Archive/Eaglercraftx-1.8.8-src) - Mirrored source code for eaglercraftx 1.8.8(newest version)
 * 【2026-03-10】[woheller69 / FreeDroidWarn](https://github.com/woheller69/FreeDroidWarn) - 
@@ -110,10 +111,10 @@
 * 【2026-01-26】[jarvis2f / telegram-files](https://github.com/jarvis2f/telegram-files) - A self-hosted Telegram file downloader for continuous, stable, and unattended downloads.
 * 【2026-01-25】[agentscope-ai / agentscope-java](https://github.com/agentscope-ai/agentscope-java) - AgentScope Java: Agent-Oriented Programming for Building LLM Applications
 * 【2026-01-21】[gaul / s3proxy](https://github.com/gaul/s3proxy) - Access other storage backends via the S3 API
-* 【2026-01-15】[nroduit / Weasis](https://github.com/nroduit/Weasis) - Weasis is a web-based DICOM viewer for advanced medical imaging and seamless PACS integration.
 
 ## Python
 
+* 【2026-03-17】[ZhuLinsen / daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) - LLM驱动的 A/H/美股智能分析器：多数据源行情 + 实时新闻 + LLM决策仪表盘 + 多渠道推送，零成本定时运行，纯白嫖. LLM-powered stock analysis system for A/H/US markets.
 * 【2026-03-16】[FoundationAgents / MetaGPT](https://github.com/FoundationAgents/MetaGPT) - 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming
 * 【2026-03-15】[originalankur / maptoposter](https://github.com/originalankur/maptoposter) - Transform your favorite cities into beautiful, minimalist designs. MapToPoster lets you create and export visually striking map posters with code.
 * 【2026-03-12】[langflow-ai / openrag](https://github.com/langflow-ai/openrag) - OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.
@@ -185,13 +186,10 @@
 * 【2026-01-17】[neuphonic / neutts](https://github.com/neuphonic/neutts) - On-device TTS model by Neuphonic
 * 【2026-01-17】[modelscope / evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 * 【2026-01-16】[music-assistant / server](https://github.com/music-assistant/server) - Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.
-* 【2026-01-15】[sierra-research / tau2-bench](https://github.com/sierra-research/tau2-bench) - τ²-Bench: Evaluating Conversational Agents in a Dual-Control Environment
-* 【2026-01-15】[datalab-to / chandra](https://github.com/datalab-to/chandra) - OCR model that handles complex tables, forms, handwriting with full layout.
-* 【2026-01-15】[robert-mcdermott / ai-knowledge-graph](https://github.com/robert-mcdermott/ai-knowledge-graph) - AI Powered Knowledge Graph Generator
-* 【2026-01-15】[lvgalvao / data-engineering-roadmap](https://github.com/lvgalvao/data-engineering-roadmap) - Formação Profissional em Engenharia de Dados e IA
 
 ## Javascript
 
+* 【2026-03-17】[fmhy / edit](https://github.com/fmhy/edit) - Make changes to FMHY
 * 【2026-03-16】[Axorax / awesome-free-apps](https://github.com/Axorax/awesome-free-apps) - Curated list of the best free apps for PC and mobile
 * 【2026-03-15】[SheepChef / Abracadabra](https://github.com/SheepChef/Abracadabra) - Abracadabra 魔曰，古文风文本加密工具
 * 【2026-03-14】[libaxuan / cursor2api-go](https://github.com/libaxuan/cursor2api-go) - Free claude-sonnet-4.6 | cursor不倒我不倒🙏 ❌ 不支持 tools / function calling / MCP
@@ -336,7 +334,6 @@
 * 【2026-01-20】[quickshell-mirror / quickshell](https://github.com/quickshell-mirror/quickshell) - Flexible toolkit for making desktop shells with QtQuick, for Wayland and X11
 * 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
 * 【2026-01-17】[1q23lyc45 / KitsuneMagisk](https://github.com/1q23lyc45/KitsuneMagisk) - A fork of KitsuneMagisk. Thanks to the original author @HuskyDG.
-* 【2026-01-15】[subsurface / subsurface](https://github.com/subsurface/subsurface) - This is the official upstream of the Subsurface divelog program
 
 ## C#
 
@@ -363,7 +360,6 @@
 * 【2026-01-25】[microsoft / winappCli](https://github.com/microsoft/winappCli) - winapp, the Windows App Development CLI, is a single command-line interface for managing Windows SDKs, packaging, generating app identity, manifests, certificates, and using build tools with any app framework.
 * 【2026-01-18】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!
 * 【2026-01-18】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
-* 【2026-01-15】[XKaguya / LenovoLegionToolkit](https://github.com/XKaguya/LenovoLegionToolkit) - Lightweight Lenovo Vantage and Hotkeys replacement for Lenovo Legion laptops.
 
 ## Html
 
@@ -612,6 +608,7 @@
 * 【2026-02-02】[steipete / mcporter](https://github.com/steipete/mcporter) - Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them as cli.
 ## Rust
 
+* 【2026-03-17】[mayocream / koharu](https://github.com/mayocream/koharu) - ML-powered manga translator, written in Rust.
 * 【2026-03-16】[vercel-labs / agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 * 【2026-03-16】[apache / iggy](https://github.com/apache/iggy) - Apache Iggy: Hyper-Efficient Message Streaming at Laser Speed
 * 【2026-03-16】[tobilg / polyglot](https://github.com/tobilg/polyglot) - Rust/Wasm-powered SQL transpiler for more than 30 SQL dialects
