@@ -9,6 +9,11 @@ from pyquery import PyQuery as pq
 import logging
 import time
 from dateutil.relativedelta import relativedelta
+from collections import defaultdict
+
+LANG_ORDER = ['All language', 'Java', 'Python', 'Javascript', 'Typescript',
+              'Go', 'C', 'C++', 'C#', 'Html', 'Css', 'Rust',
+              'Jupyter-notebook', 'Shell', 'Unknown']
 
 def setup_logger():
     """Initialize logger with monthly log file and console output"""
@@ -120,7 +125,7 @@ def is_title_exist(title, content, archived_contents):
     return False
 
 def convert_file_contenet(content, lang, results, archived_contents, logger):
-    ''' Add distinct results to content
+    ''' Add distinct results to content (date-first format)
     '''
     distinct_results = []
     for title, result in results.items():
@@ -133,12 +138,26 @@ def convert_file_contenet(content, lang, results, archived_contents, logger):
         logger.info(f'[{lang_display}] No new distinct results (all duplicates)')
         return content
 
-    lang_title = convert_lang_title(lang)
-    if lang_title not in content:
-        content = content + lang_title + '\n\n'
+    today_str = datetime.datetime.now().strftime('%Y-%m-%d')
+    date_title = f'## {today_str}'
+    lang_title = convert_readme_lang_title(lang)
+
+    lines = content.split('\n')
+
+    # 确保日期段落存在
+    if date_title not in [l.strip() for l in lines]:
+        lines = insert_date_section(lines, date_title)
+
+    # 确保语言子标题存在于日期段落内
+    if not has_lang_under_date(lines, date_title, lang_title):
+        lines = insert_lang_under_date(lines, date_title, lang_title, lang)
+
+    # 在语言子标题后插入条目
+    entry_text = convert_result_content(distinct_results)
+    lines = insert_entries_after_lang(lines, date_title, lang_title, entry_text)
 
     logger.info(f'[{lang_display}] Added {len(distinct_results)} new items to README.md')
-    return content.replace(lang_title + '\n\n', lang_title + '\n\n' + convert_result_content(distinct_results))
+    return '\n'.join(lines)
 
 def convert_result_content(results):
     ''' Format all results to a string
@@ -159,11 +178,115 @@ def format_description(description):
     return description.replace('\r', '').replace('\n', '')
 
 def convert_lang_title(lang):
-    ''' Lang title
+    ''' Lang title (H2, used for archived files)
     '''
     if lang == '':
         return '## All language'
     return '## ' + lang.capitalize()
+
+def convert_readme_lang_title(lang):
+    '''README.md 中的语言子标题 (H3)'''
+    if lang == '':
+        return '### All language'
+    return '### ' + lang.capitalize()
+
+def find_header_end(lines):
+    """找到 header 结束位置（第一个 ## 所在行的索引）"""
+    for i, line in enumerate(lines):
+        if line.startswith('## '):
+            return i
+    return len(lines)
+
+def insert_date_section(lines, date_title):
+    """在正确位置插入新的日期段落（保持日期降序）"""
+    new_date = date_title[3:].strip()  # "2026-02-16"
+    header_end = find_header_end(lines)
+
+    # 从 header 之后开始，找到第一个日期 < new_date 的位置
+    insert_pos = len(lines)
+    for i in range(header_end, len(lines)):
+        if lines[i].startswith('## ') and re.match(r'^## \d{4}-\d{2}-\d{2}$', lines[i].strip()):
+            existing_date = lines[i][3:].strip()
+            if existing_date < new_date:
+                insert_pos = i
+                break
+
+    # 插入: date_title + 空行
+    lines.insert(insert_pos, '')
+    lines.insert(insert_pos, date_title)
+    return lines
+
+def has_lang_under_date(lines, date_title, lang_title):
+    """检查在指定日期段落内是否存在指定语言子标题"""
+    in_date_section = False
+    for line in lines:
+        if line.strip() == date_title:
+            in_date_section = True
+            continue
+        if in_date_section:
+            if line.startswith('## ') and not line.startswith('### '):
+                return False  # 进入下一个日期段落
+            if line.strip() == lang_title:
+                return True
+    return False
+
+def insert_lang_under_date(lines, date_title, lang_title, lang):
+    """在日期段落内按 LANG_ORDER 顺序插入语言子标题"""
+    lang_display = lang if lang else 'All language'
+    target_order = LANG_ORDER.index(lang_display) if lang_display in LANG_ORDER else len(LANG_ORDER)
+
+    # 找到 date_title 所在行
+    date_idx = None
+    for i, line in enumerate(lines):
+        if line.strip() == date_title:
+            date_idx = i
+            break
+
+    if date_idx is None:
+        return lines
+
+    # 在日期段落内找到正确的插入位置
+    insert_pos = None
+    for i in range(date_idx + 1, len(lines)):
+        if lines[i].startswith('## ') and not lines[i].startswith('### '):
+            # 到达下一个日期段落，在此之前插入
+            insert_pos = i
+            break
+        if lines[i].startswith('### '):
+            existing_lang = lines[i][4:].strip()
+            existing_order = LANG_ORDER.index(existing_lang) if existing_lang in LANG_ORDER else len(LANG_ORDER)
+            if existing_order > target_order:
+                insert_pos = i
+                break
+
+    if insert_pos is None:
+        insert_pos = len(lines)
+
+    # 插入: lang_title + 空行
+    lines.insert(insert_pos, '')
+    lines.insert(insert_pos, lang_title)
+    return lines
+
+def insert_entries_after_lang(lines, date_title, lang_title, entry_text):
+    """在指定日期段落的指定语言标题后插入条目"""
+    in_date = False
+    for i, line in enumerate(lines):
+        if line.strip() == date_title:
+            in_date = True
+            continue
+        if in_date and line.startswith('## ') and not line.startswith('### '):
+            break  # 超出日期段落
+        if in_date and line.strip() == lang_title:
+            # 找到空行后的插入位置
+            insert_pos = i + 1
+            if insert_pos < len(lines) and lines[insert_pos] == '':
+                insert_pos += 1
+            # 插入条目
+            entry_lines = entry_text.rstrip('\n').split('\n')
+            for j, entry_line in enumerate(entry_lines):
+                lines.insert(insert_pos + j, entry_line)
+            return lines
+    return lines
 
 def get_archived_contents(logger):
     archived_contents = []
@@ -224,7 +347,7 @@ def find_months_to_archive():
     return months_to_archive
 
 def extract_entries_by_month(content, target_month):
-    """从 README.md 内容中提取指定月份的所有条目
+    """从 README.md 内容中提取指定月份的所有条目（兼容新旧格式）
 
     返回: {'All language': ['* 【2025-11-30】...', ...], 'Python': [...], ...}
     """
@@ -232,7 +355,16 @@ def extract_entries_by_month(content, target_month):
     current_lang = None
 
     for line in content.split('\n'):
-        # 检测语言分类标题
+        # 新格式: ## YYYY-MM-DD 是日期标题，跳过
+        if line.startswith('## ') and re.match(r'^## \d{4}-\d{2}-\d{2}$', line.strip()):
+            continue
+
+        # 新格式: ### Language 是语言标题
+        if line.startswith('### '):
+            current_lang = line[4:].strip()
+            continue
+
+        # 旧格式兼容: ## Language（非日期）
         if line.startswith('## '):
             current_lang = line[3:].strip()
             continue
@@ -257,15 +389,10 @@ def write_archive_file(month, entries_by_lang, logger):
 
     filepath = f'./archived/{month}.md'
 
-    # 按照 README.md 中的语言顺序组织内容
-    lang_order = ['All language', 'Java', 'Python', 'Javascript', 'Typescript',
-                  'Go', 'C', 'C++', 'C#', 'Html', 'Css', 'Rust',
-                  'Jupyter-notebook', 'Shell', 'Unknown']
-
     content_lines = []
     processed_langs = set()
 
-    for lang in lang_order:
+    for lang in LANG_ORDER:
         if lang in entries_by_lang:
             content_lines.append(f'## {lang}')
             content_lines.append('')
@@ -297,27 +424,87 @@ def write_archive_file(month, entries_by_lang, logger):
     logger.info(f"[Archive] Created {filepath} with {total_entries} entries")
 
 def cleanup_readme(content, days_to_keep, logger):
-    """清理 README.md 中超过指定天数的条目"""
+    """清理 README.md 中超过指定天数的条目，并清理空段落"""
     cutoff_date = datetime.datetime.now().date() - datetime.timedelta(days=days_to_keep)
 
+    # 第一遍：删除过期条目
     new_lines = []
     removed_count = 0
     kept_count = 0
 
     for line in content.split('\n'):
-        # 处理条目行
         if line.startswith('* 【'):
             entry_date = parse_entry_date(line)
             if entry_date and entry_date < cutoff_date:
                 removed_count += 1
-                continue  # 跳过超期条目
+                continue
             kept_count += 1
-
         new_lines.append(line)
 
     logger.info(f"[Cleanup] Removed {removed_count} old entries (before {cutoff_date}), kept {kept_count}")
 
-    return '\n'.join(new_lines)
+    # 第二遍：清理空的日期段落和语言子标题
+    cleaned_lines = cleanup_empty_sections(new_lines)
+
+    return '\n'.join(cleaned_lines)
+
+def cleanup_empty_sections(lines):
+    """清理空的日期段落和语言子标题"""
+    result = []
+    i = 0
+
+    while i < len(lines):
+        line = lines[i]
+
+        # 检测日期标题
+        if re.match(r'^## \d{4}-\d{2}-\d{2}$', line.strip()):
+            # 收集这个日期段落的所有行
+            section_lines = [line]
+            j = i + 1
+            while j < len(lines):
+                if lines[j].startswith('## ') and not lines[j].startswith('### '):
+                    break  # 下一个日期段落或其他 H2
+                section_lines.append(lines[j])
+                j += 1
+
+            # 检查此段落是否包含条目
+            has_entries = any(l.startswith('* 【') for l in section_lines)
+            if has_entries:
+                cleaned_section = cleanup_empty_lang_subsections(section_lines)
+                result.extend(cleaned_section)
+            # 否则整个日期段落丢弃
+
+            i = j
+        else:
+            result.append(line)
+            i += 1
+
+    return result
+
+def cleanup_empty_lang_subsections(section_lines):
+    """在一个日期段落内，清理没有条目的语言子标题"""
+    result = []
+    i = 0
+    while i < len(section_lines):
+        line = section_lines[i]
+        if line.startswith('### '):
+            # 收集这个语言子标题的行
+            sub_lines = [line]
+            j = i + 1
+            while j < len(section_lines):
+                if section_lines[j].startswith('### ') or (section_lines[j].startswith('## ') and not section_lines[j].startswith('### ')):
+                    break
+                sub_lines.append(section_lines[j])
+                j += 1
+
+            has_entries = any(l.startswith('* 【') for l in sub_lines)
+            if has_entries:
+                result.extend(sub_lines)
+            i = j
+        else:
+            result.append(line)
+            i += 1
+    return result
 
 def archive_old_entries(logger):
     """主归档入口函数，在 job() 开始时调用"""

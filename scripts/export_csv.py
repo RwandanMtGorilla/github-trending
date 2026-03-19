@@ -73,21 +73,43 @@ def parse_entry(line, lang):
     return None
 
 
+def detect_format(filepath):
+    """检测 markdown 文件格式: 'date_first' 或 'lang_first'"""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        for line in f:
+            if line.startswith('## '):
+                heading_text = line[3:].strip()
+                if re.match(r'^\d{4}-\d{2}-\d{2}$', heading_text):
+                    return 'date_first'
+                else:
+                    return 'lang_first'
+    return 'lang_first'
+
+
 def parse_markdown_file(filepath):
-    """解析单个 markdown 文件，返回条目列表"""
+    """解析单个 markdown 文件，返回条目列表（自动兼容新旧格式）"""
+    fmt = detect_format(filepath)
     entries = []
     current_lang = ""
 
     with open(filepath, 'r', encoding='utf-8') as f:
         for line in f:
-            # 检测语言标题
-            if line.startswith('## '):
-                current_lang = line[3:].strip()
-            # 检测项目条目
-            elif line.startswith('* 【'):
-                entry = parse_entry(line, current_lang)
-                if entry:
-                    entries.append(entry)
+            if fmt == 'date_first':
+                # 新格式: ## 是日期, ### 是语言
+                if line.startswith('### '):
+                    current_lang = line[4:].strip()
+                elif line.startswith('* 【'):
+                    entry = parse_entry(line, current_lang)
+                    if entry:
+                        entries.append(entry)
+            else:
+                # 旧格式: ## 是语言
+                if line.startswith('## '):
+                    current_lang = line[3:].strip()
+                elif line.startswith('* 【'):
+                    entry = parse_entry(line, current_lang)
+                    if entry:
+                        entries.append(entry)
     return entries
 
 
