@@ -6,6 +6,41 @@
 
 项目灵感来自 [bonfy/github-trending](https://github.com/bonfy/github-trending)。
 
+## 2026-03-20
+
+### All language
+
+* 【2026-03-20】[opendataloader-project / opendataloader-pdf](https://github.com/opendataloader-project/opendataloader-pdf) - PDF Parser for AI-ready data. Automate PDF accessibility. Open-source.
+* 【2026-03-20】[mobile-dev-inc / Maestro](https://github.com/mobile-dev-inc/Maestro) - Painless E2E Automation for Mobile and Web
+### Jupyter-notebook
+
+* 【2026-03-20】[AlibabaCloudDocs / aliyun_acp_learning](https://github.com/AlibabaCloudDocs/aliyun_acp_learning) - 
+### Typescript
+
+* 【2026-03-20】[Nutlope / logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
+* 【2026-03-20】[langchain-ai / deepagentsjs](https://github.com/langchain-ai/deepagentsjs) - Deep Agents in JS
+* 【2026-03-20】[tonyantony300 / alt-sendme](https://github.com/tonyantony300/alt-sendme) - Send files and folders anywhere in the world without storing in cloud - any size, any format, no accounts, no restrictions.
+* 【2026-03-20】[genlayerlabs / genlayer-project-boilerplate](https://github.com/genlayerlabs/genlayer-project-boilerplate) - 
+### Rust
+
+* 【2026-03-20】[rathole-org / rathole](https://github.com/rathole-org/rathole) - A lightweight and high-performance reverse proxy for NAT traversal, written in Rust. An alternative to frp and ngrok.
+### Go
+
+* 【2026-03-20】[entireio / cli](https://github.com/entireio/cli) - Entire is a new developer platform that hooks into your git workflow to capture AI agent sessions on every push, unifying your code with its context and reasoning.
+### C
+
+* 【2026-03-20】[charlesvestal / move-everything](https://github.com/charlesvestal/move-everything) - Move Everything
+### C++
+
+* 【2026-03-20】[intrinsic-dev / aic](https://github.com/intrinsic-dev/aic) - Toolkit for the AI for Industry Challenge
+### Html
+
+* 【2026-03-20】[Commando-X / vuln-bank](https://github.com/Commando-X/vuln-bank) - A deliberately vulnerable banking application designed for practicing Security Testing of Web App, APIs, AI integrated App and secure code reviews. Features common vulnerabilities found in real-world applications, making it an ideal platform for security professionals, developers, and enthusiasts to learn pentesting and secure coding practices.
+### Shell
+
+* 【2026-03-20】[nyldn / claude-octopus](https://github.com/nyldn/claude-octopus) - Multi-tentacled orchestrator for Claude Code - Coordinates Codex CLI and Gemini CLI for parallel task execution with intelligent contextual routing
+* 【2026-03-20】[humania-org / humanize](https://github.com/humania-org/humanize) - LLM IS AS GOOD AS YOU ARE
+* 【2026-03-20】[ChatPRD / lennys-podcast-transcripts](https://github.com/ChatPRD/lennys-podcast-transcripts) - Transcripts from Lenny's Podcast
 ## 2026-03-19
 
 ### All language
@@ -2181,38 +2216,3 @@
 
 * 【2026-01-19】[simple-login / website](https://github.com/simple-login/website) - SimpleLogin website - https://simplelogin.io
 * 【2026-01-19】[SwordPuffin / Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
-
-## 2026-01-18
-
-### Python
-
-* 【2026-01-18】[OpenBMB / VoxCPM](https://github.com/OpenBMB/VoxCPM) - VoxCPM: Tokenizer-Free TTS for Context-Aware Speech Generation and True-to-Life Voice Cloning
-
-### Go
-
-* 【2026-01-18】[kubernetes-sigs / ingress2gateway](https://github.com/kubernetes-sigs/ingress2gateway) - Convert Ingress resources to Gateway API resources
-
-### C
-
-* 【2026-01-18】[ValveSoftware / wine](https://github.com/ValveSoftware/wine) - Wine with a bit of extra spice
-
-### C++
-
-* 【2026-01-18】[Crementif / BotW-BetterVR](https://github.com/Crementif/BotW-BetterVR) - A project aimed at providing a better PC VR mode for BotW using the Cemu emulator
-
-### C#
-
-* 【2026-01-18】[dotnet / XAMLStudio](https://github.com/dotnet/XAMLStudio) - XAML Studio is a rapid prototyping tool for WinUI-based XAML that can then be easily copied into Visual Studio!
-* 【2026-01-18】[RawAccelOfficial / rawaccel](https://github.com/RawAccelOfficial/rawaccel) - kernel mode mouse accel
-
-### Html
-
-* 【2026-01-18】[rickstaa / awesome-adsb](https://github.com/rickstaa/awesome-adsb) - 📡 A curated list of awesome ASD-B tools, projects, images, resources and other shiny things.
-
-### Css
-
-* 【2026-01-18】[StylishThemes / GitHub-Dark](https://github.com/StylishThemes/GitHub-Dark) - Dark GitHub style
-
-### Unknown
-
-* 【2026-01-18】[travisvn / awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
