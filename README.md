@@ -6,6 +6,36 @@
 
 项目灵感来自 [bonfy/github-trending](https://github.com/bonfy/github-trending)。
 
+## 2026-03-21
+
+### All language
+
+* 【2026-03-21】[vas3k / TaxHacker](https://github.com/vas3k/TaxHacker) - Self-hosted AI accounting app. LLM analyzer for receipts, invoices, transactions with custom prompts and categories
+### Python
+
+* 【2026-03-21】[BiFangKNT / mtga](https://github.com/BiFangKNT/mtga) - 基于本地代理的方式，绕过 IDE 的固定模型服务商限制
+### Jupyter-notebook
+
+* 【2026-03-21】[IDEA-Research / Rex-Omni](https://github.com/IDEA-Research/Rex-Omni) - [CVPR2026] Detect Anything via Next Point Prediction
+### Typescript
+
+* 【2026-03-21】[code-yeongyu / oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+* 【2026-03-21】[southleft / figma-console-mcp](https://github.com/southleft/figma-console-mcp) - Your design system as an API. Connect AI to Figma for extraction, creation, and debugging.
+### Rust
+
+* 【2026-03-21】[Xerxes-2 / clewdr](https://github.com/Xerxes-2/clewdr) - High Performance LLM Reverse Proxy
+### Go
+
+* 【2026-03-21】[masterking32 / MasterDnsVPN](https://github.com/masterking32/MasterDnsVPN) - Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, SOCKS5 multiplexing, resolver load balancing, and high packet-loss stability.
+### Shell
+
+* 【2026-03-21】[tom-snow / wechat-windows-versions](https://github.com/tom-snow/wechat-windows-versions) - 保存微信历史版本
+* 【2026-03-21】[1N3 / Sn1per](https://github.com/1N3/Sn1per) - Attack Surface Management Platform
+* 【2026-03-21】[Steam-Headless / docker-steam-headless](https://github.com/Steam-Headless/docker-steam-headless) - A Headless Steam Docker image supporting NVIDIA GPU and accessible via Web UI
+* 【2026-03-21】[gh0stzk / dotfiles](https://github.com/gh0stzk/dotfiles) - BSPWM environment with 18 themes. With a theme selector to change on the fly.
+### Css
+
+* 【2026-03-21】[knadh / oat](https://github.com/knadh/oat) - Ultra-lightweight, zero dependency, semantic HTML, CSS, JS UI library. ~8KB min+gz.
 ## 2026-03-20
 
 ### All language
@@ -2196,23 +2226,3 @@
 ### Unknown
 
 * 【2026-01-20】[ycccccccy / echotrace](https://github.com/ycccccccy/echotrace) - EchoTrace 是一个本地、安全的微信聊天记录导出、分析与年度报告生成工具 | EchoTrace is a local, secure tool for exporting, analyzing, and generating annual reports of WeChat chat records
-
-## 2026-01-19
-
-### All language
-
-* 【2026-01-19】[tobi / try](https://github.com/tobi/try) - fresh directories for every vibe
-
-### Python
-
-* 【2026-01-19】[NVlabs / PyCuVSLAM](https://github.com/NVlabs/PyCuVSLAM) - Highly accurate and efficient VSLAM system for Python
-* 【2026-01-19】[freemocap / freemocap](https://github.com/freemocap/freemocap) - Free Motion Capture for Everyone 💀✨
-
-### Javascript
-
-* 【2026-01-19】[alam00000 / bentopdf](https://github.com/alam00000/bentopdf) - A Privacy First PDF Toolkit
-
-### Css
-
-* 【2026-01-19】[simple-login / website](https://github.com/simple-login/website) - SimpleLogin website - https://simplelogin.io
-* 【2026-01-19】[SwordPuffin / Rewaita](https://github.com/SwordPuffin/Rewaita) - Bring color to Adwaita
