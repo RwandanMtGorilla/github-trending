@@ -8,6 +8,51 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-07
+
+### Python
+
+* 【2026-11-07】[antoniaci / blackbird](https://github.com/antoniaci/blackbird) - An OSINT tool to search for accounts by username and email in social networks.
+### Jupyter-notebook
+
+* 【2026-11-07】[FinanceFlash / unvibecode](https://github.com/FinanceFlash/unvibecode) - Complex code hides connections, workflows, and business risks.Unvibe complex code. Trace business workflows.
+* 【2026-11-07】[gepa-ai / gepa](https://github.com/gepa-ai/gepa) - Optimize prompts, code, and more with AI-powered Reflective Optimization
+* 【2026-11-07】[FareedKhan-dev / all-agentic-architectures](https://github.com/FareedKhan-dev/all-agentic-architectures) - 35 production-grade agentic AI architectures (Reflexion, LATS, GraphRAG, MemGPT, Voyager, BrowserAgent, ...) — a Python library and runnable textbook with multi-provider LLM support and a 17-task benchmark leaderboard.
+### Typescript
+
+* 【2026-11-07】[elder-plinius / T3MP3ST](https://github.com/elder-plinius/T3MP3ST) - autonomous red teaming platform; multi-agent offensive-security meta-harness
+* 【2026-11-07】[meta / astryx](https://github.com/meta/astryx) - An open source design system that's fully customizable and agent ready
+* 【2026-11-07】[ParadevAI / Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions.
+### Javascript
+
+* 【2026-11-07】[HaD0Yun / CozyClay](https://github.com/HaD0Yun/CozyClay) - Open source previs software in the browser: block a scene, pose characters, author camera moves and cuts, then take the same shots to an AI video model.
+### Rust
+
+* 【2026-11-07】[orhun / git-cliff](https://github.com/orhun/git-cliff) - A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️
+* 【2026-11-07】[rivet-dev / rivet](https://github.com/rivet-dev/rivet) - The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs.
+### C++
+
+* 【2026-11-07】[synfig / synfig](https://github.com/synfig/synfig) - This is the Official source code repository of Synfig Studio animation software
+### C#
+
+* 【2026-11-07】[MoFeng2223 / BrimDeck](https://github.com/MoFeng2223/BrimDeck) - A Dynamic Island for Windows 11 with AI coding tool quotas, usage tracking, music controls, and more.
+### Html
+
+* 【2026-11-07】[plannotator / effective-html](https://github.com/plannotator/effective-html) - Agent skills for useful HTML artifacts, wireframes, interactive prototypes, plans, and diagrams.
+* 【2026-11-07】[naveedharri / baalda](https://github.com/naveedharri/baalda) - The team second brain. Plain Markdown files on your disk, edited together in real time, and read and written by your AI like a teammate.
+### Shell
+
+* 【2026-11-07】[rawfilejson / awesome-osint-arsenal](https://github.com/rawfilejson/awesome-osint-arsenal) - OSINT & recon toolkit // 100+ tools, one-command installer, SOCMINT, GEOINT, network recon, dark web, forensics & more.
+* 【2026-11-07】[omacom / omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
+* 【2026-11-07】[n8n-io / skills](https://github.com/n8n-io/skills) - 
+* 【2026-11-07】[omacom / omarchy-pkgs](https://github.com/omacom/omarchy-pkgs) - 
+* 【2026-11-07】[kunchenguid / firstmate](https://github.com/kunchenguid/firstmate) - Talk to one agent. Ship with a crew.
+* 【2026-11-07】[marcusquinn / aidevops](https://github.com/marcusquinn/aidevops) - Vibe-Coding is easy. DevOps is hard. OpenCode & Git token-efficient AI agent automation for your app, business, and personal development. Opinionated tools, services, CLI & API stack for speed, security, and 24/7 results. Open-source first. SOTA everything. The best AI harness for GitHub & teamwork.
+* 【2026-11-07】[kiddin9 / Kwrt](https://github.com/kiddin9/Kwrt) - openwrt 软路由固件
+* 【2026-11-07】[microsoft / azure-skills](https://github.com/microsoft/azure-skills) - Official agent plugin providing skills and MCP server configurations for Azure scenarios.
+### Unknown
+
+* 【2026-11-07】[hudl / open-data](https://github.com/hudl/open-data) - Free football data from StatsBomb
 ## 2026-11-06
 
 ### All language
