@@ -8,6 +8,44 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-08
+
+### All language
+
+* 【2026-11-08】[mbillow / localthings](https://github.com/mbillow/localthings) - Control your Samsung appliances from Home Assistant over your home network, with no cloud account.
+* 【2026-11-08】[ranxianglei / billion-context](https://github.com/ranxianglei/billion-context) - A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need
+### Jupyter-notebook
+
+* 【2026-11-08】[datawhalechina / every-embodied](https://github.com/datawhalechina/every-embodied) - 仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能
+### Typescript
+
+* 【2026-11-08】[chaitin / MonkeyCode](https://github.com/chaitin/MonkeyCode) - 企业级 AI 办公工作台
+* 【2026-11-08】[Unleash / unleash](https://github.com/Unleash/unleash) - Open-source feature management platform
+* 【2026-11-08】[cheaper-inference / OmniRoute](https://github.com/cheaper-inference/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 375 providers (150+ free), 1,400+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline & Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 900+ contributors
+### Javascript
+
+* 【2026-11-08】[babygoton / WorkDaddy](https://github.com/babygoton/WorkDaddy) - WorkBuddy、CodeBuddy 桌面端增强助手：签到猫猫旅行成长计划查询、多账号独立备份、点切即用；免打扰模式让 AI 无人值守跑长任务；跨账号会话迁移、异常中断自动续接；暂存/快捷提示词；毛玻璃主题与更多实用功能。
+* 【2026-11-08】[cobusgreyling / grok-bot-templates](https://github.com/cobusgreyling/grok-bot-templates) - The engineering kit for Grok Bot templates. Spec, Bot Ready score, teams, skills, routines, and a catalog you can paste into Grok Bot today.
+### Rust
+
+* 【2026-11-08】[longbridge / gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
+### Go
+
+* 【2026-11-08】[google-gemini / gemini-api-cli](https://github.com/google-gemini/gemini-api-cli) - An (experimental) CLI for the Gemini API
+### C++
+
+* 【2026-11-08】[dashdogy / MFG-Unlocker](https://github.com/dashdogy/MFG-Unlocker) - Experimental DLSS Multi Frame Generation controls for any supported MFG title on RTX 40 series GPUs
+* 【2026-11-08】[dariulone / cyberpunk-vr-port](https://github.com/dariulone/cyberpunk-vr-port) - 
+* 【2026-11-08】[komaruworld / mocktail](https://github.com/komaruworld/mocktail) - Experimental Roblox compatibility runtime for Linux and FreeBSD
+### C#
+
+* 【2026-11-08】[ItsJokerZz / FPKGi](https://github.com/ItsJokerZz/FPKGi) - FPKGi is an open-source clone of the PKGi homebrew by Bucanero for PSP, Vita, and PS3. It retains the beloved functionality, UI, background image, and music while bringing the experience back to the latest console generations. It supports custom fake package (FPKG) content via .json files & more! It's ideal for game preservation and personal use.
+### Shell
+
+* 【2026-11-08】[wondelai / skills](https://github.com/wondelai/skills) - Wondel.ai Agent Skills — Business, Marketing, UX & Coding Frameworks from Bestselling Books. 50 skills + 12 guided journeys for Claude Code, Codex, Cursor & other agentskills.io agents.
+* 【2026-11-08】[wlzh / dji-4g-vohive-mac](https://github.com/wlzh/dji-4g-vohive-mac) - 在 Mac（Apple Silicon / Intel）上用 UTM 跑 Linux 虚拟机，把大疆 4G 模块（EG25-G）伪装成移远 Quectel EC25 并部署 vohive 平台的完整步骤
+* 【2026-11-08】[liandu2024 / Open-Box](https://github.com/liandu2024/Open-Box) - Open-Box 一体化透明代理：OpenWrt / Debian / Ubuntu / Docker；自有程序闭源，第三方组件遵守原许可。
+* 【2026-11-08】[melodic-software / claude-code-plugins](https://github.com/melodic-software/claude-code-plugins) - Claude Code plugin marketplace: repo-agnostic skills, hooks, agents, and MCP servers.
 ## 2026-11-07
 
 ### Python
@@ -1300,14 +1338,3 @@
 ### Html
 
 * 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH
-
-## 2026-09-08
-
-### All language
-
-* 【2026-09-08】[MoonTechLab / LunaTV](https://github.com/MoonTechLab/LunaTV) - 本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源
-
-### Javascript
-
-* 【2026-09-08】[mekos2772 / ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) - Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocket/Surge/Loon/QX/Stash module.
-* 【2026-09-08】[Yu9191 / wloc](https://github.com/Yu9191/wloc) - 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位
