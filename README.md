@@ -8,6 +8,15 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-09
+
+### Rust
+
+* 【2026-11-09】[GCWing / OpenBitFun](https://github.com/GCWing/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond software development.
+* 【2026-11-09】[jub0t / Concat](https://github.com/jub0t/Concat) - Beta: The truly free, open-source, local-first, cross-platform video editor. Scriptable through a JSON-RPC API & MCP.
+* 【2026-11-09】[ZSeven-W / openpencil](https://github.com/ZSeven-W/openpencil) - The world's first open-source AI-native vector design tool and the first to feature concurrent Agent Teams. Design-as-Code. Turn prompts into UI directly on the live canvas. A modern alternative to Pencil.
+* 【2026-11-09】[wealthfolio / wealthfolio](https://github.com/wealthfolio/wealthfolio) - A beautiful, private, local-first personal finance tracker. Investments, net worth, spending, and simulations.
+* 【2026-11-09】[herdrdev / herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 ## 2026-11-08
 
 ### All language
@@ -1319,22 +1328,3 @@
 ### Unknown
 
 * 【2026-09-10】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
-
-## 2026-09-09
-
-### Python
-
-* 【2026-09-09】[neka-nat / freecad-mcp](https://github.com/neka-nat/freecad-mcp) - FreeCAD MCP(Model Context Protocol) server
-
-### C
-
-* 【2026-09-09】[armory3d / armorpaint](https://github.com/armory3d/armorpaint) - Graphics Creation Tools
-* 【2026-09-09】[doldecomp / melee](https://github.com/doldecomp/melee) - A decompilation of Super Smash Bros Melee brought to you by a bunch of clever folks.
-
-### C++
-
-* 【2026-09-09】[mattias800 / prosper](https://github.com/mattias800/prosper) - A user-space PlayStation 5 to PC compatibility layer for Linux, Windows, and macOS.
-
-### Html
-
-* 【2026-09-09】[omacom / omarchy-site](https://github.com/omacom/omarchy-site) - Beautiful, Modern & Opinionated Linux by DHH

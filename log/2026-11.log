@@ -306,3 +306,214 @@
 [2026-11-08 05:58:17] INFO -   Errors encountered: 0
 [2026-11-08 05:58:17] INFO -   Execution time: 58.66 seconds
 [2026-11-08 05:58:17] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - GitHub Trending Scraper - Job Started
+[2026-11-09 06:21:25] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - Archive Check - Started
+[2026-11-09 06:21:25] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - [Archive] No months need to be archived
+[2026-11-09 06:21:25] INFO - [Cleanup] Removed 5 old entries (before 2026-09-10), kept 409
+[2026-11-09 06:21:25] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - Archive Check - Completed
+[2026-11-09 06:21:25] INFO - ============================================================
+[2026-11-09 06:21:25] INFO - Loaded 51 archived files for deduplication
+[2026-11-09 06:21:25] INFO - [All language] Starting scrape
+[2026-11-09 06:21:25] DEBUG - Requesting: https://github.com/trending/
+[2026-11-09 06:21:26] INFO - HTTP 200 - https://github.com/trending/
+[2026-11-09 06:21:26] DEBUG - Parsed 9 items from HTML
+[2026-11-09 06:21:26] DEBUG - Requesting: https://github.com/trending/?spoken_language_code=zh
+[2026-11-09 06:21:28] INFO - HTTP 200 - https://github.com/trending/?spoken_language_code=zh
+[2026-11-09 06:21:28] DEBUG - Parsed 18 items from HTML
+[2026-11-09 06:21:28] INFO - [All language] Merged 27 unique items from both sources
+[2026-11-09 06:21:28] INFO - [All language] No new distinct results (all duplicates)
+[2026-11-09 06:21:30] INFO - [python] Starting scrape
+[2026-11-09 06:21:30] DEBUG - Requesting: https://github.com/trending/python
+[2026-11-09 06:21:41] INFO - HTTP 504 - https://github.com/trending/python
+[2026-11-09 06:21:41] ERROR - HTTP request failed with status 504
+[2026-11-09 06:21:41] ERROR - [python] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:21:41] INFO - [jupyter-notebook] Starting scrape
+[2026-11-09 06:21:41] DEBUG - Requesting: https://github.com/trending/jupyter-notebook
+[2026-11-09 06:21:52] INFO - HTTP 504 - https://github.com/trending/jupyter-notebook
+[2026-11-09 06:21:52] ERROR - HTTP request failed with status 504
+[2026-11-09 06:21:52] ERROR - [jupyter-notebook] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:21:52] INFO - [typescript] Starting scrape
+[2026-11-09 06:21:52] DEBUG - Requesting: https://github.com/trending/typescript
+[2026-11-09 06:22:02] INFO - HTTP 200 - https://github.com/trending/typescript
+[2026-11-09 06:22:02] DEBUG - Parsed 16 items from HTML
+[2026-11-09 06:22:02] DEBUG - Requesting: https://github.com/trending/typescript?spoken_language_code=zh
+[2026-11-09 06:22:13] INFO - HTTP 504 - https://github.com/trending/typescript?spoken_language_code=zh
+[2026-11-09 06:22:13] ERROR - HTTP request failed with status 504
+[2026-11-09 06:22:13] ERROR - [typescript] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 103, in scrape_lang
+    r2 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:22:13] INFO - [javascript] Starting scrape
+[2026-11-09 06:22:13] DEBUG - Requesting: https://github.com/trending/javascript
+[2026-11-09 06:22:22] INFO - HTTP 200 - https://github.com/trending/javascript
+[2026-11-09 06:22:22] DEBUG - Parsed 4 items from HTML
+[2026-11-09 06:22:22] DEBUG - Requesting: https://github.com/trending/javascript?spoken_language_code=zh
+[2026-11-09 06:22:33] INFO - HTTP 200 - https://github.com/trending/javascript?spoken_language_code=zh
+[2026-11-09 06:22:34] DEBUG - Parsed 11 items from HTML
+[2026-11-09 06:22:34] INFO - [javascript] Merged 15 unique items from both sources
+[2026-11-09 06:22:34] INFO - [javascript] No new distinct results (all duplicates)
+[2026-11-09 06:22:36] INFO - [rust] Starting scrape
+[2026-11-09 06:22:36] DEBUG - Requesting: https://github.com/trending/rust
+[2026-11-09 06:22:46] INFO - HTTP 200 - https://github.com/trending/rust
+[2026-11-09 06:22:46] DEBUG - Parsed 12 items from HTML
+[2026-11-09 06:22:46] DEBUG - Requesting: https://github.com/trending/rust?spoken_language_code=zh
+[2026-11-09 06:22:57] INFO - HTTP 200 - https://github.com/trending/rust?spoken_language_code=zh
+[2026-11-09 06:22:57] DEBUG - Parsed 0 items from HTML
+[2026-11-09 06:22:57] INFO - [rust] Merged 12 unique items from both sources
+[2026-11-09 06:22:57] INFO - [rust] Added 5 new items to README.md
+[2026-11-09 06:22:59] INFO - [java] Starting scrape
+[2026-11-09 06:22:59] DEBUG - Requesting: https://github.com/trending/java
+[2026-11-09 06:23:10] INFO - HTTP 504 - https://github.com/trending/java
+[2026-11-09 06:23:10] ERROR - HTTP request failed with status 504
+[2026-11-09 06:23:10] ERROR - [java] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:23:10] INFO - [go] Starting scrape
+[2026-11-09 06:23:10] DEBUG - Requesting: https://github.com/trending/go
+[2026-11-09 06:23:21] INFO - HTTP 504 - https://github.com/trending/go
+[2026-11-09 06:23:21] ERROR - HTTP request failed with status 504
+[2026-11-09 06:23:21] ERROR - [go] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:23:21] INFO - [c] Starting scrape
+[2026-11-09 06:23:21] DEBUG - Requesting: https://github.com/trending/c
+[2026-11-09 06:23:32] INFO - HTTP 200 - https://github.com/trending/c
+[2026-11-09 06:23:32] DEBUG - Parsed 6 items from HTML
+[2026-11-09 06:23:32] DEBUG - Requesting: https://github.com/trending/c?spoken_language_code=zh
+[2026-11-09 06:23:44] INFO - HTTP 504 - https://github.com/trending/c?spoken_language_code=zh
+[2026-11-09 06:23:44] ERROR - HTTP request failed with status 504
+[2026-11-09 06:23:44] ERROR - [c] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 103, in scrape_lang
+    r2 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:23:44] INFO - [c++] Starting scrape
+[2026-11-09 06:23:44] DEBUG - Requesting: https://github.com/trending/c%2B%2B
+[2026-11-09 06:23:55] INFO - HTTP 504 - https://github.com/trending/c%2B%2B
+[2026-11-09 06:23:55] ERROR - HTTP request failed with status 504
+[2026-11-09 06:23:55] ERROR - [c++] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:23:55] INFO - [c#] Starting scrape
+[2026-11-09 06:23:55] DEBUG - Requesting: https://github.com/trending/c%23
+[2026-11-09 06:24:05] INFO - HTTP 200 - https://github.com/trending/c%23
+[2026-11-09 06:24:05] DEBUG - Parsed 15 items from HTML
+[2026-11-09 06:24:05] DEBUG - Requesting: https://github.com/trending/c%23?spoken_language_code=zh
+[2026-11-09 06:24:16] INFO - HTTP 504 - https://github.com/trending/c%23?spoken_language_code=zh
+[2026-11-09 06:24:16] ERROR - HTTP request failed with status 504
+[2026-11-09 06:24:16] ERROR - [c#] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 103, in scrape_lang
+    r2 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:24:16] INFO - [html] Starting scrape
+[2026-11-09 06:24:16] DEBUG - Requesting: https://github.com/trending/html
+[2026-11-09 06:24:27] INFO - HTTP 504 - https://github.com/trending/html
+[2026-11-09 06:24:27] ERROR - HTTP request failed with status 504
+[2026-11-09 06:24:27] ERROR - [html] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:24:27] INFO - [shell] Starting scrape
+[2026-11-09 06:24:27] DEBUG - Requesting: https://github.com/trending/shell
+[2026-11-09 06:24:39] INFO - HTTP 504 - https://github.com/trending/shell
+[2026-11-09 06:24:39] ERROR - HTTP request failed with status 504
+[2026-11-09 06:24:39] ERROR - [shell] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:24:39] INFO - [css] Starting scrape
+[2026-11-09 06:24:39] DEBUG - Requesting: https://github.com/trending/css
+[2026-11-09 06:24:50] INFO - HTTP 504 - https://github.com/trending/css
+[2026-11-09 06:24:50] ERROR - HTTP request failed with status 504
+[2026-11-09 06:24:50] ERROR - [css] Failed to process: HTTP 504
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 504
+[2026-11-09 06:24:50] INFO - [unknown] Starting scrape
+[2026-11-09 06:24:50] DEBUG - Requesting: https://github.com/trending/unknown
+[2026-11-09 06:24:55] INFO - HTTP 502 - https://github.com/trending/unknown
+[2026-11-09 06:24:55] ERROR - HTTP request failed with status 502
+[2026-11-09 06:24:55] ERROR - [unknown] Failed to process: HTTP 502
+Traceback (most recent call last):
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 573, in job
+    results = scrape_lang(lang, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 100, in scrape_lang
+    r1 = scrape_url(url, logger)
+  File "/home/runner/work/github-trending/github-trending/scraper.py", line 71, in scrape_url
+    raise Exception(f"HTTP {r.status_code}")
+Exception: HTTP 502
+[2026-11-09 06:24:55] INFO - ============================================================
+[2026-11-09 06:24:55] INFO - Job Summary:
+[2026-11-09 06:24:55] INFO -   Languages processed: 15
+[2026-11-09 06:24:55] INFO -   Total items scraped: 54
+[2026-11-09 06:24:55] INFO -   Errors encountered: 12
+[2026-11-09 06:24:55] INFO -   Execution time: 209.73 seconds
+[2026-11-09 06:24:55] INFO - ============================================================
