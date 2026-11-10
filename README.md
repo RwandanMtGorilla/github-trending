@@ -8,6 +8,44 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-10
+
+### All language
+
+* 【2026-11-10】[garrytan / gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
+### Python
+
+* 【2026-11-10】[opensandbox-group / OpenSandbox](https://github.com/opensandbox-group/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+* 【2026-11-10】[snap-stanford / memorilla](https://github.com/snap-stanford/memorilla) - 🦍 Memorilla: Latent Semantic Memory for LLMs
+### Jupyter-notebook
+
+* 【2026-11-10】[alirezadir / AIMLInterviews](https://github.com/alirezadir/AIMLInterviews) - A Comprehensive Guide for Generative AI, Agentic AI, Multimodal AI, Physical AI Interviews. Proven Formula for multiple FAANG offers and more
+* 【2026-11-10】[snakers4 / silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
+* 【2026-11-10】[guipsamora / pandas_exercises](https://github.com/guipsamora/pandas_exercises) - Practice your pandas skills!
+### Typescript
+
+* 【2026-11-10】[kortix-ai / CompanyOS](https://github.com/kortix-ai/CompanyOS) - Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours.
+* 【2026-11-10】[elie222 / rakazo](https://github.com/elie222/rakazo) - Open-source Grok Bot alternative. Choose your own model and sandbox.
+* 【2026-11-10】[CodebuffAI / freebuff](https://github.com/CodebuffAI/freebuff) - The free coding agent
+* 【2026-11-10】[basketikun / infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
+* 【2026-11-10】[mantrakp04 / ardia](https://github.com/mantrakp04/ardia) - A free Chromium browser for the Mac: Arc's sidebar, Dia's polish. Chat on Discord: discord.gg/TdhuXrbcA6
+### Rust
+
+* 【2026-11-10】[HakanSeven12 / OpenCADStudio](https://github.com/HakanSeven12/OpenCADStudio) - A CAD application built with Rust — 2D/3D drawing, DWG/DXF support, and GPU-accelerated rendering
+* 【2026-11-10】[crmne / spotifast](https://github.com/crmne/spotifast) - Spotify, native and fast. One lightweight Rust app for your whole library, local playback, and Spotify Connect on Linux, macOS, and Windows.
+* 【2026-11-10】[infosave2007 / aivpn](https://github.com/infosave2007/aivpn) - AI-VPN that makes your traffic invisible to deep packet inspection
+* 【2026-11-10】[ooolabdev / ooosplat](https://github.com/ooolabdev/ooosplat) - A local desktop app that turns videos and images into 3D Gaussian Splats in one click.
+* 【2026-11-10】[ViceVerse-cz / Serein](https://github.com/ViceVerse-cz/Serein) - Tiny, Performant & 100% Native client for Discord made in Rust
+### C++
+
+* 【2026-11-10】[JakeATX / llamAmpere](https://github.com/JakeATX/llamAmpere) - llama.cpp fork for significantly improved performance on Ampere generation Nvidia cards (especially RTX 3090 / 3090 Ti): example: 110+ tok/s over a 100K-token generation at temperature 1 for qwen3.8, supporting full 262K ctx. Supports low memory (12gb) configs for 200k+ ctx. 120+ TPS, 3300+ prefill for QFN 3.8.
+* 【2026-11-10】[skizzophrenic / SquachWatch-CYD](https://github.com/skizzophrenic/SquachWatch-CYD) - SquachWatch is a firmware for the Cheap Yellow Display that gamifies detecting things like Flock Cameras, Trackers, Meta Glasses and so much more!
+### Html
+
+* 【2026-11-10】[Weiss-UltimateSavior / Tyranor-Next](https://github.com/Weiss-UltimateSavior/Tyranor-Next) - 多引擎视觉小说（Galgame）模拟器，面向 Android 平台。内置 Kirikiri / ONScripter / Tyrano / Artemis / Siglus / FVP 六套引擎运行环境，并支持 Ren'Py、RPG Maker RGSS 外置 APK 引擎模块与 PSP / Nintendo Switch 外置模拟器跳转（PPSSPP / Eden），可识别和启动多类游戏，提供游戏库管理、封面获取、存档镜像、引擎参数调节等一体化体验。
+### Unknown
+
+* 【2026-11-10】[github / copilot-app-for-beginners](https://github.com/github/copilot-app-for-beginners) - Learn how to get started using the GitHub Copilot app!
 ## 2026-11-09
 
 ### Rust
@@ -1312,19 +1350,3 @@
 
 * 【2026-09-11】[Yaozhil / mpv-Yaozhi](https://github.com/Yaozhil/mpv-Yaozhi) - mpv-Yaozhi 自制整合包 -重构mpv播放内核 - 自制 UI 优化、可视化配置脚本、弹幕、中文 stats
 * 【2026-09-11】[MoonTechLab / Selene-TV](https://github.com/MoonTechLab/Selene-TV) - 以 MoonTV v100 版本 / Helios 为后端的 Android TV 客户端，针对遥控器设备优化
-
-## 2026-09-10
-
-### All language
-
-* 【2026-09-10】[Tencent / teamai-cli](https://github.com/Tencent/teamai-cli) - Make Every Team AI Native
-* 【2026-09-10】[vastsa / PI-Desktop](https://github.com/vastsa/PI-Desktop) - Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins
-
-### Python
-
-* 【2026-09-10】[OpenDCAI / GameFactory-3A](https://github.com/OpenDCAI/GameFactory-3A) - A comprehensive open-source 3A game-generation skill and asset framework.
-* 【2026-09-10】[anbeime / skill](https://github.com/anbeime/skill) - 收录最全、更新最快的技能Skills商店：精选原创技能包（涵盖文档处理、内容创作、编程开发、机器学习、自动化工作流），全部打包好可直接安装使用！同时自动抓取GitHub上万个Skills项目，按分类、更新时间、Star数量整理。The most comprehensive and frequently updated AI Agent skill library, featuring curated skill packs across document processing, content creation, programming, machine learning, automated workflows, and many more domains.
-
-### Unknown
-
-* 【2026-09-10】[mmccaff / PlacesToPostYourStartup](https://github.com/mmccaff/PlacesToPostYourStartup) - Compiled list of links from "Ask HN: Where can I post my startup to get beta users?"
