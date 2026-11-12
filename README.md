@@ -8,6 +8,37 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-12
+
+### All language
+
+* 【2026-11-12】[GoogleChrome / modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src) - 
+* 【2026-11-12】[openai / codex-security](https://github.com/openai/codex-security) - OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security
+### Python
+
+* 【2026-11-12】[googleads / google-ads-mcp](https://github.com/googleads/google-ads-mcp) - 
+### Typescript
+
+* 【2026-11-12】[NapNeko / NapCatQQ](https://github.com/NapNeko/NapCatQQ) - Modern protocol-side framework
+### Rust
+
+* 【2026-11-12】[claration / impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
+* 【2026-11-12】[ShayanAbbas1 / dbdelve](https://github.com/ShayanAbbas1/dbdelve) - Fast and lightweight DB Client made in Rust and GPUI.
+* 【2026-11-12】[ja7ad / hydra](https://github.com/ja7ad/hydra) - A fast, resilient, multi-source file retriever and download engine
+### Go
+
+* 【2026-11-12】[Tencent / LoopForge](https://github.com/Tencent/LoopForge) - Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.
+* 【2026-11-12】[unstablebuild / rune](https://github.com/unstablebuild/rune) - a fast, GPU-accelerated, full-featured IDE and terminal multiplexer, suitable both for automatic and manual programming.
+* 【2026-11-12】[devaccuracy / ledgerforge](https://github.com/devaccuracy/ledgerforge) - The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0.
+### C++
+
+* 【2026-11-12】[mg-chao / snow-shot](https://github.com/mg-chao/snow-shot) - Snow Shot is free, open-source screenshot software and a screen recording tool for Windows and macOS, with annotation, scrolling screenshots, offline OCR and image pinning. 免费开源截图软件，支持截图标注、滚动长截图、离线 OCR、贴图与录屏。
+### Html
+
+* 【2026-11-12】[fanhao375 / microduck-replica](https://github.com/fanhao375/microduck-replica) - Microduck 复刻：飞特 HD-1910 整机已实机验证（站立、行走、前滚翻起身）。镜像、Studio 网页中控、CAD/BOM、装配教程、电路工程与训练平台 | Microduck robot replica with real hardware demos.
+### Shell
+
+* 【2026-11-12】[a2aproject / A2A](https://github.com/a2aproject/A2A) - Agent2Agent (A2A) is an open protocol enabling communication and interoperability between opaque agentic applications.
 ## 2026-11-11
 
 ### All language
@@ -1307,32 +1338,3 @@
 ### Unknown
 
 * 【2026-09-13】[knowledgefxg / learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
-
-## 2026-09-12
-
-### All language
-
-* 【2026-09-12】[nab138 / iloader](https://github.com/nab138/iloader) - User friendly sideloader
-* 【2026-09-12】[melgarafael / DeskcommCRM](https://github.com/melgarafael/DeskcommCRM) - Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.
-* 【2026-09-12】[p1neappleXpress / OpenFlux](https://github.com/p1neappleXpress/OpenFlux) - Network stack research tool. TCP tunnel with pluggable transports.
-* 【2026-09-12】[jordan-gibbs / hyperresearch](https://github.com/jordan-gibbs/hyperresearch) - Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.
-* 【2026-09-12】[alphaXiv / OpenResearch](https://github.com/alphaXiv/OpenResearch) - Run parallel research agents with any model
-
-### Javascript
-
-* 【2026-09-12】[0xranx / OpenContext](https://github.com/0xranx/OpenContext) - A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos.
-* 【2026-09-12】[Javis603 / token-monitor](https://github.com/Javis603/token-monitor) - Local-first desktop widget for tracking token usage, costs, and limits across 35+ AI coding tools—including Claude Code, Codex, Cursor, OpenCode, and OpenClaw—with multi-device sync.
-
-### Go
-
-* 【2026-09-12】[dagucloud / dagu](https://github.com/dagucloud/dagu) - Self-hostable workflow orchestrator for teams whose main work isn't orchestration. Declarative YAML over your scripts, SSH commands, containers, etc; keep workflows separate from business logic. One binary, no database, runs on limited H/W resources. Alternative to Airflow / Cron / Job Scheduler.
-
-### C++
-
-* 【2026-09-12】[0xShug0 / audio.cpp](https://github.com/0xShug0/audio.cpp) - An all-in-one, pure C++ inference engine for audio models, powered by ggml. Supports TTS, STT, VAD, voice conversion, music generation, and more, with highly optimized performance. No Python dependency.
-* 【2026-09-12】[lkimuk / ReArk](https://github.com/lkimuk/ReArk) - An intelligent reverse engineering analysis tool designed for multiple target platforms, currently supporting HarmonyOS (HAP/APP/ABC) and Android (APK/AAB).
-* 【2026-09-12】[iamaisim / ProjectAirSim](https://github.com/iamaisim/ProjectAirSim) - Project AirSim is Microsoft's evolution of AirSim, an advanced simulation platform for building, training, and testing autonomous systems in high-fidelity virtual environments
-
-### C#
-
-* 【2026-09-12】[ProwlEngine / Prowl](https://github.com/ProwlEngine/Prowl) - An Open Source C# 3D Game Engine under MIT license, inspired by Unity and featuring a complete editor
