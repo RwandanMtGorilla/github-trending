@@ -8,6 +8,33 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-13
+
+### All language
+
+* 【2026-11-13】[pookjw / HermesEnabler](https://github.com/pookjw/HermesEnabler) - Enable Hermès Watch Faces on any Apple Watch devices
+### Python
+
+* 【2026-11-13】[oaustegard / claude-skills](https://github.com/oaustegard/claude-skills) - My collection of Claude skills
+* 【2026-11-13】[NVIDIA / SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator) - Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.
+### Jupyter-notebook
+
+* 【2026-11-13】[zazencodes / zazencodes-season-3](https://github.com/zazencodes/zazencodes-season-3) - YouTube video source code for Season 3
+### Typescript
+
+* 【2026-11-13】[block / buzz-app](https://github.com/block/buzz-app) - A new desktop/web app experience for buzz
+* 【2026-11-13】[PurpleDoubleD / locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) - The all-in-one local AI studio for your desktop: chat, image and video generation and a coding agent in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required.
+* 【2026-11-13】[adewaskar / jarvis](https://github.com/adewaskar/jarvis) - J.A.R.V.I.S for automating your daily tasks using Claude Code
+* 【2026-11-13】[shanliuling / dsh-image-gen](https://github.com/shanliuling/dsh-image-gen) - 可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI.
+### Go
+
+* 【2026-11-13】[databricks / cli](https://github.com/databricks/cli) - Databricks CLI
+### Shell
+
+* 【2026-11-13】[EpicGames / unreal-engine-skills-for-claude-code-plugin](https://github.com/EpicGames/unreal-engine-skills-for-claude-code-plugin) - 
+* 【2026-11-13】[bivlked / amneziawg-installer](https://github.com/bivlked/amneziawg-installer) - Install your own AmneziaWG 3.1 VPN server on a fresh Ubuntu or Debian VPS with one command. Made for networks that block WireGuard. No Docker, QR-code import, 2.0 on request for routers.
+* 【2026-11-13】[skills / introduction-to-git](https://github.com/skills/introduction-to-git) - Use Git version control to work on a game using command line (CLI) and VS Code
+* 【2026-11-13】[chefranov / mhi2-au37x-carplay](https://github.com/chefranov/mhi2-au37x-carplay) - CarPlay map, route guidance and album art on the Audi Virtual Cockpit, plus MMI touchpad D-pad. MIB2 High, A3/S3/RS3 8V and Q2
 ## 2026-11-12
 
 ### All language
@@ -1310,31 +1337,3 @@
 ### Unknown
 
 * 【2026-09-14】[LLMQuant / awesome-trading-agents](https://github.com/LLMQuant/awesome-trading-agents) - Curated list of LLM-driven trading agents, MCP servers, and agent skills for market research, strategy, and execution.
-
-## 2026-09-13
-
-### All language
-
-* 【2026-09-13】[SnailSploit / Claude-Red](https://github.com/SnailSploit/Claude-Red) - claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.
-* 【2026-09-13】[multimodal-art-projection / YuE](https://github.com/multimodal-art-projection/YuE) - YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.
-
-### Python
-
-* 【2026-09-13】[petergyang / no-ai-slop](https://github.com/petergyang/no-ai-slop) - Removes 20+ patterns of AI slop from any piece of writing.
-* 【2026-09-13】[google-gemini / gemini-skills](https://github.com/google-gemini/gemini-skills) - Skills for the Gemini API, SDK and model/agent interactions
-
-### Javascript
-
-* 【2026-09-13】[withmarbleapp / os-taxonomy](https://github.com/withmarbleapp/os-taxonomy)
-
-### Go
-
-* 【2026-09-13】[najmuzzaman-mohammad / gawkbot](https://github.com/najmuzzaman-mohammad/gawkbot) - open source grok bot. gawk bots automate your menial work via AI models and build you microapps to manage the outcome, so that you have a false sense of control.
-
-### C
-
-* 【2026-09-13】[FoggyBytes / StreamLight](https://github.com/FoggyBytes/StreamLight) - Moonlight fork, a complete new UI experience with a lot of new features and a deeper host integration.
-
-### Unknown
-
-* 【2026-09-13】[knowledgefxg / learning-english](https://github.com/knowledgefxg/learning-english) - 精选优质英语学习资源合集，专注于听说读写等核心技能的提升。包含语法、词汇和媒体资源，助您更好地学习英语。
