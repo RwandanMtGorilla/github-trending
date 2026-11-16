@@ -8,6 +8,37 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-16
+
+### Python
+
+* 【2026-11-16】[bojieli / ai-infra-book](https://github.com/bojieli/ai-infra-book) - 《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验
+### Jupyter-notebook
+
+* 【2026-11-16】[Infrasys-AI / AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
+### Typescript
+
+* 【2026-11-16】[assistant-ui / assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat 💬🚀
+* 【2026-11-16】[nolly-studio / cult-ui](https://github.com/nolly-studio/cult-ui) - Animated components for design engineers. 150+ free shadcn/ui components, built with Tailwind CSS and Motion. MIT licensed.
+* 【2026-11-16】[simonlin1212 / Vibe-Research](https://github.com/simonlin1212/Vibe-Research) - Vibe-Research：A 股、美股、港股的投研工作台 · 自选与持仓、每日复盘、产业资讯、产业研究、个股深挖、回测、研报库，168 个数据端点。支持 Claude Code、Codex、WorkBuddy 订阅或任意模型 API。 | A research workbench for China A-shares, US and HK stocks.
+### Rust
+
+* 【2026-11-16】[harry0703 / MangoDisk](https://github.com/harry0703/MangoDisk) - Safety-first disk cleaner and space analyzer for macOS, Windows and Linux, with duplicate cleanup, app uninstall, startup management, system optimization, and maintenance.
+* 【2026-11-16】[antithesishq / bombadil](https://github.com/antithesishq/bombadil) - Property-based testing for web and terminal UIs
+### Go
+
+* 【2026-11-16】[HuskerMinion / techo5](https://github.com/HuskerMinion/techo5) - Open firmware for the Echo Show 5, 1st and 2nd gen: Alpine Linux instead of Android, no Alexa. A local Home Assistant voice satellite with its own touch screen, on-device wake word, SSH and A/B over-the-air updates.
+### C++
+
+* 【2026-11-16】[sonicnext-dev / MarathonRecomp](https://github.com/sonicnext-dev/MarathonRecomp) - An unofficial PC port of the Xbox 360 version of Sonic the Hedgehog (2006) created through the process of static recompilation
+* 【2026-11-16】[SunshineStream / Sunshine](https://github.com/SunshineStream/Sunshine) - Self-hosted game stream host for Moonlight.
+### Shell
+
+* 【2026-11-16】[kinsamanka / OpenStick-Builder](https://github.com/kinsamanka/OpenStick-Builder) - Debian image builder for MSM8916 based 4G modem dongles
+* 【2026-11-16】[itsnotkubrick / 3X-UI_KIT](https://github.com/itsnotkubrick/3X-UI_KIT) - 
+* 【2026-11-16】[jqssun / android-titanium-browser](https://github.com/jqssun/android-titanium-browser) - Secure open-source Android browser with support for extensions
+* 【2026-11-16】[hestiacp / hestiacp](https://github.com/hestiacp/hestiacp) - Hestia Control Panel | A lightweight and powerful control panel for the modern web.
+* 【2026-11-16】[233boy / Xray](https://github.com/233boy/Xray) - 最好用的 Xray 一键安装脚本 & 管理脚本
 ## 2026-11-15
 
 ### All language
@@ -1340,23 +1371,3 @@
 ### C#
 
 * 【2026-09-17】[crazysmile-PhD / downkyicore](https://github.com/crazysmile-PhD/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
-
-## 2026-09-16
-
-### All language
-
-* 【2026-09-16】[Homebrew / BrewUI](https://github.com/Homebrew/BrewUI) - 📺 Homebrew's official macOS GUI
-* 【2026-09-16】[pacifio / atlas](https://github.com/pacifio/atlas) - Source control for agents. Use multiple coding agents, track their changes and query them in one place
-* 【2026-09-16】[MG1937 / ASC](https://github.com/MG1937/ASC) - ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.
-
-### Go
-
-* 【2026-09-16】[e2b-dev / runtime](https://github.com/e2b-dev/runtime) - The runtime behind every E2B stack: Cloud, Enterprise, and your own machine.
-
-### C
-
-* 【2026-09-16】[luka-dev / mib2q-carplay-rgi](https://github.com/luka-dev/mib2q-carplay-rgi) - Implementation of Route Guidance from CarPlay for MHI2Q
-
-### Html
-
-* 【2026-09-16】[w3c / wai-website](https://github.com/w3c/wai-website) - This repository hosts the W3C WAI web site.
