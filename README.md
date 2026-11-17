@@ -8,6 +8,31 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-17
+
+### All language
+
+* 【2026-11-17】[google-research / paper-orchestra](https://github.com/google-research/paper-orchestra) - PaperOrchestra is a multi-agent framework for automated AI research paper writing.
+### Python
+
+* 【2026-11-17】[vstorm-co / agenticos](https://github.com/vstorm-co/agenticos) - Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI.
+### Typescript
+
+* 【2026-11-17】[s0ld13rr / pentestcode](https://github.com/s0ld13rr/pentestcode) - PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations.
+* 【2026-11-17】[hieunc229 / mailflare](https://github.com/hieunc229/mailflare) - Email for professionals and teams
+### Javascript
+
+* 【2026-11-17】[jessepinkman9900 / claude-second-brain](https://github.com/jessepinkman9900/claude-second-brain) - Fastest way to scaffold your LLM powered personal knowledge base - Obsidian, Claude Code, qmd, Github
+### Rust
+
+* 【2026-11-17】[xai-org / x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
+### Java
+
+* 【2026-11-17】[LiteLDev / LeviLauncher-Android](https://github.com/LiteLDev/LeviLauncher-Android) - LeviLauncher for Android
+* 【2026-11-17】[TelegramMessenger / Telegram-Android](https://github.com/TelegramMessenger/Telegram-Android) - Telegram for Android source
+### Go
+
+* 【2026-11-17】[gnacho / netpulse](https://github.com/gnacho/netpulse) - PWA dashboard for monitoring OpenWrt/GL.iNet home networks: fleet status, per-router health, devices, WireGuard peers, AdGuard Home stats and alerts in real time (SSE). Go backend + React 19 frontend, SQLite, multi-user, i18n ES/EN.
 ## 2026-11-16
 
 ### Python
@@ -1352,22 +1377,3 @@
 ### Html
 
 * 【2026-09-18】[OWASP / www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
-
-## 2026-09-17
-
-### All language
-
-* 【2026-09-17】[abue-ammar / tinycast](https://github.com/abue-ammar/tinycast) - Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.
-
-### Python
-
-* 【2026-09-17】[TencentCloud / Octop](https://github.com/TencentCloud/Octop) - A smarter, self-hosted AI assistant — multi-user, multi-agent.
-* 【2026-09-17】[meituan-longcat / LongCat-Video](https://github.com/meituan-longcat/LongCat-Video)
-
-### C++
-
-* 【2026-09-17】[JingMatrix / NeoZygisk](https://github.com/JingMatrix/NeoZygisk) - Zygote injection with ptrace
-
-### C#
-
-* 【2026-09-17】[crazysmile-PhD / downkyicore](https://github.com/crazysmile-PhD/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
