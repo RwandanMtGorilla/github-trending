@@ -8,6 +8,39 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-18
+
+### Python
+
+* 【2026-11-18】[3441293738 / creatorhub](https://github.com/3441293738/creatorhub) - 多平台内容监控·采集·搬运 一个 Web 面板管起抖音 / 小红书 / 快手 / 视频号 / TikTok
+### Jupyter-notebook
+
+* 【2026-11-18】[datawhalechina / llm-algo-leetcode](https://github.com/datawhalechina/llm-algo-leetcode) - Hands-on LLM algorithms and systems with PyTorch, Triton & CUDA.《大模型算法与系统教程》：模型架构与训练、后训练、推理加速、性能与算子优化，配套 Notebook 练习、答案解析、测试与实验。
+### Typescript
+
+* 【2026-11-18】[lnkiai / m3e-canvas](https://github.com/lnkiai/m3e-canvas) - Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.
+### Javascript
+
+* 【2026-11-18】[Minglink / dsh-infinite-gen-5](https://github.com/Minglink/dsh-infinite-gen-5) - DeepSeek v4.1 flash 最强逆向工具（无限五代） 求 Star 收藏 ⭐欢迎大家提交项目的改进
+* 【2026-11-18】[aliyun / ai-agent-handbook](https://github.com/aliyun/ai-agent-handbook) - A practical guide to building enterprise AI agents across their full lifecycle.
+### Rust
+
+* 【2026-11-18】[BurntSushi / jiff](https://github.com/BurntSushi/jiff) - A datetime library for Rust that encourages you to jump into the pit of success.
+* 【2026-11-18】[leepokai / Codync](https://github.com/leepokai/Codync) - Open source Grok Bot alternative, Bring your own agent and subscription: message Claude Code, Codex, Gemini CLI, Cursor, Copilot and 40+ AI agents as bots on your own computer, from iPhone, Mac, Windows, Linux or terminal. Agent-agnostic and free. Also a Muse and Dots alternative. Built in Rust.
+* 【2026-11-18】[jlcodes99 / cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta
+### Go
+
+* 【2026-11-18】[basketikun / chatgpt2api](https://github.com/basketikun/chatgpt2api) - ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件
+### C++
+
+* 【2026-11-18】[clice-io / clice](https://github.com/clice-io/clice) - A C/C++, Objective-C and CUDA language server built on Clang: crash-isolated worker processes, C++20 modules and compilation contexts out of the box, plus a CLI to index, query and refactor whole projects.
+### Shell
+
+* 【2026-11-18】[VIKINGYFY / OpenWRT-CI](https://github.com/VIKINGYFY/OpenWRT-CI) - 云编译OpenWRT开源固件
+### Unknown
+
+* 【2026-11-18】[nowork-studio / notfair-plugin](https://github.com/nowork-studio/notfair-plugin) - Open-source SEO, GEO, and marketing skills for AI agents.
+* 【2026-11-18】[LottieFiles / motion-design-skill](https://github.com/LottieFiles/motion-design-skill) - Universal motion design principles for AI agents — timing, easing, choreography, and Disney animation principles adapted for UI
 ## 2026-11-17
 
 ### All language
@@ -1349,31 +1382,3 @@
 
 * 【2026-09-19】[matz / spinel](https://github.com/matz/spinel)
 * 【2026-09-19】[i12bp8 / TagTinker](https://github.com/i12bp8/TagTinker) - Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
-
-## 2026-09-18
-
-### All language
-
-* 【2026-09-18】[Tencent / BrowserSkill](https://github.com/Tencent/BrowserSkill) - Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent.
-
-### Python
-
-* 【2026-09-18】[arnegiacomo / fugleramme](https://github.com/arnegiacomo/fugleramme) - E-ink bird frame for Raspberry Pi - real-time bird detection by audio, fully local AI, rendered as real, hand-cut 1800s bird illustrations.
-* 【2026-09-18】[strands-agents / harness-sdk](https://github.com/strands-agents/harness-sdk) - Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python & TypeScript - any model, any cloud.
-* 【2026-09-18】[wilbowes / EchoMuse](https://github.com/wilbowes/EchoMuse) - Alexa replacement and controller for Echo Dot 2nd Generation device.
-
-### Javascript
-
-* 【2026-09-18】[Joooook / 12306-mcp](https://github.com/Joooook/12306-mcp) - This is a 12306 ticket search server based on the Model Context Protocol (MCP).
-
-### C
-
-* 【2026-09-18】[SlickAmogus / silent-hill-decomp](https://github.com/SlickAmogus/silent-hill-decomp) - Multiplatform and Feature-rich Port based on PSX decompilation of Silent Hill 1 made with Claude and Psycross. Still in beta and is in active development.
-
-### C++
-
-* 【2026-09-18】[fougue / mayo](https://github.com/fougue/mayo) - 3D CAD viewer and converter based on Qt + OpenCascade
-
-### Html
-
-* 【2026-09-18】[OWASP / www-project-agentic-skills-top-10](https://github.com/OWASP/www-project-agentic-skills-top-10) - OWASP Foundation web repository
