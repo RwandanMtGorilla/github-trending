@@ -8,6 +8,35 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-19
+
+### Python
+
+* 【2026-11-19】[Dodaios / Dodaios](https://github.com/Dodaios/Dodaios) - One workspace for everything you do with AI: Claude Code, Codex and seven more coding agents side by side, one assistant that runs them, voice, and docs. Open source, on your computer, on your own plans and keys. Formerly Personal Jarvis.
+* 【2026-11-19】[ethanplusai / sellbird](https://github.com/ethanplusai/sellbird) - Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.
+### Typescript
+
+* 【2026-11-19】[Vincentwei1021 / video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) - AI video skill for Claude Code & Codex — cinematic, editable product promos with Remotion: 124 shot recipe cards, 150 motion previews, beat sync, sound design, Motion Workbench & JianYing (CapCut CN) export.
+* 【2026-11-19】[vercel / eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
+### Javascript
+
+* 【2026-11-19】[qwdwqfwq / topconf-paper-figure-gallery](https://github.com/qwdwqfwq/topconf-paper-figure-gallery) - 3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting
+* 【2026-11-19】[pugarte7 / spanish-top-tech-companies](https://github.com/pugarte7/spanish-top-tech-companies) - MCP con las mejores ofertas tech de España, para que tus agentes puedan aplicar por ti de forma automática.
+### Java
+
+* 【2026-11-19】[microsoft / copilot-sdk](https://github.com/microsoft/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+* 【2026-11-19】[Aizistral-Studios / No-Chat-Restrictions](https://github.com/Aizistral-Studios/No-Chat-Restrictions) - A Minecraft mod dedicated to removing restrictions around the use of multiplayer features, including in-game chat.
+* 【2026-11-19】[dotnetdreamer / open-android-dex](https://github.com/dotnetdreamer/open-android-dex) - Turn any android phone into Desktop class experience including full linux environment without root
+### C++
+
+* 【2026-11-19】[incoai / splash](https://github.com/incoai/splash) - A local inference engine for Apple silicon, built around the model.
+### Shell
+
+* 【2026-11-19】[mjmirza / app-store-compliance](https://github.com/mjmirza/app-store-compliance) - Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.
+* 【2026-11-19】[bestxtools / awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
+### Unknown
+
+* 【2026-11-19】[jdnei / JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian) - 2026最新好用的机场推荐与节点分享
 ## 2026-11-18
 
 ### Python
@@ -1365,20 +1394,3 @@
 ### Unknown
 
 * 【2026-09-20】[docker / sbx-releases](https://github.com/docker/sbx-releases)
-
-## 2026-09-19
-
-### Java
-
-* 【2026-09-19】[rstudio / rstudio](https://github.com/rstudio/rstudio) - RStudio is an integrated development environment (IDE) for R
-
-### Go
-
-* 【2026-09-19】[felinics / Memoh](https://github.com/felinics/Memoh) - ✨ The open-source multi-agent platform. Every agent gets its own computer, desktop, network, and long-term memory. You can bring your own key, or host your coding agent like Claude Code, Codex and so on.
-* 【2026-09-19】[weave-os / router](https://github.com/weave-os/router) - Model router for agentic systems. Routes every prompt to the right model in <50ms. Cut costs 40-70% with just an endpoint change.
-* 【2026-09-19】[router-for-me / CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build, Muse Code, Davin as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini Series, GPT Series, Grok Series, Claude model through API
-
-### C
-
-* 【2026-09-19】[matz / spinel](https://github.com/matz/spinel)
-* 【2026-09-19】[i12bp8 / TagTinker](https://github.com/i12bp8/TagTinker) - Flipper Zero app for ESL research using IR. All based on https://www.furrtek.org/?a=esl
