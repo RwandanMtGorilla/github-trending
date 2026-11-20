@@ -8,6 +8,43 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-20
+
+### Python
+
+* 【2026-11-20】[awslabs / cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator) - Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions
+* 【2026-11-20】[FlashML-org / FreeVideo](https://github.com/FlashML-org/FreeVideo) - Make videos on the computer you already own. FreeVideo runs MiniMax H3 in as little as 8 GB of VRAM and 16 GB of RAM, and adapts its acceleration path to your hardware.
+* 【2026-11-20】[phone-harness / phone-harness](https://github.com/phone-harness/phone-harness) - let your agent control your phone
+### Jupyter-notebook
+
+* 【2026-11-20】[ed-donner / undercover](https://github.com/ed-donner/undercover) - 
+### Typescript
+
+* 【2026-11-20】[bendlang / bend](https://github.com/bendlang/bend) - Bend 2: a fast language that blocks AI mistakes via proof. Install: curl -fsSL https://bend-lang.com/install.sh | sh
+* 【2026-11-20】[croffasia / itsaplan](https://github.com/croffasia/itsaplan) - ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products.
+### Javascript
+
+* 【2026-11-20】[micromatch / picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, i…
+### Go
+
+* 【2026-11-20】[datazip-inc / olake-go](https://github.com/datazip-inc/olake-go) - OLake Go: open-source replication from databases, Kafka and S3 to Apache Iceberg and Parquet. Sources: Postgres, MySQL, MongoDB, Oracle, MSSQL, DB2, Kafka, S3. Formerly datazip-inc/olake. Table maintenance lives in datazip-inc/olake-fusion.
+### C
+
+* 【2026-11-20】[LiberNT / LiberNT](https://github.com/LiberNT/LiberNT) - A free Windows-compatible Operating System
+### C++
+
+* 【2026-11-20】[intrinsic-ai / intrinsic-core](https://github.com/intrinsic-ai/intrinsic-core) - Intrinsic Core™ provides an open, local runtime, SDK, and hardware agnostic, real-time control framework for industrial robotics.
+### C#
+
+* 【2026-11-20】[dlsandy / Transub-Player](https://github.com/dlsandy/Transub-Player) - Open a video. Subtitles follow. Windows player with live dual-language subtitles.
+### Shell
+
+* 【2026-11-20】[FFmpeg-Builds / FFmpeg-Builds](https://github.com/FFmpeg-Builds/FFmpeg-Builds) - 
+* 【2026-11-20】[home-assistant / apps](https://github.com/home-assistant/apps) - 🧰 The official Apps repository for Home Assistant
+### Unknown
+
+* 【2026-11-20】[punkpeye / awesome-remote-mcp-servers](https://github.com/punkpeye/awesome-remote-mcp-servers) - A collection of remote MCP servers.
+* 【2026-11-20】[negarprh / Canadian-Tech-Internships-2027](https://github.com/negarprh/Canadian-Tech-Internships-2027) - A curated, regularly updated list of Canadian tech internships for Summer, Fall, and Winter 2027. Includes computer science, software engineering, software development, data, and IT internships across major Canadian cities and remote roles, with verified opportunities for students studying in Canada.
 ## 2026-11-19
 
 ### Python
@@ -1364,33 +1401,3 @@
 ### Unknown
 
 * 【2026-09-21】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
-
-## 2026-09-20
-
-### All language
-
-* 【2026-09-20】[higgsfield-ai / higgsfield](https://github.com/higgsfield-ai/higgsfield) - Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters
-* 【2026-09-20】[yynxxxxx / Codex-X](https://github.com/yynxxxxx/Codex-X) - OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。
-
-### Python
-
-* 【2026-09-20】[PenglongHuang / chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill) - 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill
-* 【2026-09-20】[mcncarl / yichen-skills](https://github.com/mcncarl/yichen-skills)
-
-### Javascript
-
-* 【2026-09-20】[techjarves / Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) - Portable local AI studio for Windows, Linux, and macOS. Zero-setup GUI for Image Generation, GGUF LLMs, Text to Speech & Speech to Text
-
-### Go
-
-* 【2026-09-20】[openai / tunnel-client](https://github.com/openai/tunnel-client) - Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet.
-* 【2026-09-20】[grafana / gcx](https://github.com/grafana/gcx) - A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage.
-
-### C
-
-* 【2026-09-20】[HarbourMasters / PaperBoat](https://github.com/HarbourMasters/PaperBoat)
-* 【2026-09-20】[Rainchus / Donkey-Kong-64-Recompiled](https://github.com/Rainchus/Donkey-Kong-64-Recompiled)
-
-### Unknown
-
-* 【2026-09-20】[docker / sbx-releases](https://github.com/docker/sbx-releases)
