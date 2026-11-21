@@ -1369,35 +1369,3 @@
 ### C#
 
 * 【2026-09-22】[mcneel / RhinoAI](https://github.com/mcneel/RhinoAI) - AI features for Rhino
-
-## 2026-09-21
-
-### All language
-
-* 【2026-09-21】[vercel-labs / json-render](https://github.com/vercel-labs/json-render) - The Generative UI framework
-
-### Python
-
-* 【2026-09-21】[zhouxiaoka / autoclip](https://github.com/zhouxiaoka/autoclip) - AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具
-
-### Javascript
-
-* 【2026-09-21】[BuilderIO / skills](https://github.com/BuilderIO/skills) - Skills for agents
-
-### Go
-
-* 【2026-09-21】[vshulcz / deja-vu](https://github.com/vshulcz/deja-vu) - One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary.
-* 【2026-09-21】[superdurable / dex](https://github.com/superdurable/dex) - Durable Execution (D-EX) framework built on Temporal/Cadence
-
-### C
-
-* 【2026-09-21】[bryanthaboi / gen1recomp](https://github.com/bryanthaboi/gen1recomp) - Gen1Recomp - A native Lua / LÖVE2D recreation of Gen 1 and 2 Poke
-* 【2026-09-21】[PlatformLab / HomaModule](https://github.com/PlatformLab/HomaModule) - A Linux kernel module that implements the Homa transport protocol.
-
-### C#
-
-* 【2026-09-21】[RankFTW / RHI](https://github.com/RankFTW/RHI) - ReShade HDR Installer
-
-### Unknown
-
-* 【2026-09-21】[KyleBing / rime-wubi86-jidian](https://github.com/KyleBing/rime-wubi86-jidian) - 86五笔极点码表 for 鼠须管(macOS)、小狼毫(Windows)、中州韵(Ubuntu) 、仓（iOS）、同文（Android）五笔输入方案，五笔输入法，Rime 方案。Chinese wubi input method schema
