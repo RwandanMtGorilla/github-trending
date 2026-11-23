@@ -1317,38 +1317,3 @@
 * 【2026-09-24】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
 * 【2026-09-24】[SafeExamBrowser / seb-win-refactoring](https://github.com/SafeExamBrowser/seb-win-refactoring) - Safe Exam Browser for Windows.
 * 【2026-09-24】[marcussacana / DirectPackageInstaller](https://github.com/marcussacana/DirectPackageInstaller) - Send Direct PKG URLs to your PS4
-
-## 2026-09-23
-
-### All language
-
-* 【2026-09-23】[google / ax](https://github.com/google/ax) - Google's open agentic orchestration runtime
-* 【2026-09-23】[superdesigndev / treg](https://github.com/superdesigndev/treg) - OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn
-
-### Javascript
-
-* 【2026-09-23】[DuarteSantos8 / openGym](https://github.com/DuarteSantos8/openGym) - Self-hosted gym & body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.
-
-### Go
-
-* 【2026-09-23】[CarterPerez-dev / Cybersecurity-Projects](https://github.com/CarterPerez-dev/Cybersecurity-Projects) - Building 70 Projects ranging from beginner to advanced so anyone can — learn from, build upon, use as a reference, or even copy directly. Gamified Cybersecurity learning 👇
-* 【2026-09-23】[openbkn-ai / bkn-foundry](https://github.com/openbkn-ai/bkn-foundry) - BKN Foundry is the Ontology back-end foundation of OpenBKN. It transforms ontology-driven business semantics into runtime services: data, logic, actions, security governance, and observability.
-* 【2026-09-23】[skyhook-io / radar](https://github.com/skyhook-io/radar) - The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary.
-* 【2026-09-23】[fullsend-ai / fullsend](https://github.com/fullsend-ai/fullsend) - On the path to fully autonomous agentic engineering
-
-### C
-
-* 【2026-09-23】[rizonesoft / Notepad3](https://github.com/rizonesoft/Notepad3) - Notepad like text editor based on the Scintilla source code. Notepad3 based on code from Notepad2 and MiniPath on code from metapath. Download Notepad3:
-* 【2026-09-23】[lyssadev / Spotilol](https://github.com/lyssadev/Spotilol) - A android app that wraps Spotify's web player with built-in adblocker
-
-### Html
-
-* 【2026-09-23】[zouzhekang / YJYpaper](https://github.com/zouzhekang/YJYpaper) - 一个用来记录武汉大学杨景媛论文问题的仓库
-
-### Css
-
-* 【2026-09-23】[NilverTI / Web-Flores](https://github.com/NilverTI/Web-Flores) - Codigo de flores amarillas para regalar / enviar a tu novia
-
-### Unknown
-
-* 【2026-09-23】[harsh-bothra / learn365](https://github.com/harsh-bothra/learn365) - This repository is about @harshbothra_'s 365 days of Learning Tweets & Mindmaps collection.
