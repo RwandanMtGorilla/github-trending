@@ -1296,24 +1296,3 @@
 ### C++
 
 * 【2026-09-25】[Themaister / pyrowave](https://github.com/Themaister/pyrowave)
-
-## 2026-09-24
-
-### Javascript
-
-* 【2026-09-24】[elidickinson / pi-claude-bridge](https://github.com/elidickinson/pi-claude-bridge) - Claude Code inference provider for Pi. Allows the use of Claude Code of Pro/Max subscriptions from pi.dev.
-
-### C
-
-* 【2026-09-24】[StuckAtPrototype / AirCube](https://github.com/StuckAtPrototype/AirCube)
-
-### C++
-
-* 【2026-09-24】[mod-playerbots / mod-playerbots](https://github.com/mod-playerbots/mod-playerbots) - AzerothCore Playerbots Module
-
-### C#
-
-* 【2026-09-24】[RayrenSX / iPhoneMirror](https://github.com/RayrenSX/iPhoneMirror) - Local Windows iPhone/iPad mirroring over USB and AirPlay with D3D11 preview, multi-device sessions, OBS output, and a standalone driver manager.
-* 【2026-09-24】[tgeorgiadis / quiver-launcher](https://github.com/tgeorgiadis/quiver-launcher) - A modern launcher for downloading, installing, and running apps from GitHub and GitLab releases. With a personal library, community catalog subscriptions, and flexible filtering.
-* 【2026-09-24】[SafeExamBrowser / seb-win-refactoring](https://github.com/SafeExamBrowser/seb-win-refactoring) - Safe Exam Browser for Windows.
-* 【2026-09-24】[marcussacana / DirectPackageInstaller](https://github.com/marcussacana/DirectPackageInstaller) - Send Direct PKG URLs to your PS4
