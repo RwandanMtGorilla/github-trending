@@ -8,6 +8,11 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-25
+
+### Javascript
+
+* 【2026-11-25】[qqxpee / antigravity2-cn](https://github.com/qqxpee/antigravity2-cn) - 🚀 Antigravity 2.0 Chinese Localization Suite & Injector. 专为 2.0 新版 Electron 架构量身定制的零依赖中文汉化包。基于 ASAR 物理层动态包注入机制，完美汉化界面、系统菜单、任务栏托盘及设置面板，支持一键极速安装与无痕还原。
 ## 2026-11-22
 
 ### Shell
@@ -1273,26 +1278,3 @@
 ### Html
 
 * 【2026-09-26】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
-
-## 2026-09-25
-
-### All language
-
-* 【2026-09-25】[FxEmbed / FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
-* 【2026-09-25】[julyx10 / lap](https://github.com/julyx10/lap) - An offline-first photo manager for large local libraries
-
-### Python
-
-* 【2026-09-25】[aayushch / laya](https://github.com/aayushch/laya) - Laya is an open-source, local-first AI notification command center that aggregates Slack, Gmail, GitHub, Jira, Notion, Outlook, Calendar (and more) notifications using local LLMs via Ollama and LM Studio. Supports cloud models via BYOK.
-
-### Javascript
-
-* 【2026-09-25】[androoAGI / starnet](https://github.com/androoAGI/starnet) - A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run.
-
-### Go
-
-* 【2026-09-25】[getprobo / probo](https://github.com/getprobo/probo) - Open source solutions for SOC2, GDPR, and ISO27001
-
-### C++
-
-* 【2026-09-25】[Themaister / pyrowave](https://github.com/Themaister/pyrowave)
