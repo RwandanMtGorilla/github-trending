@@ -8,6 +8,17 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-26
+
+### Python
+
+* 【2026-11-26】[samuelgursky / davinci-resolve-mcp](https://github.com/samuelgursky/davinci-resolve-mcp) - MCP server integration for DaVinci Resolve Studio
+### C
+
+* 【2026-11-26】[CroqueMr / libreelec-CB1](https://github.com/CroqueMr/libreelec-CB1) - LibreELEC with High Quality Dolby Vision & HDR10+ support for Intel, AMD, Nvidia, and more
+### Html
+
+* 【2026-11-26】[paullarionov / claude-certified-architect](https://github.com/paullarionov/claude-certified-architect) - This repository contains study materials for the **Claude Certified Architect — Foundations** certification.
 ## 2026-11-25
 
 ### Javascript
@@ -1264,17 +1275,3 @@
 ### C#
 
 * 【2026-09-27】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
-
-## 2026-09-26
-
-### All language
-
-* 【2026-09-26】[derv82 / wifit3](https://github.com/derv82/wifit3) - Wifite but USB-only & cross-platform.
-
-### Python
-
-* 【2026-09-26】[Alban1911 / Rose](https://github.com/Alban1911/Rose) - League, unlocked.
-
-### Html
-
-* 【2026-09-26】[rajhodedara / live-sport-plugin](https://github.com/rajhodedara/live-sport-plugin) - A robust live sports scraping and streaming plugin designed for media centers. Aggregates real-time feeds and delivers seamless IPTV playback.
