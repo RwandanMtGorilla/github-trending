@@ -8,6 +8,11 @@
 
 2026 年 3 月 22 日至 26 日、3 月 28 日至 11 月 6 日期间的趋势记录根据 [aneasystone/github-trending](https://github.com/aneasystone/github-trending/tree/9f6b51546b910af029105058126bc3cff23f68d8) 和 [bonfy/github-trending](https://github.com/bonfy/github-trending/tree/148f3e3c2aa827fc05c4fab78a9e92e1e95b5320) 的历史榜单补录。
 
+## 2026-11-27
+
+### Go
+
+* 【2026-11-27】[egoist / mygo](https://github.com/egoist/mygo) - Develop desktop apps with native UI or web frontend in Go
 ## 2026-11-26
 
 ### Python
@@ -1265,13 +1270,3 @@
 ### Html
 
 * 【2026-09-28】[promptpirate-x / discord-id-bypass-tool](https://github.com/promptpirate-x/discord-id-bypass-tool) - A verified tool that works on any potato computer that will let you bypass discord verification
-
-## 2026-09-27
-
-### All language
-
-* 【2026-09-27】[mobile-next / mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
-
-### C#
-
-* 【2026-09-27】[nefarius / DsHidMini](https://github.com/nefarius/DsHidMini) - Virtual HID Mini-user-mode-driver for Sony DualShock 3 Controllers
